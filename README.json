@@ -1,0 +1,5145 @@
+{
+  "items": [
+    {
+      "description": "Endangered languages are human languages that are in danger of extinction. This list also encompasses minority languages - languages which are spoken by a stable, but small, population (for example, Maltese or Hawai'ian); and low- or under-resourced languages, which may be spoken by a large population but are under-represented digitally (for instance, Quechua). These languages share certain characteristics in common; the most pertinent is sparse data and a lack of resources, ranging from spell-checkers to grammars to machine translation corpora. Other under-resourced languages that do not fall under this list include constructed languages (for instance, Klingon or Na'vi), computer languages (for instance, Javascript or Lua), and extinct languages that are so sparse as to be rendered computationally irrelevant for most purposes (for instance, Tocharian).\nOpen Source \"promotes a universal access via a free license to a product's design or blueprint, and universal redistribution of that design or blueprint, including subsequent improvements to it by anyone.\" (Wiki). This is important because money and resources allocated towards a language or project that are not open source is spent at the expense of possible extensibility elsewhere.\nThis list used to be named . It was renamed to reflect that endangerment is a loaded term that both may not reflect the views of language communities speaking minority languages. focuses this list on a lack of digital resources compared to other, high resourced languages.\nTools which are built for these languages are not included (unless relevant for dialects or variants): Arabic, Bulgarian, Catalan, Chinese, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, Flemish, French, German, Greek, Hebrew, Hungarian, Indonesian, Italian, Japanese, Korean, Latvian, Lithuanian, Norwegian, Norwegian (Bokmål), Persian, Polish, Portuguese, Romanian, Russian, Serbian, Slovak, Slovenian, Spanish, Swedish, Thai, Turkish, Ukrainian, Valencian, Vietnamese. This list comes from the list of most popular content languages for websites, on this Wikipedia page. Other metrics could be used - if you have another one, please suggest it!\nThis list is particularly good at one thing; showing the kinds of tools that exist in the field, generically. However, for in depth research into a specific language or tool suite, it does not perform exceptionally well. For instance, listing all of the Firefox language packs or Apertium language modules for each low resource language would be unhelpful, as would be including all of the tools available for Basque noted in the ACL Wiki, which would mainly mean cataloguing tools through the IXA group, some of which are open source, and some are not. Instead, view this list as a starting point for more research.\nLooking for resources for code languages? Take a look at the awesome lists collection.",
+      "items": [],
+      "title": "Definitions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NLTK",
+          "description": "Python Natural Language Tool Kit. NLTK Source http://www.nltk.org/.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T06:45:44Z",
+            "owner": "nltk",
+            "repo": "nltk",
+            "stars": 14695
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Indic NLP Library",
+          "description": "Python library for common text processing and NLP tasks in Indian languages including tokenization, normalization, and transliteration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-07T07:14:41Z",
+            "owner": "anoopkunchukuttan",
+            "repo": "indic_nlp_library",
+            "stars": 642
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IndicTrans2",
+          "description": "Open-source translation models for all 22 scheduled languages of India.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-03T07:05:20Z",
+            "owner": "AI4Bharat",
+            "repo": "IndicTrans2",
+            "stars": 458
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CorpusTools",
+          "description": "Phonological CorpusTools http://phonologicalcorpustools.github.io/CorpusTools/.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-24T00:03:08Z",
+            "owner": "PhonologicalCorpusTools",
+            "repo": "CorpusTools",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iLanguage",
+          "description": "A semi-unsupervised language independent morphological analyzer useful for stemming unknown language text, or getting a rough estimate of possible parses for morphemes in a word. Input: a corpus. Uses compression, maximum entropy and fieldlinguistics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-11-28T05:10:12Z",
+            "owner": "iLanguage",
+            "repo": "iLanguage",
+            "stars": 22
+          }
+        }
+      ],
+      "title": "Generic Repositories"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Single language lexicography projects and utilities"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Tesseract.js",
+          "description": "Pure Javascript OCR for 62 Languages 📖🎉🖥 http://tesseract.projectnaptha.com/.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-17T04:19:12Z",
+            "owner": "naptha",
+            "repo": "tesseract.js",
+            "stars": 38624
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fastText",
+          "description": "Library for fast text representation and classification.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2024-03-22T21:40:44Z",
+            "owner": "facebookresearch",
+            "repo": "fastText",
+            "stars": 26540
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NLTK",
+          "description": "Python Natural Language Tool Kit. NLTK Source http://www.nltk.org/.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T06:45:44Z",
+            "owner": "nltk",
+            "repo": "nltk",
+            "stars": 14695
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Natural",
+          "description": "Javascript general natural language facilities for node.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-22T21:53:54Z",
+            "owner": "NaturalNode",
+            "repo": "natural",
+            "stars": 10879
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wavesurfer.js",
+          "description": "Navigable waveform built on Web Audio and Canvas https://wavesurfer-js.org/ (Also has an ELAN plugin).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T05:53:53Z",
+            "owner": "katspaugh",
+            "repo": "wavesurfer.js",
+            "stars": 10371
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stanford CoreNLP",
+          "description": "Stanford CoreNLP: A Java suite of core NLP tools. https://stanfordnlp.github.io/CoreNLP/.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-28T21:39:32Z",
+            "owner": "stanfordnlp",
+            "repo": "CoreNLP",
+            "stars": 10104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stanza",
+          "description": "Stanford NLP group's shared Python tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T21:55:59Z",
+            "owner": "stanfordnlp",
+            "repo": "stanza",
+            "stars": 7861
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Franc",
+          "description": "Natural language detection https://wooorm.com/franc/.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-12T22:48:23Z",
+            "owner": "wooorm",
+            "repo": "franc",
+            "stars": 4407
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hunspell",
+          "description": "Spell checker and morphological analyzer library and program designed for languages with rich morphology and complex word compounding or character encoding.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T20:10:40Z",
+            "owner": "hunspell",
+            "repo": "hunspell",
+            "stars": 2559
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "langid.py",
+          "description": "Stand-alone language identification system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-01-01T10:49:30Z",
+            "owner": "saffsd",
+            "repo": "langid.py",
+            "stars": 2464
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gaia",
+          "description": "Gaia is a HTML5-based Phone UI for the Boot 2 Gecko Project. NOTE: For details of what branches are used for what releases, see the wiki. If you're interested in setting up a keyboard in new language, see this.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-07-05T07:06:28Z",
+            "owner": "mozilla-b2g",
+            "repo": "gaia",
+            "stars": 2098
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mosesdecoder",
+          "description": "Moses, the machine translation system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Roff",
+            "last_commit": "2025-03-28T17:01:39Z",
+            "owner": "moses-smt",
+            "repo": "mosesdecoder",
+            "stars": 1625
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenNLP",
+          "description": "The Apache OpenNLP library is a machine learning based toolkit for the processing of natural language text. Website.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T10:38:25Z",
+            "owner": "apache",
+            "repo": "opennlp",
+            "stars": 1603
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dataverse",
+          "description": "A data repository framework to share and publish research data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T21:36:57Z",
+            "owner": "IQSS",
+            "repo": "dataverse",
+            "stars": 1067
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "l20n.js",
+          "description": "L20n reinvents software localization. Users should be able to benefit from the entire expressive power of natural languages. L20n keeps simple things simple, and at the same time makes complex things possible. This is the JavaScript implementation of L20n. http://l20n.org.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-04-16T20:11:20Z",
+            "owner": "l20n",
+            "repo": "l20n.js",
+            "stars": 891
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "epitran",
+          "description": "Grapheme to Phoneme conversion (G2P) for many low-resource languages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-18T20:11:28Z",
+            "owner": "dmort27",
+            "repo": "epitran",
+            "stars": 830
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fast_align",
+          "description": "Simple, fast unsupervised word aligner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-07-19T17:12:12Z",
+            "owner": "clab",
+            "repo": "fast_align",
+            "stars": 769
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stanford CoreNLP Python",
+          "description": "Python wrapper for Stanford CoreNLP tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-03-14T10:34:59Z",
+            "owner": "dasmith",
+            "repo": "stanford-corenlp-python",
+            "stars": 610
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "brown-cluster",
+          "description": "C++ implementation of the Brown word clustering algorithm.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-09-10T05:05:39Z",
+            "owner": "percyliang",
+            "repo": "brown-cluster",
+            "stars": 429
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "enchant",
+          "description": "enchant spellchecking library https://abiword.github.io/enchant/.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2026-07-13T11:15:13Z",
+            "owner": "rrthomas",
+            "repo": "enchant",
+            "stars": 398
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wikipron",
+          "description": "- retrives IPA pronunciations for Wiktionary entries",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-23T14:41:22Z",
+            "owner": "CUNY-CL",
+            "repo": "wikipron",
+            "stars": 372
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "long-press",
+          "description": "jQuery plugin to ease the writing of accented or rare characters. http://toki-woki.net/lab/long-press/.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-10-22T07:50:02Z",
+            "owner": "quentint",
+            "repo": "long-press",
+            "stars": 304
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UniversalDependencies docs",
+          "description": "Universal Dependencies online documentation http://universaldependencies.org/docs/.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-13T20:07:13Z",
+            "owner": "UniversalDependencies",
+            "repo": "docs",
+            "stars": 297
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "giza-pp",
+          "description": "GIZA++ is a statistical machine translation toolkit that is used to train IBM Models 1-5 and an HMM word alignment model. This package also contains the source for the mkcls tool which generates the word classes necessary for training some of the alignment models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-11-18T20:12:44Z",
+            "owner": "moses-smt",
+            "repo": "giza-pp",
+            "stars": 273
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xdxf_makedict",
+          "description": "XDXF dictionary format and \"makedict\" dictionary converting software (official repository).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-05-20T12:35:11Z",
+            "owner": "soshial",
+            "repo": "xdxf_makedict",
+            "stars": 247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UniversalDependencies tools",
+          "description": "Various utilities for processing the data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2026-08-13T09:29:01Z",
+            "owner": "UniversalDependencies",
+            "repo": "tools",
+            "stars": 220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GlotLID",
+          "description": "Fasttext language identification with support for more than 2000 labels.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-15T04:05:52Z",
+            "owner": "cisnlp",
+            "repo": "GlotLID",
+            "stars": 214
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "morfessor",
+          "description": "Morfessor is a tool for unsupervised and semi-supervised morphological segmentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-10-06T14:39:42Z",
+            "owner": "aalto-speech",
+            "repo": "morfessor",
+            "stars": 207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jQuery.IME",
+          "description": "jQuery Input Method Editor used on Wikipedia",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T20:58:22Z",
+            "owner": "wikimedia",
+            "repo": "jquery.ime",
+            "stars": 190
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cdec",
+          "description": "Decoder, aligner, and model optimizer for statistical machine translation and other structured prediction models based on (mostly) context-free formalisms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-05-26T22:59:40Z",
+            "owner": "redpony",
+            "repo": "cdec",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mgiza",
+          "description": "A word alignment tool based on famous GIZA++, extended to support multi-threading, resume training and incremental training.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-05-12T21:08:07Z",
+            "owner": "moses-smt",
+            "repo": "mgiza",
+            "stars": 167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lingpy",
+          "description": "LingPy: Python library for quantitative tasks in historical linguistics http://lingpy.org.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-27T09:29:51Z",
+            "owner": "lingpy",
+            "repo": "lingpy",
+            "stars": 146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clam",
+          "description": "Computational Linguistics Application Mediator -- Quickly turn NLP applications into RESTful webservices with a web-application front-end. You provide a specification of your command line application, its input, output and parameters, and CLAM wraps around your application to form a fully fledged RESTful webservice.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-29T07:58:43Z",
+            "owner": "proycon",
+            "repo": "clam",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CorpusTools",
+          "description": "Phonological CorpusTools http://phonologicalcorpustools.github.io/CorpusTools/.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-24T00:03:08Z",
+            "owner": "PhonologicalCorpusTools",
+            "repo": "CorpusTools",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FieldWorks",
+          "description": "FieldWorks is a suite of software tools for language and cultural data, with support for complex scripts. https://software.sil.org/fieldworks/ FieldWorks Language Explorer (or FLEx, for short) is designed to help field linguists perform many common language documentation and analysis tasks. It can help you: elicit and record lexical information, create dictionaries, interlinearize texts, analyze discourse features, study morphology.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T22:55:34Z",
+            "owner": "sillsdev",
+            "repo": "FieldWorks",
+            "stars": 111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mukurtucms",
+          "description": "The Mukurtu Content Management System (CMS) is an Internet- based platform designed to enable archiving of digital cultural resources",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-11-19T20:42:08Z",
+            "owner": "MukurtuCMS",
+            "repo": "mukurtucms",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyDelphin",
+          "description": "Python libraries for DELPH-IN (Friendly Fork).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-31T05:26:46Z",
+            "owner": "delph-in",
+            "repo": "pydelphin",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "icu-dotnet",
+          "description": "C# wrapper for ICU4C.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-10T06:31:06Z",
+            "owner": "sillsdev",
+            "repo": "icu-dotnet",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "liblevenshtein",
+          "description": "A library for generating Finite State Transducers based on Levenshtein Automata.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-10-19T09:34:54Z",
+            "owner": "vinary-tree",
+            "repo": "liblevenshtein",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "giellakbd-ios",
+          "description": "An open source reimplementation of Apple's native iOS keyboard with a specific focus on support for localised keyboards. Used by kbdgen (see elsewhere on this page).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-06-30T15:57:35Z",
+            "owner": "divvun",
+            "repo": "giellakbd-ios",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wikt2dict",
+          "description": "Wiktionary parser tool for many language editions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-17T11:39:48Z",
+            "owner": "juditacs",
+            "repo": "wikt2dict",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "discoursegraphs",
+          "description": "Python-based tool to convert and merge multilayer annotated linguistic data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-14T11:29:46Z",
+            "owner": "arne-cl",
+            "repo": "discoursegraphs",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RBGParser",
+          "description": "Graph-based Dependency Parser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2016-01-25T16:42:55Z",
+            "owner": "taolei87",
+            "repo": "RBGParser",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libpalaso",
+          "description": "Palaso Library: A set of .Net libraries useful for developers of Language Software.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T22:07:20Z",
+            "owner": "sillsdev",
+            "repo": "libpalaso",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mythes",
+          "description": "MyThes is a simple thesaurus that uses a structured text data file and an index file with binary search to lookup words and phrases and return information on part of speech, meanings, and synonyms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-17T18:59:48Z",
+            "owner": "hunspell",
+            "repo": "mythes",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SyllabiPy",
+          "description": "Python interface for universal syllabification algorithms",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-25T13:25:19Z",
+            "owner": "henchc",
+            "repo": "syllabipy",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BloomDesktop",
+          "description": "Bloom Desktop is a hybrid c#/javascript/html/css Windows application that dramatically \"lowers the bar\" for language communities who want books in their own languages. Bloom delivers a low-training, high-output system where mother tongue speakers and their advocates work together to foster both community authorship and access to external materia… https://bloomlibrary.org/.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T22:53:47Z",
+            "owner": "BloomBooks",
+            "repo": "BloomDesktop",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "4lang",
+          "description": "Concept dictionary using Eilenberg machines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-04T20:49:58Z",
+            "owner": "kornai",
+            "repo": "4lang",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Machine",
+          "description": "Machine is a natural language processing library for .NET that is focused on providing tools for processing resource-poor languages (used by FLEx).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T06:15:21Z",
+            "owner": "sillsdev",
+            "repo": "machine",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pepper",
+          "description": "Pepper is a pluggable, Java-based, open source converter framework for linguistic data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "XSLT",
+            "last_commit": "2025-01-03T19:24:44Z",
+            "owner": "korpling",
+            "repo": "pepper",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TECkit",
+          "description": "A Text Encoding Conversion toolkit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T22:33:27Z",
+            "owner": "silnrsi",
+            "repo": "teckit",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cog",
+          "description": "Cog is a tool for comparing languages using lexicostatistics and comparative linguistics techniques. It can be used to automate much of the process of comparing word lists from different language varieties. http://sillsdev.github.io/cog/.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-10-13T17:57:07Z",
+            "owner": "sillsdev",
+            "repo": "cog",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hundict",
+          "description": "bilingual dictionary extractor from parallel corpora.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2014-07-03T10:58:13Z",
+            "owner": "zseder",
+            "repo": "hundict",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kbdgen",
+          "description": "Generate keyboards and keyboard layouts for Windows, macOS, X11, iOS, Android and Chrome, from a single, simple yaml file. Also registers languages unknown to Windows, so that after installation, there is a correct and robust association between the designated BCP 47 code (including full support for ISO 639-3) and installed language tools such as keyboards, spelling checkers and other tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-04T12:29:26Z",
+            "owner": "divvun",
+            "repo": "kbdgen",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iLanguage",
+          "description": "A semi-unsupervised language independent morphological analyzer useful for stemming unknown language text, or getting a rough estimate of possible parses for morphemes in a word. Input: a corpus. Uses compression, maximum entropy and fieldlinguistics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-11-28T05:10:12Z",
+            "owner": "iLanguage",
+            "repo": "iLanguage",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "norma",
+          "description": "A tool for automatic spelling normalization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-01-18T11:32:49Z",
+            "owner": "comphist",
+            "repo": "norma",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "alignment-with-openfst",
+          "description": "This is an implementation of the CRF autoencoder framework for four tasks: bitext word alignment, part-of-speech tagging, code switching, dependency parsing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2016-12-09T17:42:36Z",
+            "owner": "ldmt-muri",
+            "repo": "alignment-with-openfst",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "huntag",
+          "description": "a sequential tagger for NLP using Maximum Entropy Learning and Hidden Markov Models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-01-18T08:52:12Z",
+            "owner": "recski",
+            "repo": "HunTag",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lex4All",
+          "description": "pronunciation LEXicons for Any Low-resource Language http://lex4all.github.io/lex4all/.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-07-14T00:35:31Z",
+            "owner": "lex4all",
+            "repo": "lex4all",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nabu",
+          "description": "nabu is a digital media item management system that provides a catalog of audio and video items, metadata for these items, and information about the workflow status of the items. www.paradisec.org.au",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-10T05:42:17Z",
+            "owner": "paradisec-archive",
+            "repo": "nabu",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pressagio",
+          "description": "Pressagio is a library that predicts text based on n-gram models. For example, you can send a string and the library will return the most likely word completions for the last token in the string.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-11-18T11:49:47Z",
+            "owner": "Poio-NLP",
+            "repo": "pressagio",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CTK",
+          "description": "Built around LDC's champollion sentence aligner kernel, Champollion Tool Kit (CTK) aims to providing ready-to-use parallel text sentence alignment tools for as many language pairs as possible. (Original project is on SourceForge: http://champollion.sourceforge.net).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2016-03-14T10:22:28Z",
+            "owner": "LowResourceLanguages",
+            "repo": "champollion",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bible-corpus-tools",
+          "description": "A collection of tools for reading/processing the multilingual Bible corpus.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-10-10T13:48:56Z",
+            "owner": "christos-c",
+            "repo": "bible-corpus-tools",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gramadóir",
+          "description": "Grammar checking engine that is designed for the rapid development of grammar checkers for minority languages and other languages with limited computational resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2026-03-30T14:49:13Z",
+            "owner": "kscanne",
+            "repo": "gramadoir",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dative",
+          "description": "A single-page application that interacts with multiple linguistic fieldwork web service databases. Website.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CoffeeScript",
+            "last_commit": "2023-04-01T08:41:16Z",
+            "owner": "dativebase",
+            "repo": "dative",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hfst-ospell",
+          "description": "HFST spell checker library and command line tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-02-20T11:03:32Z",
+            "owner": "hfst",
+            "repo": "hfst-ospell",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Salt",
+          "description": "A graph-based model to store and manipulate linguistic data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "XSLT",
+            "last_commit": "2023-03-27T16:37:50Z",
+            "owner": "korpling",
+            "repo": "salt",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "twitter_langid",
+          "description": "A hierarchical character-word neural network for language identification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-01-18T22:18:58Z",
+            "owner": "ajaech",
+            "repo": "twitter_langid",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "divvunspell",
+          "description": "(below) rewritten in Rust, for robust concurrency and memory management. Is in practical use about 10x faster than . It uses the same zhfst files as , which are available for all languages in the GiellaLT GitHub org (see below).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-23T22:20:53Z",
+            "owner": "divvun",
+            "repo": "divvunspell",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "giellakbd-android",
+          "description": "A fork of LatinIME (by Google for Android), targeting marginalised languages that also deserve first-class status on mobile operating systems. Used by kbdgen (see elsewhere on this page).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-03T15:17:57Z",
+            "owner": "divvun",
+            "repo": "giellakbd-android",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TexNLP",
+          "description": "TexNLP: Texas Natural Language Processing tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2012-01-14T20:26:47Z",
+            "owner": "utcompling",
+            "repo": "texnlp",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hfst-optimized-lookup",
+          "description": "HFST optimized-lookup standalone library and command line tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2018-02-27T13:14:54Z",
+            "owner": "hfst",
+            "repo": "hfst-optimized-lookup",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nplm",
+          "description": "Fork of https://nlg.isi.edu/software/nplm/ with some efficiency tweaks and adaptation for use in mosesdecoder.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2015-09-03T17:15:56Z",
+            "owner": "moses-smt",
+            "repo": "nplm",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DLTK",
+          "description": "Deutsch Language Tool Kit. More.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2015-08-31T11:53:00Z",
+            "owner": "alvations",
+            "repo": "DLTK",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Glottolog data",
+          "description": "Glottolog provides comprehensive reference information for the world's languages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2017-11-23T13:24:15Z",
+            "owner": "glottolog",
+            "repo": "glottolog-legacy",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Secwepemc-Facebook",
+          "description": "Translate Facebook into unsupported languages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Gettext Catalog",
+            "last_commit": "2015-03-11T19:03:43Z",
+            "owner": "kscanne",
+            "repo": "secwepemc-facebook",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "convertextract",
+          "description": "Convert Excel, Word and PowerPoint files with non-Unicode text (like text requiring SIL fonts) into Unicode, while preserving original file's formatting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-09-08T22:23:02Z",
+            "owner": "roedoejet",
+            "repo": "convertextract",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "phonology-assistant",
+          "description": "Phonology Assistant is a discovery tool. Provided with a corpus of phonetic data, it automatically charts the sounds and through its searching capabilities, helps a user discover and test the rules of sound in a language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-02-19T14:46:35Z",
+            "owner": "sillsdev",
+            "repo": "phonology-assistant",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "salm",
+          "description": "SALM: Suffix Array and its Applications in Empirical Language Processing by Joy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2017-12-22T16:02:03Z",
+            "owner": "moses-smt",
+            "repo": "salm",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SeedLing",
+          "description": "Building and Using A Seed Corpus for the Human Language Project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-02-09T01:03:16Z",
+            "owner": "alvations",
+            "repo": "SeedLing",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pdfdroplet",
+          "description": "Library and GUI for imposition of PDF pages (e.g. 2-up) http://software.sil.org/pdfdroplet/.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-03-02T22:58:34Z",
+            "owner": "sillsdev",
+            "repo": "pdfdroplet",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "str2ipa",
+          "description": "Pronunciation dictionaries for languages with close-to-phonetic writing systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2015-10-29T16:54:13Z",
+            "owner": "ytsvetko",
+            "repo": "str2ipa",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "divvun-gramcheck",
+          "description": "This program does FST lookup on forms specified as Constraint Grammar format readings, and looks up error-tags in an XML file with human-readable messages. It is meant to be used as a late stage of a grammar checker pipeline.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-10T14:28:02Z",
+            "owner": "divvun",
+            "repo": "libdivvun",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "low-resource-pos-tagging-2014",
+          "description": "Low-Resource POS-Tagging: 2014",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2016-02-25T00:42:45Z",
+            "owner": "dhgarrette",
+            "repo": "low-resource-pos-tagging-2014",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SegParser",
+          "description": "Randomized Greedy algorithm for joint segmentation, POS tagging and dependency parsing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2015-11-29T05:31:19Z",
+            "owner": "yuanzh",
+            "repo": "SegParser",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ToolsForFieldLinguistics",
+          "description": "A collection of scripts and recipes for linguistics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-23T14:01:43Z",
+            "owner": "cesine",
+            "repo": "ToolsForFieldLinguistics",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webcorpus",
+          "description": "This project is a collection of scripts and programs for creating a webcorpus from crawled data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2015-03-30T13:03:25Z",
+            "owner": "zseder",
+            "repo": "webcorpus",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FwDocumentation",
+          "description": "Developer documentation for FieldWorks (software tools for language and cultural data, with support for complex scripts).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-13T20:00:52Z",
+            "owner": "sillsdev",
+            "repo": "FwDocumentation",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gv-crawl",
+          "description": "Global Voices bitext crawler for creating parallel corpora.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2014-10-20T06:35:14Z",
+            "owner": "vchahun",
+            "repo": "gv-crawl",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "old-pyramid",
+          "description": "Online Linguistic Database migrated to the Pyramid framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-23T00:57:25Z",
+            "owner": "dativebase",
+            "repo": "old-pyramid",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ops-devbox",
+          "description": "Ansible playbook for a (linux) developer machine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-13T18:39:07Z",
+            "owner": "sillsdev",
+            "repo": "ops-devbox",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "panlex-tools",
+          "description": "This package contains scripts to transform lexical resources into a format suitable for importing into PanLex. Documentation may be found at https://dev.panlex.org.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-08T05:57:15Z",
+            "owner": "longnow",
+            "repo": "panlex-tools",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "divvun-keyboard",
+          "description": "keyboard apps for iOS and Android with keyboard layouts for indigenous and minority languages",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-04T17:47:18Z",
+            "owner": "divvun",
+            "repo": "divvun-keyboard",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "exsite9",
+          "description": "ExSite9 is a desktop application that was built to facilitate researchers easily and quickly tagging their data files with descriptive metadata and subsequently packaging their data files and associated metadata ready for submission to a repository. ExSite9 also allows for the structural organisation of said files within actually moving their physical location on your local file storage; allowing you to correctly organise your files and metadata ready for packaging.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2024-01-16T12:15:20Z",
+            "owner": "IntersectAustralia",
+            "repo": "exsite9",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MacVoikko",
+          "description": "An OS X spelling server based on Voikko.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2015-01-08T20:39:59Z",
+            "owner": "bnavetta",
+            "repo": "MacVoikko",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pathway",
+          "description": "Preparing language data for publication.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-05-24T17:29:36Z",
+            "owner": "sillsdev",
+            "repo": "pathway",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SayMore",
+          "description": "A tool for making common Language Documentation tasks such as keeping all the resulting files and meta data organized, converting files to archive formats, and transcription. Source.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T22:31:24Z",
+            "owner": "sillsdev",
+            "repo": "saymore",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "icu4c",
+          "description": "Mirror of svn project at http://source.icu-project.org/repos/icu/icu/. The FieldWorks branch has some FieldWorks specific enhancements.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2018-07-09T08:12:42Z",
+            "owner": "sillsdev",
+            "repo": "icu4c-svn",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "node-panlex",
+          "description": "node.js client for PanLex.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-04-23T15:03:44Z",
+            "owner": "longnow",
+            "repo": "node-panlex",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TeraDict",
+          "description": "Translate English words into hundreds of languages!.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-05-03T22:43:45Z",
+            "owner": "longnow",
+            "repo": "TeraDict",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Toney",
+          "description": "Tone Classification Software.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2014-09-21T10:16:33Z",
+            "owner": "langtech",
+            "repo": "toney",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tsammalex data",
+          "description": "Tsammalex is a multilingual lexical database on plants and animals.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2018-06-25T11:52:24Z",
+            "owner": "tsammalex",
+            "repo": "tsammalex",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chorus",
+          "description": "A version control system designed to enable workflows appropriate for typical language development teams who are geographically distributed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T22:52:58Z",
+            "owner": "sillsdev",
+            "repo": "chorus",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grind",
+          "description": "An InDesign 5.5 plug-in designed allow graphite enabled smart fonts to be used in Adobe InDesign. This project integrates SIL's Graphite 2 smart font technology with our own implementation of a paragraph composer plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-07-09T09:48:38Z",
+            "owner": "sillsdev",
+            "repo": "grind",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Make-extensions",
+          "description": "Scripts for generating hunspell spellchecking extensions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2017-12-04T13:00:32Z",
+            "owner": "kscanne",
+            "repo": "make-extensions",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Skype in your language",
+          "description": "Translate Skype into unsupported languages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2015-12-02T12:51:20Z",
+            "owner": "akerbeltz",
+            "repo": "skypeinyourlanguage",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BloomLibrary",
+          "description": "Bloom Library Single Page App, using AngularJS & Bootstrap, Parse.com backend. https://bloomlibrary.org/.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-02-09T22:30:14Z",
+            "owner": "BloomBooks",
+            "repo": "LegacyBloomLibrary",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Desmeme",
+          "description": "Database and tools for exploring linguistic templates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-05T20:35:50Z",
+            "owner": "jcgood",
+            "repo": "desmeme",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ELDER: Endangered Language Data Electronic Repository",
+          "description": "Endangered Language Data Electronic Repository: A web-based ontologically-compliant collaborative linguistic data cataloguing tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2011-12-12T03:11:34Z",
+            "owner": "elderonline",
+            "repo": "ELDER",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "old-webapp",
+          "description": "Online Linguistic Database --- software for creating web applications to collaboratively document languages.http://www.onlinelinguisticdatabase.org.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2014-12-29T23:57:07Z",
+            "owner": "jrwdunham",
+            "repo": "old-webapp",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pdsc-collection-viewer",
+          "description": "Paradisec Collection Browser",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-09-26T16:47:08Z",
+            "owner": "marcolarosa",
+            "repo": "pdsc-collection-viewer",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLM Proxy Babylon",
+          "description": "An open-source proxy that bridges the quality gap for low-resource languages in LLMs by selectively pre-translating prompts to English at inference time. Measured quality improvements from 0.456 to 0.949 for Thai, with 70% token cost reduction. Supports AWS Bedrock and OpenAI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T02:53:20Z",
+            "owner": "tverney",
+            "repo": "llm-proxy-babylon",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FwSupportTools",
+          "description": "Additional tools for FieldWorks development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rich Text Format",
+            "last_commit": "2024-01-30T12:59:30Z",
+            "owner": "sillsdev",
+            "repo": "FwSupportTools",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koreksyon",
+          "description": "Tools for developing and implementing spell-checking and grammar-checking capabilities in low-resource languages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2015-08-22T19:29:35Z",
+            "owner": "reokatoa",
+            "repo": "koreksyon",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "morpholm",
+          "description": "Morphology-aware language models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2013-06-27T23:02:37Z",
+            "owner": "ldmt-muri",
+            "repo": "morpholm",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "teny",
+          "description": "Tools for low-resource machine translation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2012-10-17T21:13:21Z",
+            "owner": "vchahun",
+            "repo": "teny",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "translitit-engine",
+          "description": "A transliteration engine written in JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-04-26T08:39:49Z",
+            "owner": "gausby",
+            "repo": "translitit-engine",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tweet2learn",
+          "description": "An app to make it easier to use your native language on Twitter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2025-10-07T13:52:28Z",
+            "owner": "kscanne",
+            "repo": "tweet2learn",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "web-template",
+          "description": "This is a web-based template that may be used to present language learning resources to aid language revitalization efforts. It includes a talking dictionary, and a phrasicon, containing sentences and phrases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2015-02-27T07:37:02Z",
+            "owner": "eddersko",
+            "repo": "web-template",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bristol Uni MT Morphology tools",
+          "description": "This repo is a mirror of scripts previously available on http://www.cs.bris.ac.uk/Research/MachineLearning/Morphology/resources.jsp. Included: Ukwabelana - An open-source morphological Zulu corpus and EMMA: A Novel Evaluation Metric for Morphological Analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2015-11-08T15:50:31Z",
+            "owner": "LowResourceLanguages",
+            "repo": "bristol-mt-morphology",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LfMerge",
+          "description": "Send/Receive for languageforge.org.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-02T11:30:08Z",
+            "owner": "sillsdev",
+            "repo": "LfMerge",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lrl",
+          "description": "For work concerning low resource languages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2013-06-07T11:52:28Z",
+            "owner": "RichardLitt",
+            "repo": "lrl",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "morph-test",
+          "description": "A python script to run tests for generation and analysis of a morphological transducer built using the Giella infrastructure. Works with Hfst, Xerox' fst tools, and with Foma.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-22T10:29:42Z",
+            "owner": "divvun",
+            "repo": "morph-test",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OdtXslt",
+          "description": "Perform XSLT transform on contents of a package (such as ODT, Docx, etc.).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2017-06-27T21:23:21Z",
+            "owner": "sillsdev",
+            "repo": "OdtXslt",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OmegaT-hfst-tokenizer",
+          "description": "OmegaT-hfst-tokenizer provides fst-based tokenisation in OmegaT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-03-26T19:25:57Z",
+            "owner": "divvun",
+            "repo": "OmegaT-hfst-tokenizer",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sugali",
+          "description": "This is a legacy repository of the language identification project for many (many) languages project for the software project course, NLP projects for low-resource languages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-19T19:18:34Z",
+            "owner": "alvations",
+            "repo": "sugali",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "transcriber",
+          "description": "An HTML5 transcription tool for Aikuma",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-05-07T08:30:19Z",
+            "owner": "langtech",
+            "repo": "transcriber",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ArtOfReading",
+          "description": "Index and processing scripts related to the Art Of Reading illustration collection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-01-14T14:50:04Z",
+            "owner": "sillsdev",
+            "repo": "ArtOfReading",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "brain",
+          "description": "Neural networks in JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2014-03-10T04:02:52Z",
+            "owner": "FieldDB",
+            "repo": "brain",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cnminlangwebcollect",
+          "description": "Chinese minorities website languages detection and websites collection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-10-01T13:05:56Z",
+            "owner": "hyphenliu",
+            "repo": "cnminlangwebcollect",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hermitcrab",
+          "description": "HermitCrab.NET is a flexible morphological/phonological parser that takes an item-and-process approach.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-05-09T09:50:46Z",
+            "owner": "sillsdev",
+            "repo": "hermitcrab",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "myWorkSafe",
+          "description": "Smart & Simple Backup for Language Development Workers. http://software.sil.org/myworksafe/.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-09-17T22:49:31Z",
+            "owner": "sillsdev",
+            "repo": "myWorkSafe",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "old",
+          "description": "The Online Linguistic Database (OLD): software for linguistic fieldwork. http://www.onlinelinguisticdatabase.org.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-08-28T21:11:32Z",
+            "owner": "dativebase",
+            "repo": "old",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "paradigm",
+          "description": "PARADIGM is a .Net (C#) implementation of Joseph E. Grimes' 1983 work entitled \"Affix Positions and Cooccurrences: The PARADIGM Program\".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-14T07:34:27Z",
+            "owner": "sillsdev",
+            "repo": "paradigm",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PrimerPro",
+          "description": "The purpose of PrimerPro is to assist the literacy worker in the development of primers for a given language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-10-08T19:13:36Z",
+            "owner": "sillsdev",
+            "repo": "PrimerPro",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "solid",
+          "description": "Solid is a software tool that can be used to check, clean up, and convert Standard Format (e.g. Toolbox) lexicon data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-03-13T08:20:17Z",
+            "owner": "sillsdev",
+            "repo": "solid",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SuGarLike",
+          "description": "Language Identification for Low Resource Languages (by Susanne, Guy and Liling).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2014-07-24T12:54:19Z",
+            "owner": "alvations",
+            "repo": "SuGarLike",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wordbyword",
+          "description": "WordByWord is a free, open source, easy-to-use multimedia vocabulary trainer developed by Vera Ferreira, Peter Bouda, and Ricardo Filipe at CIDLeS with the support of the Foundation for Endangered Languages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2014-09-18T14:21:55Z",
+            "owner": "cidles",
+            "repo": "wordbyword",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ark-tweet-nlp",
+          "description": "CMU ARK Twitter Part-of-Speech Tagger (Fork).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2012-08-16T17:25:17Z",
+            "owner": "FieldDB",
+            "repo": "ark-tweet-nlp",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bayesline",
+          "description": "A Multinomial Bayesian Classification for Language Identification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-05-26T04:44:41Z",
+            "owner": "alvations",
+            "repo": "bayesline",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DataTags",
+          "description": "A system to assess the sensitivity and privacy risk of a dataset, and assign a tag to describe how the dataset must be transfered, stored and accessed. (Fork).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2014-11-11T20:35:15Z",
+            "owner": "FieldDB",
+            "repo": "DataTags",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepLearnToolbox",
+          "description": "Matlab/Octave toolbox for deep learning. Includes Deep Belief Nets, Stacked Autoencoders, Convolutional Neural Nets, Convolutional Autoencoders and vanilla Neural Nets. Each method has examples to get you started.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Matlab",
+            "last_commit": "2014-05-11T12:46:19Z",
+            "owner": "FieldDB",
+            "repo": "DeepLearnToolbox",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FwLocalizations",
+          "description": "Localizations for FieldWorks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T20:42:02Z",
+            "owner": "sillsdev",
+            "repo": "FwLocalizations",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hfst-ospell-js",
+          "description": "Node bindings for hfst-ospell.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2016-11-08T08:24:13Z",
+            "owner": "divvun",
+            "repo": "hfst-ospell-js",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ipa-help",
+          "description": "IPA Helps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Visual Basic",
+            "last_commit": "2017-12-27T20:11:23Z",
+            "owner": "sillsdev",
+            "repo": "ipa-help",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "itweets-geodata",
+          "description": "Geodata from Indigenous Tweets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-03-08T15:00:48Z",
+            "owner": "kscanne",
+            "repo": "itweets-geodata",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LEGO Unified Concepticon",
+          "description": "Material relating to the LEGO Unified Concepticon.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2013-07-17T14:20:59Z",
+            "owner": "jcgood",
+            "repo": "concepticon",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "moz-l10n-tiers",
+          "description": "Creates a pseudo-locale to evaluate string prioritization for l10n.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2013-11-22T21:01:22Z",
+            "owner": "kscanne",
+            "repo": "moz-l10n-tiers",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "octothorpe",
+          "description": "CouchDB-powered wiki thing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2013-05-03T17:46:39Z",
+            "owner": "FieldDB",
+            "repo": "octothorpe",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rosetta Pangloss",
+          "description": "The Rosetta Project's Pangloss system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2015-03-13T02:25:21Z",
+            "owner": "jcgood",
+            "repo": "rosetta-pangloss",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StandardFormatLib",
+          "description": "Standard Format Library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2015-04-16T07:03:33Z",
+            "owner": "sillsdev",
+            "repo": "StandardFormatLib",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Toolbox Scripts for ELAN",
+          "description": "Mirror of Alexander Koenig's Toolbox Scripts https://tla.mpi.nl/tools/tla-tools/elan/thirdparty/.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2015-01-08T22:51:51Z",
+            "owner": "RichardLitt",
+            "repo": "toolbox-scripts",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WSI4URLang",
+          "description": "Word Sense Induction (WSI) for Under-resourced Languages (URLang).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-10-30T09:56:42Z",
+            "owner": "m-nasiruddin",
+            "repo": "WSI4URLang",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Software"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Keyboard",
+          "description": "Virtual Keyboard using jQuery ~ https://mottie.github.io/Keyboard/.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-08-24T20:11:33Z",
+            "owner": "Mottie",
+            "repo": "Keyboard",
+            "stars": 1802
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keyboard layout editor",
+          "description": "Keyboard Layout Editor http://www.keyboard-layout-editor.com",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-09-17T01:15:06Z",
+            "owner": "ijprest",
+            "repo": "keyboard-layout-editor",
+            "stars": 1512
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keyman",
+          "description": "Keyman cross platform input methods. Keyman makes it possible for you to type in over 1,000 languages on Windows, iPhone, iPad, Android tablets and phones, and even instantly in your web browser. Website.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Pascal",
+            "last_commit": "2026-08-13T19:56:41Z",
+            "owner": "keymanapp",
+            "repo": "keyman",
+            "stars": 528
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "keyboardlayouteditor",
+          "description": "Keyboard Layout Editor https://code.google.com/archive/p/keyboardlayouteditor/.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-06-17T13:02:08Z",
+            "owner": "simos",
+            "repo": "keyboardlayouteditor",
+            "stars": 257
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keyboards",
+          "description": "Open Source Keyman keyboards.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-12T21:51:01Z",
+            "owner": "keymanapp",
+            "repo": "keyboards",
+            "stars": 203
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jQuery.IME",
+          "description": "jQuery Input Method Editor used on Wikipedia",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T20:58:22Z",
+            "owner": "wikimedia",
+            "repo": "jquery.ime",
+            "stars": 190
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kbdgen",
+          "description": "Generate keyboards and keyboard layouts for Windows, macOS, X11, iOS, Android and Chrome, from a single, simple yaml file. Also registers languages unknown to Windows, so that after installation, there is a correct and robust association between the designated BCP 47 code (including full support for ISO 639-3) and installed language tools such as keyboards, spelling checkers and other tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-04T12:29:26Z",
+            "owner": "divvun",
+            "repo": "kbdgen",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lipika-ime",
+          "description": "Input Method Engine (IME) for Mac OS X with built-in support for all Indic Languages.",
+          "children": []
+        }
+      ],
+      "title": "Keyboard Layout Configuration Helpers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "brat",
+          "description": "brat rapid annotation tool (brat) for online text annotation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-03T18:47:31Z",
+            "owner": "nlplab",
+            "repo": "brat",
+            "stars": 1875
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebAnno",
+          "description": "Web-based annotation tool for a wide range of linguistic annotations including various layers of morphological, syntactical, and semantic annotations. Distributed under Apache 2.0.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-05-09T14:01:19Z",
+            "owner": "webanno",
+            "repo": "webanno",
+            "stars": 251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FLAT - FoLia Linguistic Annotation Tool",
+          "description": "FLAT is a web-based linguistic annotation environment based around the FoLiA format (http://proycon.github.io/folia/), a rich XML-based format for linguistic annotation. FLAT allows users to view annotated FoLiA documents and enrich these documents with new annotations, a wide variety of linguistic annotation types is supported through the FoLiA paradigm. It is a document-centric tool that fully preserves and visualises document structure.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-01-24T15:47:58Z",
+            "owner": "proycon",
+            "repo": "flat",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "graf-python",
+          "description": "The library graf-python is an open source Python implemenation to parse and write GrAF/XML files as described in ISO 24612. The parser of the library creates an annotation graph from the files. The user may then query the annotation graph via the API of graf-python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2014-07-28T08:19:23Z",
+            "owner": "cidles",
+            "repo": "graf-python",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "poio-api",
+          "description": "Poio API is a free and open source Python library to access and search data from language documentation in your linguistic analysis workflow. It converts file formats like Elan’s EAF, Toolbox files, Typecraft XML and others into annotation graphs as defined in ISO 24612. Those graphs, for which we use an implementation called “Graph Annotation F…",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-05-18T12:18:51Z",
+            "owner": "cidles",
+            "repo": "poio-api",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyannotation",
+          "description": "PyAnnotation is a Python Library to access and manipulate linguistically annotated corpus files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2012-09-04T10:52:23Z",
+            "owner": "cidles",
+            "repo": "pyannotation",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "poio-analyzer",
+          "description": "Poio is a collection of software tools for linguists working in language documentation, descriptive linguistics and/or language typology. It allows linguists to manage and analyze their data. The Poio Interlinear Editor allows to add morpho-syntactic annotations to transcriptions. It supports various file formats for input, but will only output standardized XML defined by the Corpus Encoding Standard and the Text Encoding Initiative. Several tools for analyzing linguistic data will be made available to further process annotated data. Poio tools are written in Python and are based on PyQt.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2013-09-24T16:09:49Z",
+            "owner": "cidles",
+            "repo": "poio-analyzer",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eopas",
+          "description": "ETHNOER Online Presentation and Annotation System.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2023-05-30T00:00:05Z",
+            "owner": "eopas",
+            "repo": "eopas",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "brendano/gfl_syntax",
+          "description": "Graph Fragment Language for Easy Syntactic Annotation. Website.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2015-07-02T17:39:08Z",
+            "owner": "brendano",
+            "repo": "gfl_syntax",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kwaras",
+          "description": "Tools for ELAN corpus management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-19T19:35:16Z",
+            "owner": "ucsd-field-lab",
+            "repo": "kwaras",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LDC Word Aligner",
+          "description": "LDC Word Aligner is a software tool used for manual annotation of word alignment developed to support Arabic-English and Chinese-English word alignment tasks. It has a clean, easy-to-use interface. Since its development in 2009, LDC has used LDC Word Aligner to generate over 1,000,000 tokens of annotated word alignment data from a variety of genres including broadcast, newswire and web-based sources. Website.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-04-24T21:49:24Z",
+            "owner": "RichardLitt",
+            "repo": "ldc-word-aligner",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AGTK",
+          "description": "AGTK is a suite of software components for building tools for annotating linguistic signals, time-series data which documents any kind of linguistic behavior (e.g. audio, video). The internal data structures are based on annotation graphs. (Original project is on SourceForge: https://sourceforge.net/projects/agtk/).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2016-03-14T15:33:58Z",
+            "owner": "LowResourceLanguages",
+            "repo": "agtk",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Annotation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "xdxf_makedict",
+          "description": "XDXF dictionary format and \"makedict\" dictionary converting software (official repository).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-05-20T12:35:11Z",
+            "owner": "soshial",
+            "repo": "xdxf_makedict",
+            "stars": 247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FoLiA",
+          "description": "FoLiA: Format for Linguistic Annotation - FoLiA is a rich XML-based annotation format for the representation of language resources (including corpora) with linguistic annotations. A wide variety of linguistic annotations are support, making FoLiA a useful format for NLP tasks and data interchange. http://proycon.github.io/folia/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-09T21:31:13Z",
+            "owner": "proycon",
+            "repo": "folia",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spec",
+          "description": "The official specification for the DLx linguistic data format. https://digitallinguistics.github.io/spec/.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-02-07T01:46:52Z",
+            "owner": "digitallinguistics",
+            "repo": "data-format",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "Format Specifications"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "dejavu",
+          "description": "Audio fingerprinting and recognition in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-22T19:23:00Z",
+            "owner": "worldveil",
+            "repo": "dejavu",
+            "stars": 6786
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyAudioAnalysis",
+          "description": "Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-04T16:44:35Z",
+            "owner": "tyiannak",
+            "repo": "pyAudioAnalysis",
+            "stars": 6253
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pocketsphinx",
+          "description": "PocketSphinx is a lightweight speech recognition engine, specifically tuned for handheld and mobile devices, though it works equally well on the desktop.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-10T15:43:17Z",
+            "owner": "cmusphinx",
+            "repo": "pocketsphinx",
+            "stars": 4332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Montreal-Forced-Aligner",
+          "description": "Python interface for forced text/speech alignment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T17:34:41Z",
+            "owner": "MontrealCorpusTools",
+            "repo": "Montreal-Forced-Aligner",
+            "stars": 1867
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pocketsphinx.js",
+          "description": "Speech recognition in JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-04-05T10:17:38Z",
+            "owner": "syl22-00",
+            "repo": "pocketsphinx.js",
+            "stars": 1507
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sphinx4",
+          "description": "Pure Java speech recognition library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-10-18T04:01:35Z",
+            "owner": "cmusphinx",
+            "repo": "sphinx4",
+            "stars": 1437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sphinxbase",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2022-06-09T11:34:54Z",
+            "owner": "cmusphinx",
+            "repo": "sphinxbase",
+            "stars": 522
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prosodylab-Aligner",
+          "description": "Python interface for forced audio alignment using HTK and SoX.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-06-28T19:03:15Z",
+            "owner": "prosodylab",
+            "repo": "Prosodylab-Aligner",
+            "stars": 351
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pocketsphinx-python",
+          "description": "Python module installed with setup.py.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-06-29T15:22:48Z",
+            "owner": "cmusphinx",
+            "repo": "pocketsphinx-python",
+            "stars": 337
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "node-pocketsphinx",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CMake",
+            "last_commit": "2019-03-12T07:04:18Z",
+            "owner": "cmusphinx",
+            "repo": "node-pocketsphinx",
+            "stars": 241
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "html5-audio-read-along",
+          "description": "HTML5 Audio Read-Along.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2017-10-31T23:54:27Z",
+            "owner": "westonruter",
+            "repo": "html5-audio-read-along",
+            "stars": 193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sphinxtrain",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Roff",
+            "last_commit": "2026-06-04T18:44:57Z",
+            "owner": "cmusphinx",
+            "repo": "sphinxtrain",
+            "stars": 189
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ipa-chart",
+          "description": "International Phonetic Alphabet (IPA) Unicode Chart and Character Picker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2021-04-28T21:36:32Z",
+            "owner": "westonruter",
+            "repo": "ipa-chart",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "esv-text-audio-aligner",
+          "description": "ESV Text/Audio Aligner to programmatically obtain the timings for each word in the corresponding audio.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2013-03-29T19:16:53Z",
+            "owner": "westonruter",
+            "repo": "esv-text-audio-aligner",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pocketsphinx-ios-demo",
+          "description": "Simple demo for iOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2018-07-14T06:51:36Z",
+            "owner": "cmusphinx",
+            "repo": "pocketsphinx-ios-demo",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AuToBI",
+          "description": "Automatic prosodic annotation tool written in Java.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2019-04-18T18:22:46Z",
+            "owner": "AndrewRosenberg",
+            "repo": "AuToBI",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Praat-Scripts",
+          "description": "Mietta's Scripts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-12-14T11:25:13Z",
+            "owner": "FieldDB",
+            "repo": "Praat-Scripts",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PraatontheWeb",
+          "description": "Web implementation of Praat. Source code, running demo scripts on web, samples and documentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-09-22T12:26:12Z",
+            "owner": "monikaUPF",
+            "repo": "PraatontheWeb",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pocketsphinx-wp-demo",
+          "description": "Demo to run pocketsphinx on WP8 platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2016-03-04T17:06:02Z",
+            "owner": "cmusphinx",
+            "repo": "pocketsphinx-wp-demo",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kaldi-svn-archive",
+          "description": "An read-only archive of the original Kaldi SVN repository (mainly to keep sandboxes available).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2015-07-29T14:52:28Z",
+            "owner": "kaldi-asr",
+            "repo": "kaldi-svn-archive",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PraatTextGridJS",
+          "description": "A small library which can parse TextGrid into json and json into TextGrid.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-12-14T14:30:29Z",
+            "owner": "FieldDB",
+            "repo": "PraatTextGridJS",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TLSphinx",
+          "description": "Swift wrapper around Pocketsphinx.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2019-01-04T23:42:05Z",
+            "owner": "cmusphinx",
+            "repo": "TLSphinx",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "prosodylab.alignertools",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2015-04-29T19:40:10Z",
+            "owner": "prosodylab",
+            "repo": "prosodylab.alignertools",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pocketsphinx-ruby",
+          "description": "Ruby speech recognition with Pocketsphinx.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2015-05-14T19:43:55Z",
+            "owner": "cmusphinx",
+            "repo": "pocketsphinx-ruby",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opensauce",
+          "description": "GNU Octave-compatible version of VoiceSauce.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Matlab",
+            "last_commit": "2017-06-30T20:27:00Z",
+            "owner": "voicesauce",
+            "repo": "opensauce",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AudioWebService",
+          "description": "a simple nodejs server which accepts upload of audio and runs it through praat.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-05T13:11:54Z",
+            "owner": "FieldDB",
+            "repo": "AudioWebService",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "prosodicParsing",
+          "description": "different kinds of HMMs to use for incorporating prosody into basic parsing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2012-05-08T14:12:10Z",
+            "owner": "jpate",
+            "repo": "prosodicParsing",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Recordmp3js",
+          "description": "Record MP3 files directly from the browser using JS and HTML.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-08-12T02:07:03Z",
+            "owner": "FieldDB",
+            "repo": "Recordmp3js",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "arctic-prompts",
+          "description": "Generate prompts PDF for CMU ARCTIC dataset.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-04-09T07:08:44Z",
+            "owner": "psibre",
+            "repo": "arctic-prompts",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lex4all",
+          "description": "pronunciation LEXicons for Any Low-resource Language (Fork of a student project).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2014-06-24T15:36:08Z",
+            "owner": "FieldDB",
+            "repo": "lex4all",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BashScriptsForPhonetics",
+          "description": "(Fork of a dormant project).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2013-10-09T15:08:08Z",
+            "owner": "FieldDB",
+            "repo": "BashScriptsForPhonetics",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "praat-py",
+          "description": "From my PhD days: Praat-Py is a custom build of Praat, the computer program used by linguists for doing phonetic analysis on sound files, to allow for scripts to be written in the Python programming language, rather than in Praat's built-in language. (Fork of a dormant project).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2012-12-12T02:09:15Z",
+            "owner": "FieldDB",
+            "repo": "praat-py",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Audio automation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MARY TTS",
+          "description": "MARY TTS -- an open-source, multilingual text-to-speech synthesis system written in pure java http://mary.dfki.de.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-01-17T18:26:22Z",
+            "owner": "marytts",
+            "repo": "marytts",
+            "stars": 2584
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Indic-TTS",
+          "description": "Open-source text-to-speech models for 13 Indian languages including Assamese, Bengali, Hindi, Kannada, Malayalam, Tamil, and Telugu.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-11-08T11:17:47Z",
+            "owner": "AI4Bharat",
+            "repo": "Indic-TTS",
+            "stars": 385
+          }
+        }
+      ],
+      "title": "Text-to-Speech (TTS)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "kaldi",
+          "description": "This is now the official location of the Kaldi project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-09-22T07:06:00Z",
+            "owner": "kaldi-asr",
+            "repo": "kaldi",
+            "stars": 15454
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Elpis",
+          "description": "Elpis is software for creating speech recognition models and applying them to the transcription of audio. As of 2022, it gives access to Kaldi and Huggingface Transformers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-02T23:15:46Z",
+            "owner": "CoEDL",
+            "repo": "elpis",
+            "stars": 161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Persephone",
+          "description": "Persephone aims to make state-of-the-art phonemic transcription accessible to people involved in language documentation, who have a training corpus of about one to four hours of transcribed speech. As of 2022, Persephone is superseded by Elpis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-18T05:17:23Z",
+            "owner": "persephone-tools",
+            "repo": "persephone",
+            "stars": 159
+          }
+        }
+      ],
+      "title": "Automatic Speech Recognition (ASR)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "clld",
+          "description": "Cross Linguistic Linked Data python library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-08T07:55:09Z",
+            "owner": "clld",
+            "repo": "clld",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LaTeX2HTML5",
+          "description": "LaTeX web components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-05-16T20:02:04Z",
+            "owner": "pyramation",
+            "repo": "LaTeX2HTML5",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SeedLing",
+          "description": "Building and Using A Seed Corpus for the Human Language Project (Fork of a student project).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2014-06-26T16:20:29Z",
+            "owner": "FieldDB",
+            "repo": "SeedLing",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MultilingualCorporaExtractor",
+          "description": "Node io Spider for extracting multilingual corpora (Fork of a student project).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2013-06-14T20:18:59Z",
+            "owner": "FieldDB",
+            "repo": "MultilingualCorporaExtractor",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Text automation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenSesame",
+          "description": "Graphical experiment builder for the social sciences.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-28T13:54:13Z",
+            "owner": "open-cogsci",
+            "repo": "OpenSesame",
+            "stars": 279
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "experigen",
+          "description": "A framework for creating linguistic experiments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2020-08-18T16:54:11Z",
+            "owner": "tlozoot",
+            "repo": "experigen",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PsychScript",
+          "description": "A HTML5/Javascript library for running behavioural experiments online.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2014-11-17T13:34:13Z",
+            "owner": "EoinTravers",
+            "repo": "PsychScript",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GamifyPsycholinguisticsExperiments",
+          "description": "A simple node server to gamify linguistics experiments, runs offline on a laptop for small scale experiements and online on a server for large scale experiments. Data is sent to a Google spreadsheet. (Fork of a dormant project).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2012-05-10T22:05:06Z",
+            "owner": "FieldDB",
+            "repo": "GamifyPsycholinguisticsExperiments",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OPrime",
+          "description": "Open Source Experimentation Libraries - Online and Offline for Android and HTML5.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2014-10-15T04:10:58Z",
+            "owner": "FieldDB",
+            "repo": "OPrime",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "psychopyMegProsody",
+          "description": "Runs MegProsody using PsychoPy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2013-01-03T18:25:31Z",
+            "owner": "FieldDB",
+            "repo": "psychopyMegProsody",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Experimentation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Anki",
+          "description": "Anki is a program to make and share flaschard decks (including audio) for any language or writing system. https://apps.ankiweb.net/.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T17:17:39Z",
+            "owner": "ankitects",
+            "repo": "anki",
+            "stars": 29703
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-anki",
+          "description": "A curated list of awesome Anki add-ons, decks and resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-02T01:46:09Z",
+            "owner": "tianshanghong",
+            "repo": "awesome-anki",
+            "stars": 2071
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VocabLift",
+          "description": "Language-learning tool that uses vocabulary from LIFT-format dictionaries produced by programs such as Fieldworks Language Explorer and WeSay.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2014-06-27T00:45:35Z",
+            "owner": "somelinguist",
+            "repo": "VocabLift",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Flashcards"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pocketsphinx-android-demo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-11-08T10:53:58Z",
+            "owner": "cmusphinx",
+            "repo": "pocketsphinx-android-demo",
+            "stars": 561
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pocketsphinx-android",
+          "description": "pocketsphinx build for Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-01-11T07:14:04Z",
+            "owner": "cmusphinx",
+            "repo": "pocketsphinx-android",
+            "stars": 239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aikuma",
+          "description": "Android software for recording and translation.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2016-02-04T02:49:45Z",
+            "owner": "aikuma",
+            "repo": "aikuma",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AndroidLanguageLessons",
+          "description": "Lets heritage speakers create self designed language lessons.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-11-18T23:01:56Z",
+            "owner": "FieldDB",
+            "repo": "AndroidLanguageLessons",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bevara",
+          "description": "Android Phone Application designed for Linguistic Fieldwork to help preserve, maintain, and save endangered languages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2013-11-04T13:17:21Z",
+            "owner": "KentonMurray",
+            "repo": "bevara",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Android Speech Recognition Trainer",
+          "description": "Speech recognition training app for low resource languages which interfaces with FieldDB corpora.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-11-18T20:42:59Z",
+            "owner": "FieldDB",
+            "repo": "AndroidSpeechRecognitionTrainer",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AndroidFieldDB",
+          "description": "An Android app which lets the user build a custom visual and auditory vocabulary, useful for guided anomia treatment and self designed language lessons by heritage speakers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2019-06-16T19:50:15Z",
+            "owner": "FieldDB",
+            "repo": "AndroidFieldDB",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AndroidFieldDBElicitationRecorder",
+          "description": "A general purpose video recording tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2013-11-04T15:18:17Z",
+            "owner": "FieldDB",
+            "repo": "AndroidFieldDBElicitationRecorder",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "android-template",
+          "description": "This is a template of an Android word-learning app that may be used a way to introduce a language. It includes a quiz. For the documentation, go to http://eddersko.github.io/android-template/.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2015-02-18T03:30:23Z",
+            "owner": "eddersko",
+            "repo": "android-template",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AndroidProductionExperiment",
+          "description": "Android App to run perception experiments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2013-10-01T22:44:01Z",
+            "owner": "FieldDB",
+            "repo": "AndroidProductionExperiment",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Android Applications"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "babelfrog",
+          "description": "Chrome extension to help learn languages as you browse.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-04-23T14:50:12Z",
+            "owner": "dergachev",
+            "repo": "babelfrog",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DictionaryChromeExtension",
+          "description": "Dictionary for websites in low-resource languages. App and codebase which connects to a Wiktionary to provide definitions of any term on any website (current languages Cherokee 194,426 entries, Inuktitut 251 entries, Kartuli 7,363 entries, Plains Cree (incubation) 0 entries) use.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-03-02T11:58:42Z",
+            "owner": "FieldDB",
+            "repo": "DictionaryChromeExtension",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Chrome Extensions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "fielddb-spreadsheet-sikuli",
+          "description": "sikuli tests for the spreadsheet module use.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2015-01-19T04:10:54Z",
+            "owner": "FieldDB",
+            "repo": "fielddb-spreadsheet-sikuli",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LexiconWebServiceSample",
+          "description": "A node.js web server which implements the fieldlinguist's lexicon API for the FieldDB project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2012-05-24T00:19:38Z",
+            "owner": "FieldDB",
+            "repo": "LexiconWebServiceSample",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AndroidLanguageLearningClientForFieldDB-sikuli",
+          "description": "Sikuli tests for AndroidLanguageLearningClientForFieldDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2014-09-30T23:46:22Z",
+            "owner": "FieldDB",
+            "repo": "AndroidLanguageLearningClientForFieldDB-sikuli",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AuthenticationWebService",
+          "description": "A node.js web service which mananges users and corpora creation and authentication.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T07:11:30Z",
+            "owner": "FieldDB",
+            "repo": "AuthenticationWebService",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bower-fielddb-angular",
+          "description": "A bower repository which hosts fielddb-angular components, bower install fielddb-angular --save.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-08-04T14:38:07Z",
+            "owner": "FieldDB",
+            "repo": "bower-fielddb-angular",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bower-fielddb",
+          "description": "A bower repository which hosts fielddb core components, bower install fielddb --save.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-07-11T21:51:35Z",
+            "owner": "FieldDB",
+            "repo": "bower-fielddb",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FieldDBActivityFeed",
+          "description": "A fielddb activity feed widget which can be embedded in other codebases, websites etc use.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-03-01T09:20:01Z",
+            "owner": "FieldDB",
+            "repo": "FieldDBActivityFeed",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FieldDBGlosser",
+          "description": "A semi-unsupervised language independent morphological analyzer useful for stemming unknown language text, or getting a rough estimate of possible parses for morphemes in a word. bower install fielddb-glosser --save.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-03-12T16:42:28Z",
+            "owner": "FieldDB",
+            "repo": "FieldDBGlosser",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FieldDBLexicon",
+          "description": "A lexicon browser/editor web widget for FieldDB databases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-11-19T20:54:33Z",
+            "owner": "FieldDB",
+            "repo": "FieldDBLexicon",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LanguageClassDashboard",
+          "description": "App which provides a view of FieldDB corpora for language teachers use.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2014-09-08T20:03:48Z",
+            "owner": "FieldDB",
+            "repo": "LanguageClassDashboard",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LexiconWebService",
+          "description": "A node.js ElasticSearch wrapper for indexing/training lexicons from corpora.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-07-17T00:35:10Z",
+            "owner": "FieldDB",
+            "repo": "LexiconWebService",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "FieldDB Webservices/Components/Plugins"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Gargantua",
+          "description": "Fast Unsupervised Sentence Aligner described in \"Improved unsupervised sentence alignment for symmetrical and asymmetrical parallel corpora\", COLING 2010.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2015-12-09T12:32:58Z",
+            "owner": "braunefe",
+            "repo": "Gargantua",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "low-resource-pos-tagging-2014",
+          "description": "and low-resource-pos-tagging-2014 Published in: Learning a Part-of-Speech Tagger from Two Hours of Annotation. Dan Garrette and Jason Baldridge. In Proceedings of NAACL 2013. And in: Real-World Semi-Supervised Learning of POS-Taggers for Low-Resource Languages. Dan Garrette, Jason Mielens, and Jason Baldridge. In Proceedings of ACL 2013.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2016-02-25T00:42:45Z",
+            "owner": "dhgarrette",
+            "repo": "low-resource-pos-tagging-2014",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "orthotree",
+          "description": "Linguistic family tree based on orthographic distance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2015-02-15T01:28:37Z",
+            "owner": "kscanne",
+            "repo": "orthotree",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "type-supervised-tagging-2012emnlp",
+          "description": "This repository contains the code, scripts, and instructions needed to reproduce the results in the paper: Type-Supervised Hidden Markov Models for Part-of-Speech Tagging with Incomplete Tag Dictionaries. Dan Garrette and Jason Baldridge. In Proceedings of EMNLP 2012. This code is frozen as of the version used to obtain the results in the paper. It will not be maintained. To see the updated code, visit nlp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2016-02-25T00:43:47Z",
+            "owner": "dhgarrette",
+            "repo": "type-supervised-tagging-2012emnlp",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "visualizing-language",
+          "description": "For visualizations of WALS and other typological databases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2012-03-15T01:22:36Z",
+            "owner": "RichardLitt",
+            "repo": "visualizing-language",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ldc-kiy",
+          "description": "Materials for: The experimental state of mind in elicitation: illustrations from tonal fieldwork. Dubmitted to Language Documentation & Conservation, How to study a tone language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OpenEdge ABL",
+            "last_commit": "2013-07-02T19:54:27Z",
+            "owner": "krismyu",
+            "repo": "ldc-kiy",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WALS-APiCS",
+          "description": "Code for working with WALS-APiCS (Atlas of Pidgin and Creole Language Structures) complexity metrics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2015-01-12T23:56:49Z",
+            "owner": "jcgood",
+            "repo": "complexity",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Academic Research Paper-Specific Repositories"
+    },
+    {
+      "description": "These are repositories that are generally only interesting for training purposes or seeing how something is done.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CorporaForFieldLinguistics",
+          "description": "Small corpora from diverse language typologies, useful for testing scripts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2017-07-11T04:41:43Z",
+            "owner": "cesine",
+            "repo": "CorporaForFieldLinguistics",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CorpusWebService",
+          "description": "über-simple node.js-Proxy to enable CORS request for couchdb.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-02-20T13:11:38Z",
+            "owner": "FieldDB",
+            "repo": "CorpusWebService",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "startR",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2012-11-18T13:25:01Z",
+            "owner": "FieldDB",
+            "repo": "startR",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lucenerevolution-2013",
+          "description": "Demo examples for linguistics in Lucene and Solr.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2013-05-01T08:32:47Z",
+            "owner": "FieldDB",
+            "repo": "lucenerevolution-2013",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "berlin-buzzwords-2013",
+          "description": "Demo examples for Lucene, Solr, ElasticSearch and OpenNLP from Berlin Buzzwords 2013 talk.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2013-06-04T12:30:13Z",
+            "owner": "FieldDB",
+            "repo": "berlin-buzzwords-2013",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Example Repositories"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Noto Fonts",
+          "description": "Noto is Google’s free font family that aims to support all the world’s scripts. Its design goal is to achieve visual harmonization across languages. Noto fonts are under Apache License 2.0.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-01-25T13:40:16Z",
+            "owner": "notofonts",
+            "repo": "noto-fonts",
+            "stars": 2504
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fontinline",
+          "description": "Make inline stroke paths from an outline font.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-08-08T02:43:44Z",
+            "owner": "sillsdev",
+            "repo": "fontinline",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Fonts"
+    },
+    {
+      "description": "These corpora are useful for working with tools on endangered languages. Monolingual corpora that are more for archival efforts should most likely not be included here.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "bible-corpus",
+          "description": "A multilingual parallel corpus created from translations of the Bible.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-19T16:45:56Z",
+            "owner": "christos-c",
+            "repo": "bible-corpus",
+            "stars": 197
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Common Crawl — web-languages",
+          "description": "Crowd-sourced URL lists to steer the Common Crawl crawler toward under-resourced languages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-03T20:25:29Z",
+            "owner": "commoncrawl",
+            "repo": "web-languages",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "poio-corpus",
+          "description": "The Poio Corpus is a freely available collection of language resources for the lesser-used languages. The data is extracted from free sources like Wikipedia, dictionaries, documents, websites and others.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-10T17:04:25Z",
+            "owner": "Poio-NLP",
+            "repo": "poio-corpus",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Common Crawl — web-languages-code",
+          "description": "Code and tooling for the Common Crawl web-languages project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-10T05:52:35Z",
+            "owner": "commoncrawl",
+            "repo": "web-languages-code",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Corpora"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Organizations"
+    },
+    {
+      "description": "For each language, we include the ISO 639-3 code, and the main autonym for that language.",
+      "items": [],
+      "title": "Language Specific Projects"
+    },
+    {
+      "description": "ben :: Bangla / বাংলা",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bengali Writer",
+          "description": "`Bengali Writer' is a set of utilities for computerized editing and typesetting in Bengali, a language of India and Bangladesh. It comprises a set of fonts for Bengali in several formats (METAFONT, BDF, PS), a text editor with spell-cheking, export, and more. (Original project is on SourceForge: https://sourceforge.net/projects/bengaliwriter/).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Tcl",
+            "last_commit": "2016-03-14T12:58:22Z",
+            "owner": "LowResourceLanguages",
+            "repo": "bwedit",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lekho",
+          "description": "A collection of tools and resources for using bangla on computers (Original project is on SourceForge: https://sourceforge.net/projects/lekho/).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2016-03-14T14:57:38Z",
+            "owner": "LowResourceLanguages",
+            "repo": "lekho",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Bengali"
+    },
+    {
+      "description": "glg :: galego",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Linguakit",
+          "description": "Multilingual toolkit for NLP: dependency parser, PoS tagger, NERC, multiword extractor, sentiment analysis, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2024-02-24T22:17:26Z",
+            "owner": "citiususc",
+            "repo": "Linguakit",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DepPattern",
+          "description": "Dependency Syntactic Parsing for Portuguese, Spanish, English, and Galician, including MetaRomance parser",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2018-06-07T11:58:54Z",
+            "owner": "gamallo",
+            "repo": "DepPattern",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CitiusSentiment",
+          "description": "Sentiment analysis (opinion mining) for Portuguese, English, Spanish, and Galician",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2016-05-06T15:34:48Z",
+            "owner": "gamallo",
+            "repo": "CitiusSentiment",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UD_Galician-TreeGal",
+          "description": "The Galician-TreeGal is a treebank for Galician developed at LyS Group (Universidade da Coruña).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-06T19:05:54Z",
+            "owner": "UniversalDependencies",
+            "repo": "UD_Galician-TreeGal",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "javagalician-java6",
+          "description": "The Java Galician Locale is an implementation of Java localization SPIs which will allow the Java VM to use the Galician Language (locales \"gl\" and \"gl_ES\"), one of the official languages of Spain, which is not included in Sun's JVM distribution.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2026-01-24T22:35:02Z",
+            "owner": "javagalician",
+            "repo": "javagalician-java6",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "an-metri-gal",
+          "description": "Análise métrico de texto en verso en lingua galega (Galician language) gl-ES",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2026-05-31T20:11:41Z",
+            "owner": "juliojgd",
+            "repo": "an-metri-gal",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "android_gl_dict",
+          "description": "Android Galician (gl_ES) Keyboard Dictionary",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2013-01-23T20:13:00Z",
+            "owner": "chavaone",
+            "repo": "android_gl_dict",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "corpora",
+          "description": "This is a collection of corpus of Galician (or related to Galicia) words / Colección de corpus de palabras en galego (ou relacionadas con Galicia)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-01-08T20:46:45Z",
+            "owner": "bertez",
+            "repo": "corpora",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "galeXtra",
+          "description": "Multiword Extractor for Portuguese, English, Spanish, Galician, French",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2024-12-30T16:11:28Z",
+            "owner": "gamallo",
+            "repo": "galeXtra",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aspell-gl",
+          "description": "Galician dictionary for aspell",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-22T09:40:32Z",
+            "owner": "pld-linux",
+            "repo": "aspell-gl",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "elFinder-language",
+          "description": "Galician - Gallego / language for elFinder",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-09-23T10:25:35Z",
+            "owner": "Rubarez",
+            "repo": "elFinder-Language",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EuroWordNetLemon",
+          "description": "EuroWordNet lemon lexicons generated from the LMF versions of the Multilingual Central Repository (MCR) EuroWordNet lexicons. It includes lexicons for Spanish, Catalan, Basque & Galician.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-09-09T16:42:03Z",
+            "owner": "martavillegas",
+            "repo": "EuroWordNetLemon",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Galician-Dependency-Treebank",
+          "description": "This Galician Dependency Treebank has been developed by transliterating and adapting lexically the Portuguese part (Bosque 7.3 by the Floresta sintá(c)tica project) of the CONLL-X 2006.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-10-10T04:32:12Z",
+            "owner": "paulomalvar",
+            "repo": "Galician-Dependency-Treebank",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Galician-Fuzzy-Text-watch",
+          "description": "Based on Fuzzy Text International by Jesse Hallett, uses the galician language to display time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2015-12-31T11:17:45Z",
+            "owner": "pfsq",
+            "repo": "Galician-Fuzzy-Text-watch",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "galician-locale-for-mac",
+          "description": "Galician locale for Mac OS X",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2016-02-27T12:01:16Z",
+            "owner": "vaites",
+            "repo": "galician-locale-for-mac",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gl-syllabler",
+          "description": "Split galician language words into syllables",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-01-10T23:14:28Z",
+            "owner": "bertez",
+            "repo": "gl-syllabler",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gl",
+          "description": "Galician OmegaT Localisation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-12-28T07:23:37Z",
+            "owner": "OmegaT-L10N",
+            "repo": "gl",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hunspell-gl",
+          "description": "Galician hunspell dictionaries",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2013-03-24T20:13:12Z",
+            "owner": "gooselinux",
+            "repo": "hunspell-gl",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hyphen-gl",
+          "description": "Galician hyphenation rules",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2012-05-01T06:24:32Z",
+            "owner": "gooselinux",
+            "repo": "hyphen-gl",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "poss-gl",
+          "description": "Galician translation of Producing Open Source Software, by Karl Fogel",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2011-07-20T15:01:30Z",
+            "owner": "oandregal",
+            "repo": "poss-gl",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rima",
+          "description": "Find rhyming words in galician language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-02-01T16:40:17Z",
+            "owner": "bertez",
+            "repo": "rima",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stopwords-gl",
+          "description": "Galician stopwords collection",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-10-10T01:22:38Z",
+            "owner": "stopwords-iso",
+            "repo": "stopwords-gl",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "texlive-babel-galician",
+          "description": "TeXLive babel-galician package",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-11T15:14:41Z",
+            "owner": "OpenMandrivaAssociation",
+            "repo": "texlive-babel-galician",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UD_Galician-CTG",
+          "description": "The Galician UD treebank is based on the automatic parsing of the Galician Technical Corpus created at the University of Vigo by the the TALG NLP research group.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-05-06T19:05:49Z",
+            "owner": "UniversalDependencies",
+            "repo": "UD_Galician-CTG",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DOGA_scraper",
+          "description": "Galician Official journal scraper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2014-09-13T11:06:14Z",
+            "owner": "jjelosua",
+            "repo": "DOGA_scraper",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hunspell-gl-ciencias",
+          "description": "Project oriented into developing a science and maths Galician language Hunspell dictionary",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2013-08-04T17:31:27Z",
+            "owner": "mglbranco",
+            "repo": "hunspell-gl-ciencias",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ParlamentoGalicia",
+          "description": "Project based on the information extracted from the transcriptions of the sessions held in the Galician Parlament",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2013-04-14T18:41:45Z",
+            "owner": "jjelosua",
+            "repo": "ParlamentoGalicia",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UL_Galician-TreeGal",
+          "description": "CoNLL-UL Repository for UD_Galician-TreeGal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-05-08T07:31:00Z",
+            "owner": "conllul",
+            "repo": "UL_Galician-TreeGal",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Galician"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "apertium-cat-glg",
+          "description": "Apertium translation pair for Catalan and Galician",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "XML",
+            "last_commit": "2022-07-16T05:31:32Z",
+            "owner": "apertium",
+            "repo": "apertium-cat-glg",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "apertium-dict-en-gl",
+          "description": "English-Galician language pair for Apertium",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-05T22:41:35Z",
+            "owner": "pld-linux",
+            "repo": "apertium-dict-en-gl",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "apertium-dict-es-gl",
+          "description": "Spanish-Galician language pair for Apertium",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-20T23:03:05Z",
+            "owner": "pld-linux",
+            "repo": "apertium-dict-es-gl",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "apertium-dict-pt-gl",
+          "description": "Portuguese-Galician language pair for Apertium",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-05T22:42:12Z",
+            "owner": "pld-linux",
+            "repo": "apertium-dict-pt-gl",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "apertium-es-gl",
+          "description": "Apertium translation pair for Spanish and Galician",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "XML",
+            "last_commit": "2021-07-19T15:55:48Z",
+            "owner": "apertium",
+            "repo": "apertium-es-gl",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "apertium-en-gl",
+          "description": "Apertium translation pair for English and Galician",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "XML",
+            "last_commit": "2022-05-08T18:33:51Z",
+            "owner": "apertium",
+            "repo": "apertium-en-gl",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "apertium-glg",
+          "description": "Apertium linguistic data for Galician",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "XML",
+            "last_commit": "2022-08-12T17:48:46Z",
+            "owner": "apertium",
+            "repo": "apertium-glg",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Apertium-pt-gl.pt-gl-LMF",
+          "description": "This is the LMF version of the Apertium bilingual ditionary for Portugues and Galician languages",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2014-07-31T09:12:11Z",
+            "owner": "apertium-lmf",
+            "repo": "Apertium-pt-gl.pt-gl-LMF",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "apertium-pt-gl",
+          "description": "Apertium translation pair for Portuguese and Galician",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "XML",
+            "last_commit": "2021-07-20T00:25:40Z",
+            "owner": "apertium",
+            "repo": "apertium-pt-gl",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Apertium"
+    },
+    {
+      "description": "kat :: Kartuli / ქართული",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-georgia",
+          "description": "A curated list of awesome libraries and packages specific/related to Georgia (country).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-12-22T17:25:40Z",
+            "owner": "Stichoza",
+            "repo": "awesome-georgia",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeoWordsDatabase",
+          "description": "Around 310 000 unique Georgian words https://bumbeishvili.github.io/GeoWordsDatabase/.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-12-09T13:12:06Z",
+            "owner": "bumbeishvili",
+            "repo": "GeoWordsDatabase",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kartuli Speech Recognition",
+          "description": "ანდროიდის ქართველი მომხმარებლებისთვის სიტყვის ამოცნობის სისტემის შექმნა. Codebase to turn any webpage from any alphabet into another alphabet, the default is to turn latin letters into Kartuli. use \"Do your friends keep commenting on Facebook with English keyboards (either because they forgot to switch, or because they didn't/can't install a Georgian keyboard)? Now you can read the web through კართული eyes.\".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2017-12-21T16:16:12Z",
+            "owner": "batumi",
+            "repo": "KartuliSpeechRecognition",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "translitit-latin-to-mkhedruli-georgian",
+          "description": "A Latin to ქართული (Mkhedruli Georgian) transliteration function written in JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-03-27T00:11:31Z",
+            "owner": "batumi",
+            "repo": "translitit-latin-to-mkhedruli-georgian",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Declensions",
+          "description": "Methods to generate declensions for Georgian language",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-11-07T22:02:41Z",
+            "owner": "opinion-mining-south-caucasus",
+            "repo": "declensions",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gadatsqvetilebebi",
+          "description": "გადაწყვეტილებები; Web spider and corpora importer for public legal decisions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-03-27T05:41:56Z",
+            "owner": "batumi",
+            "repo": "Gadatsqvetilebebi",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KartuliChromeExtension",
+          "description": "Chrome აპლიკაცია, რომელიც ყველა ინგლისურ ასო-ბგერას აჩვენებს ქართულ ასო-ბგერად.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2014-04-19T22:37:31Z",
+            "owner": "batumi",
+            "repo": "KartuliChromeExtension",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QartuliDaBunebismetkveleba",
+          "description": "მათემატიკისა და ბუნებისმეტყველების ინტერაქტიული სახელმძღვანელო მე-2 - მე-3 კლასის მოსწავლეებისათვის.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "ActionScript",
+            "last_commit": "2013-12-15T23:21:52Z",
+            "owner": "aiSaba",
+            "repo": "QartuliDaBunebismetkveleba",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "translitit-mkhedruli-georgian-to-ipa",
+          "description": "A Latin to ქართული (Mkhedruli Georgian) transliteration function written in JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-03-27T00:15:51Z",
+            "owner": "batumi",
+            "repo": "translitit-mkhedruli-georgian-to-ipa",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SakartvelosUzenaesiSasamartloSarke",
+          "description": "საქართველოს უზენაესი სასამართლო სარკე.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2014-05-20T15:16:41Z",
+            "owner": "batumi",
+            "repo": "SakartvelosUzenaesiSasamartloSarke",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SamartlosSakonstitutsioSasamartdoSarke",
+          "description": "სამართლოს საკონსტიტუციო სასამართდო სარკე.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-03-26T17:07:40Z",
+            "owner": "batumi",
+            "repo": "SamartlosSakonstitutsioSasamartdoSarke",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Georgian"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Stichoza/font-larisome",
+          "description": "Iconic font for Georgian currency inspired by Font-Awesome (CSS).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2025-07-18T21:00:50Z",
+            "owner": "Stichoza",
+            "repo": "font-larisome",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "thecotne/georgian-webfonts",
+          "description": "Package for georgian fonts (CSS).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2017-08-18T18:10:12Z",
+            "owner": "thecotne",
+            "repo": "georgian-webfonts",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lotuashvili/BPGNateli",
+          "description": "Bower package for BPG Nateli font (CSS).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2015-09-01T18:23:51Z",
+            "owner": "Lotuashvili",
+            "repo": "BPGNateli",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Fonts"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "moment/moment",
+          "description": "A lightweight date library (JavaScript).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T19:28:14Z",
+            "owner": "moment",
+            "repo": "moment",
+            "stars": 47919
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wenzhixin/bootstrap-table",
+          "description": "Bootstrap table with extra features. l10n by @Lotuashvili and @Stichoza.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T21:03:12Z",
+            "owner": "wenzhixin",
+            "repo": "bootstrap-table",
+            "stars": 11811
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ioseb/geokbd",
+          "description": "Georgian keyboard library (JavaScript).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2009-11-29T13:40:25Z",
+            "owner": "ioseb",
+            "repo": "geokbd",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Landish/Laravel-Ka",
+          "description": "Laravel Georgian Language Pack.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2021-04-25T07:45:28Z",
+            "owner": "liorocks",
+            "repo": "Laravel-KA",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stichoza/money-num-to-string",
+          "description": "Convert a number/money to localized string (PHP, JavaScript).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-01-04T19:22:31Z",
+            "owner": "Stichoza",
+            "repo": "georgian-number-to-words",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dimakura/ka.js",
+          "description": "Georgian language support for node and browser (JavaScript).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2014-09-09T16:16:35Z",
+            "owner": "dimakura",
+            "repo": "ka.js",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "akalongman/kautilities",
+          "description": "Convert Georgian letters to Latin and vice-versa (PHP).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2016-06-23T08:26:14Z",
+            "owner": "akalongman",
+            "repo": "kautilities",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "natchkebiailia/NumberToWord",
+          "description": "Convert numbers to localized strings (JavaScript).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-10-27T15:37:27Z",
+            "owner": "natchkebiailia",
+            "repo": "NumberToWord",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d0ragon/number-to-words-ka",
+          "description": "Convert numbers to localized strings (PHP).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2014-06-03T09:31:06Z",
+            "owner": "d0ragon",
+            "repo": "number-to-words-ka",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dimakura/ka",
+          "description": "Common functionality for georgian projects (Ruby).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2013-11-09T09:08:06Z",
+            "owner": "dimakura",
+            "repo": "ka",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Internationalization and Localization (i18n/l10n)"
+    },
+    {
+      "description": "iku :: Inuktitut",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "InuktitutComputing",
+          "description": "Inuktitut Morphological Analyser, transcoder, transliterator, corpus tools, and lexical lists for working with Inuktitut. Usable online at http://inuktitutcomputing.ca/index.php.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2015-08-02T01:45:21Z",
+            "owner": "LowResourceLanguages",
+            "repo": "InuktitutComputing",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InuktitutAlignerData",
+          "description": "Scripts for alignment of laboratory speech production data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2012-06-11T19:23:34Z",
+            "owner": "cmesher",
+            "repo": "InuktitutAlignerData",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Inuktitut"
+    },
+    {
+      "description": "gle :: Gaeilge",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "caighdean",
+          "description": "Code for standardizing Irish language text.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2024-09-14T04:02:00Z",
+            "owner": "kscanne",
+            "repo": "caighdean",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GaelSpell",
+          "description": "Sources for an Irish language spell checker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-11-22T20:01:47Z",
+            "owner": "kscanne",
+            "repo": "gaelspell",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tesseract-gle-uncial",
+          "description": "OCR for old Irish fonts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2015-04-27T20:17:12Z",
+            "owner": "kscanne",
+            "repo": "tesseract-gle-uncial",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fleiscin",
+          "description": "Irish hyphenation patterns for TeX https://cadhan.com/fleiscin/.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2020-11-08T14:34:38Z",
+            "owner": "hyphenation",
+            "repo": "fleiscin",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aimsigh",
+          "description": "Source for the now-defunct aimsigh.com Irish search engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-09-15T02:19:46Z",
+            "owner": "kscanne",
+            "repo": "aimsigh",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Irish"
+    },
+    {
+      "description": "glv :: Gaelg",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gaelg",
+          "description": "NLP resources for Manx Gaelic, mainly in support of the gv2ga MT engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2024-08-27T03:18:34Z",
+            "owner": "kscanne",
+            "repo": "gaelg",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aspell-gv",
+          "description": "Manx Gaelic dictionary for aspell.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-22T09:40:49Z",
+            "owner": "pld-linux",
+            "repo": "aspell-gv",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Manx"
+    },
+    {
+      "description": "oji :: Ojibwe, Oddawa, Chippewa, Anishinaabemowin, ᐊᓂᔑᓈᐯᒧᐎᓐ",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OjibwayMap",
+          "description": "An iPhone app with audio and images for learning Ojibway language and culture.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2015-08-02T00:20:08Z",
+            "owner": "LowResourceLanguages",
+            "repo": "OjibwayMap",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ojibway-iphone-app",
+          "description": "An iPhone app with audio and images for learning the Ojibway language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2015-08-01T23:32:04Z",
+            "owner": "LowResourceLanguages",
+            "repo": "Ojibway-iphone-app",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nishanimate",
+          "description": "A desktop app to facilitate Nishnaabe-language acquisition via animations produced by the natural language processing of audio-accompanied text.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2015-07-21T07:08:04Z",
+            "owner": "jpmontano",
+            "repo": "nishanimate",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Nishnaabe"
+    },
+    {
+      "description": "gla :: Gàidhlig",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "hunspell-gd",
+          "description": "Files for building Scottish Gaelic spell checkers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2023-02-20T23:10:15Z",
+            "owner": "kscanne",
+            "repo": "hunspell-gd",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gdbank",
+          "description": "Some tools and resources for natural language processing of Scottish Gaelic. https://www.tantallon.org.uk/cggblog/.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-03T22:49:54Z",
+            "owner": "colinbatchelor",
+            "repo": "gdbank",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gaidhlig",
+          "description": "NLP resources for Scottish Gaelic, mainly in support of gd2ga/ga2gd MT engines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2025-09-05T13:26:39Z",
+            "owner": "kscanne",
+            "repo": "gaidhlig",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gd-fcfg",
+          "description": "Context-free feature-based grammar of Scottish Gaelic in the NLTK format.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2012-03-27T08:57:34Z",
+            "owner": "wojtekdz",
+            "repo": "gd-fcfg",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "briathrachan",
+          "description": "This is the source code to Briathrachan, a Gaelic-English dictionary app for iOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2016-10-24T11:32:33Z",
+            "owner": "tobiasbayer",
+            "repo": "briathrachan",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aspell-gd",
+          "description": "Scottish Gaelic dictionary for aspell.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-22T09:40:26Z",
+            "owner": "pld-linux",
+            "repo": "aspell-gd",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Scottish Gaelic"
+    },
+    {
+      "description": "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. Original content by Richard Littauer, 2014-2017.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T23:06:28.408Z",
+    "original_repository": "RichardLitt/low-resource-languages",
+    "original_repository_sha": "fd66b730a731a052b8a2d49f164f0a3a41abe837",
+    "enhanced_repository": "enhansome/enhansome-low-resource-languages",
+    "enhanced_repository_description": null,
+    "title": "Awesome Low Resource Languages with stars"
+  }
+}
