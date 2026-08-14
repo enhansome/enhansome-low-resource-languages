@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T06:45:44Z",
+            "last_commit": "2026-08-14T22:20:48Z",
             "owner": "nltk",
             "repo": "nltk",
-            "stars": 14695
+            "stars": 14693
           }
         },
         {
@@ -100,7 +100,7 @@
             "last_commit": "2026-05-17T04:19:12Z",
             "owner": "naptha",
             "repo": "tesseract.js",
-            "stars": 38624
+            "stars": 38623
           }
         },
         {
@@ -125,10 +125,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T06:45:44Z",
+            "last_commit": "2026-08-14T22:20:48Z",
             "owner": "nltk",
             "repo": "nltk",
-            "stars": 14695
+            "stars": 14693
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2026-08-10T05:53:53Z",
             "owner": "katspaugh",
             "repo": "wavesurfer.js",
-            "stars": 10371
+            "stars": 10372
           }
         },
         {
@@ -181,7 +181,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T21:55:59Z",
+            "last_commit": "2026-08-14T02:51:11Z",
             "owner": "stanfordnlp",
             "repo": "stanza",
             "stars": 7861
@@ -209,10 +209,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T20:10:40Z",
+            "last_commit": "2026-08-14T19:11:16Z",
             "owner": "hunspell",
             "repo": "hunspell",
-            "stars": 2559
+            "stars": 2561
           }
         },
         {
@@ -226,7 +226,7 @@
             "last_commit": "2020-01-01T10:49:30Z",
             "owner": "saffsd",
             "repo": "langid.py",
-            "stars": 2464
+            "stars": 2463
           }
         },
         {
@@ -265,7 +265,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T10:38:25Z",
+            "last_commit": "2026-08-14T03:17:10Z",
             "owner": "apache",
             "repo": "opennlp",
             "stars": 1603
@@ -279,7 +279,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T21:36:57Z",
+            "last_commit": "2026-08-14T21:39:49Z",
             "owner": "IQSS",
             "repo": "dataverse",
             "stars": 1067
@@ -405,7 +405,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-13T20:07:13Z",
+            "last_commit": "2026-08-14T20:39:38Z",
             "owner": "UniversalDependencies",
             "repo": "docs",
             "stars": 297
@@ -573,7 +573,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T22:55:34Z",
+            "last_commit": "2026-08-14T21:26:20Z",
             "owner": "sillsdev",
             "repo": "FieldWorks",
             "stars": 111
@@ -590,7 +590,7 @@
             "last_commit": "2025-11-19T20:42:08Z",
             "owner": "MukurtuCMS",
             "repo": "mukurtucms",
-            "stars": 94
+            "stars": 95
           }
         },
         {
@@ -615,10 +615,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-07-10T06:31:06Z",
+            "last_commit": "2026-08-14T08:00:02Z",
             "owner": "sillsdev",
             "repo": "icu-dotnet",
-            "stars": 80
+            "stars": 81
           }
         },
         {
@@ -699,7 +699,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T22:07:20Z",
+            "last_commit": "2026-08-14T17:36:31Z",
             "owner": "sillsdev",
             "repo": "libpalaso",
             "stars": 46
@@ -741,7 +741,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T22:53:47Z",
+            "last_commit": "2026-08-14T22:38:07Z",
             "owner": "BloomBooks",
             "repo": "BloomDesktop",
             "stars": 44
@@ -769,7 +769,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T06:15:21Z",
+            "last_commit": "2026-08-14T20:45:40Z",
             "owner": "sillsdev",
             "repo": "machine",
             "stars": 29
@@ -1049,7 +1049,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-06-23T22:20:53Z",
+            "last_commit": "2026-08-14T18:51:49Z",
             "owner": "divvun",
             "repo": "divvunspell",
             "stars": 14
@@ -1441,7 +1441,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T22:31:24Z",
+            "last_commit": "2026-08-14T19:23:27Z",
             "owner": "sillsdev",
             "repo": "saymore",
             "stars": 7
@@ -1525,7 +1525,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T22:52:58Z",
+            "last_commit": "2026-08-14T19:59:23Z",
             "owner": "sillsdev",
             "repo": "chorus",
             "stars": 5
@@ -2248,7 +2248,7 @@
             "last_commit": "2022-08-24T20:11:33Z",
             "owner": "Mottie",
             "repo": "Keyboard",
-            "stars": 1802
+            "stars": 1801
           }
         },
         {
@@ -2273,7 +2273,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-08-13T19:56:41Z",
+            "last_commit": "2026-08-14T20:27:04Z",
             "owner": "keymanapp",
             "repo": "keyman",
             "stars": 528
@@ -2301,7 +2301,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-12T21:51:01Z",
+            "last_commit": "2026-08-14T19:51:01Z",
             "owner": "keymanapp",
             "repo": "keyboards",
             "stars": 203
@@ -2358,7 +2358,7 @@
             "last_commit": "2024-07-03T18:47:31Z",
             "owner": "nlplab",
             "repo": "brat",
-            "stars": 1875
+            "stars": 1876
           }
         },
         {
@@ -3048,7 +3048,7 @@
             "last_commit": "2024-11-08T11:17:47Z",
             "owner": "AI4Bharat",
             "repo": "Indic-TTS",
-            "stars": 385
+            "stars": 386
           }
         }
       ],
@@ -3068,7 +3068,7 @@
             "last_commit": "2025-09-22T07:06:00Z",
             "owner": "kaldi-asr",
             "repo": "kaldi",
-            "stars": 15454
+            "stars": 15457
           }
         },
         {
@@ -3265,10 +3265,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T17:17:39Z",
+            "last_commit": "2026-08-14T21:15:07Z",
             "owner": "ankitects",
             "repo": "anki",
-            "stars": 29703
+            "stars": 29757
           }
         },
         {
@@ -3282,7 +3282,7 @@
             "last_commit": "2026-01-02T01:46:09Z",
             "owner": "tianshanghong",
             "repo": "awesome-anki",
-            "stars": 2071
+            "stars": 2072
           }
         },
         {
@@ -4711,10 +4711,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T19:28:14Z",
+            "last_commit": "2026-08-14T22:43:04Z",
             "owner": "moment",
             "repo": "moment",
-            "stars": 47919
+            "stars": 47918
           }
         },
         {
@@ -4725,10 +4725,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T21:03:12Z",
+            "last_commit": "2026-08-14T00:00:38Z",
             "owner": "wenzhixin",
             "repo": "bootstrap-table",
-            "stars": 11811
+            "stars": 11810
           }
         },
         {
@@ -5135,7 +5135,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T23:06:28.408Z",
+    "last_updated": "2026-08-14T22:43:53.342Z",
     "original_repository": "RichardLitt/low-resource-languages",
     "original_repository_sha": "fd66b730a731a052b8a2d49f164f0a3a41abe837",
     "enhanced_repository": "enhansome/enhansome-low-resource-languages",
