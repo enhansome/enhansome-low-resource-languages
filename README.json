@@ -15,7 +15,7 @@
             "last_commit": "2026-08-19T02:17:53Z",
             "owner": "nltk",
             "repo": "nltk",
-            "stars": 14698
+            "stars": 14699
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2025-10-03T07:05:20Z",
             "owner": "AI4Bharat",
             "repo": "IndicTrans2",
-            "stars": 460
+            "stars": 461
           }
         },
         {
@@ -92,7 +92,7 @@
                 "last_commit": "2026-05-17T04:19:12Z",
                 "owner": "naptha",
                 "repo": "tesseract.js",
-                "stars": 38638
+                "stars": 38639
               }
             },
             {
@@ -107,7 +107,7 @@
                 "last_commit": "2024-03-22T21:40:44Z",
                 "owner": "facebookresearch",
                 "repo": "fastText",
-                "stars": 26539
+                "stars": 26538
               }
             },
             {
@@ -122,7 +122,7 @@
                 "last_commit": "2026-08-19T02:17:53Z",
                 "owner": "nltk",
                 "repo": "nltk",
-                "stars": 14698
+                "stars": 14699
               }
             },
             {
@@ -152,7 +152,7 @@
                 "last_commit": "2026-08-17T17:34:03Z",
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10376
+                "stars": 10378
               }
             },
             {
@@ -179,7 +179,7 @@
                 "archived": false,
                 "id": 104854615,
                 "language": "Python",
-                "last_commit": "2026-08-18T15:07:33Z",
+                "last_commit": "2026-08-19T20:39:09Z",
                 "owner": "stanfordnlp",
                 "repo": "stanza",
                 "stars": 7864
@@ -212,7 +212,7 @@
                 "last_commit": "2026-08-16T16:55:09Z",
                 "owner": "hunspell",
                 "repo": "hunspell",
-                "stars": 2566
+                "stars": 2569
               }
             },
             {
@@ -284,7 +284,7 @@
                 "archived": false,
                 "id": 14051004,
                 "language": "Java",
-                "last_commit": "2026-08-18T21:12:43Z",
+                "last_commit": "2026-08-19T20:49:31Z",
                 "owner": "IQSS",
                 "repo": "dataverse",
                 "stars": 1068
@@ -419,7 +419,7 @@
                 "archived": false,
                 "id": 18795673,
                 "language": "HTML",
-                "last_commit": "2026-08-19T12:13:23Z",
+                "last_commit": "2026-08-19T14:51:39Z",
                 "owner": "UniversalDependencies",
                 "repo": "docs",
                 "stars": 297
@@ -464,7 +464,7 @@
                 "archived": false,
                 "id": 19850189,
                 "language": "Perl",
-                "last_commit": "2026-08-18T23:46:42Z",
+                "last_commit": "2026-08-19T14:51:48Z",
                 "owner": "UniversalDependencies",
                 "repo": "tools",
                 "stars": 220
@@ -599,7 +599,7 @@
                 "archived": false,
                 "id": 2569212,
                 "language": "C#",
-                "last_commit": "2026-08-19T12:11:57Z",
+                "last_commit": "2026-08-19T22:37:29Z",
                 "owner": "sillsdev",
                 "repo": "FieldWorks",
                 "stars": 111
@@ -734,7 +734,7 @@
                 "archived": false,
                 "id": 15614464,
                 "language": "C#",
-                "last_commit": "2026-08-19T07:09:38Z",
+                "last_commit": "2026-08-19T15:54:46Z",
                 "owner": "sillsdev",
                 "repo": "libpalaso",
                 "stars": 46
@@ -779,7 +779,7 @@
                 "archived": false,
                 "id": 14133680,
                 "language": "C#",
-                "last_commit": "2026-08-19T06:51:27Z",
+                "last_commit": "2026-08-19T22:18:07Z",
                 "owner": "BloomBooks",
                 "repo": "BloomDesktop",
                 "stars": 44
@@ -809,7 +809,7 @@
                 "archived": false,
                 "id": 7745781,
                 "language": "C#",
-                "last_commit": "2026-08-19T10:51:04Z",
+                "last_commit": "2026-08-19T21:39:02Z",
                 "owner": "sillsdev",
                 "repo": "machine",
                 "stars": 29
@@ -2425,7 +2425,7 @@
             "archived": false,
             "id": 26063183,
             "language": "Pascal",
-            "last_commit": "2026-08-19T12:32:31Z",
+            "last_commit": "2026-08-19T19:38:39Z",
             "owner": "keymanapp",
             "repo": "keyman",
             "stars": 529
@@ -2788,7 +2788,7 @@
             "archived": false,
             "id": 44983969,
             "language": "Python",
-            "last_commit": "2026-08-07T17:34:41Z",
+            "last_commit": "2026-08-19T22:23:04Z",
             "owner": "MontrealCorpusTools",
             "repo": "Montreal-Forced-Aligner",
             "stars": 1869
@@ -3247,7 +3247,7 @@
             "last_commit": "2024-11-08T11:17:47Z",
             "owner": "AI4Bharat",
             "repo": "Indic-TTS",
-            "stars": 388
+            "stars": 389
           }
         }
       ],
@@ -3478,10 +3478,10 @@
             "archived": false,
             "id": 7270538,
             "language": "Rust",
-            "last_commit": "2026-08-19T12:34:24Z",
+            "last_commit": "2026-08-19T17:52:40Z",
             "owner": "ankitects",
             "repo": "anki",
-            "stars": 29900
+            "stars": 29915
           }
         },
         {
@@ -5020,10 +5020,10 @@
                     "archived": false,
                     "id": 1424470,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-19T06:57:23Z",
+                    "last_commit": "2026-08-19T21:24:50Z",
                     "owner": "moment",
                     "repo": "moment",
-                    "stars": 47915
+                    "stars": 47914
                   }
                 },
                 {
@@ -5481,7 +5481,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:38:53.236Z",
+    "last_updated": "2026-08-19T22:45:23.467Z",
     "original_repository": "RichardLitt/low-resource-languages",
     "original_repository_id": 22130396,
     "original_repository_sha": "fd66b730a731a052b8a2d49f164f0a3a41abe837",
