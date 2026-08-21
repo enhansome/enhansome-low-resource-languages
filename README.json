@@ -15,7 +15,7 @@
             "last_commit": "2026-08-20T04:34:52Z",
             "owner": "nltk",
             "repo": "nltk",
-            "stars": 14700
+            "stars": 14702
           }
         },
         {
@@ -92,7 +92,7 @@
                 "last_commit": "2026-05-17T04:19:12Z",
                 "owner": "naptha",
                 "repo": "tesseract.js",
-                "stars": 38641
+                "stars": 38651
               }
             },
             {
@@ -122,7 +122,7 @@
                 "last_commit": "2026-08-20T04:34:52Z",
                 "owner": "nltk",
                 "repo": "nltk",
-                "stars": 14700
+                "stars": 14702
               }
             },
             {
@@ -149,10 +149,10 @@
                 "archived": false,
                 "id": 3618686,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T09:08:35Z",
+                "last_commit": "2026-08-21T11:58:21Z",
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10379
+                "stars": 10382
               }
             },
             {
@@ -164,7 +164,7 @@
                 "archived": false,
                 "id": 11008076,
                 "language": "Java",
-                "last_commit": "2026-06-28T21:39:32Z",
+                "last_commit": "2026-08-21T20:34:24Z",
                 "owner": "stanfordnlp",
                 "repo": "CoreNLP",
                 "stars": 10102
@@ -212,7 +212,7 @@
                 "last_commit": "2026-08-16T16:55:09Z",
                 "owner": "hunspell",
                 "repo": "hunspell",
-                "stars": 2569
+                "stars": 2570
               }
             },
             {
@@ -284,7 +284,7 @@
                 "archived": false,
                 "id": 14051004,
                 "language": "Java",
-                "last_commit": "2026-08-20T19:59:56Z",
+                "last_commit": "2026-08-21T20:44:32Z",
                 "owner": "IQSS",
                 "repo": "dataverse",
                 "stars": 1068
@@ -362,7 +362,7 @@
                 "last_commit": "2023-09-10T05:05:39Z",
                 "owner": "percyliang",
                 "repo": "brown-cluster",
-                "stars": 427
+                "stars": 426
               }
             },
             {
@@ -419,7 +419,7 @@
                 "archived": false,
                 "id": 18795673,
                 "language": "HTML",
-                "last_commit": "2026-08-20T22:05:26Z",
+                "last_commit": "2026-08-21T13:32:58Z",
                 "owner": "UniversalDependencies",
                 "repo": "docs",
                 "stars": 297
@@ -464,7 +464,7 @@
                 "archived": false,
                 "id": 19850189,
                 "language": "Perl",
-                "last_commit": "2026-08-20T12:28:03Z",
+                "last_commit": "2026-08-21T09:39:13Z",
                 "owner": "UniversalDependencies",
                 "repo": "tools",
                 "stars": 220
@@ -509,7 +509,7 @@
                 "archived": false,
                 "id": 5444100,
                 "language": "JavaScript",
-                "last_commit": "2026-08-13T20:58:22Z",
+                "last_commit": "2026-08-21T21:43:12Z",
                 "owner": "wikimedia",
                 "repo": "jquery.ime",
                 "stars": 190
@@ -599,7 +599,7 @@
                 "archived": false,
                 "id": 2569212,
                 "language": "C#",
-                "last_commit": "2026-08-20T21:04:42Z",
+                "last_commit": "2026-08-21T20:53:53Z",
                 "owner": "sillsdev",
                 "repo": "FieldWorks",
                 "stars": 111
@@ -647,7 +647,7 @@
                 "last_commit": "2026-08-14T08:00:02Z",
                 "owner": "sillsdev",
                 "repo": "icu-dotnet",
-                "stars": 82
+                "stars": 83
               }
             },
             {
@@ -779,7 +779,7 @@
                 "archived": false,
                 "id": 14133680,
                 "language": "C#",
-                "last_commit": "2026-08-20T21:25:10Z",
+                "last_commit": "2026-08-21T22:35:11Z",
                 "owner": "BloomBooks",
                 "repo": "BloomDesktop",
                 "stars": 44
@@ -809,7 +809,7 @@
                 "archived": false,
                 "id": 7745781,
                 "language": "C#",
-                "last_commit": "2026-08-20T21:04:42Z",
+                "last_commit": "2026-08-21T15:23:32Z",
                 "owner": "sillsdev",
                 "repo": "machine",
                 "stars": 29
@@ -1109,7 +1109,7 @@
                 "archived": false,
                 "id": 87927599,
                 "language": "Rust",
-                "last_commit": "2026-08-14T18:51:49Z",
+                "last_commit": "2026-08-21T21:50:53Z",
                 "owner": "divvun",
                 "repo": "divvunspell",
                 "stars": 14
@@ -1889,7 +1889,7 @@
                 "archived": false,
                 "id": 34856375,
                 "language": "C#",
-                "last_commit": "2026-06-02T11:30:08Z",
+                "last_commit": "2026-08-21T03:37:15Z",
                 "owner": "sillsdev",
                 "repo": "LfMerge",
                 "stars": 2
@@ -2425,7 +2425,7 @@
             "archived": false,
             "id": 26063183,
             "language": "Pascal",
-            "last_commit": "2026-08-20T19:37:05Z",
+            "last_commit": "2026-08-21T21:04:33Z",
             "owner": "keymanapp",
             "repo": "keyman",
             "stars": 529
@@ -2455,7 +2455,7 @@
             "archived": false,
             "id": 11495975,
             "language": "HTML",
-            "last_commit": "2026-08-19T11:06:12Z",
+            "last_commit": "2026-08-21T10:48:31Z",
             "owner": "keymanapp",
             "repo": "keyboards",
             "stars": 203
@@ -2470,7 +2470,7 @@
             "archived": false,
             "id": 5444100,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T20:58:22Z",
+            "last_commit": "2026-08-21T21:43:12Z",
             "owner": "wikimedia",
             "repo": "jquery.ime",
             "stars": 190
@@ -3268,7 +3268,7 @@
             "last_commit": "2025-09-22T07:06:00Z",
             "owner": "kaldi-asr",
             "repo": "kaldi",
-            "stars": 15462
+            "stars": 15464
           }
         },
         {
@@ -3478,10 +3478,10 @@
             "archived": false,
             "id": 7270538,
             "language": "Rust",
-            "last_commit": "2026-08-20T20:16:46Z",
+            "last_commit": "2026-08-21T19:54:42Z",
             "owner": "ankitects",
             "repo": "anki",
-            "stars": 29935
+            "stars": 29948
           }
         },
         {
@@ -3496,7 +3496,7 @@
             "last_commit": "2026-01-02T01:46:09Z",
             "owner": "tianshanghong",
             "repo": "awesome-anki",
-            "stars": 2072
+            "stars": 2073
           }
         },
         {
@@ -5023,7 +5023,7 @@
                     "last_commit": "2026-08-20T21:23:36Z",
                     "owner": "moment",
                     "repo": "moment",
-                    "stars": 47914
+                    "stars": 47915
                   }
                 },
                 {
@@ -5035,7 +5035,7 @@
                     "archived": false,
                     "id": 12246785,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-18T00:00:38Z",
+                    "last_commit": "2026-08-21T21:03:45Z",
                     "owner": "wenzhixin",
                     "repo": "bootstrap-table",
                     "stars": 11808
@@ -5481,7 +5481,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T22:48:38.807Z",
+    "last_updated": "2026-08-21T22:45:19.506Z",
     "original_repository": "RichardLitt/low-resource-languages",
     "original_repository_id": 22130396,
     "original_repository_sha": "fd66b730a731a052b8a2d49f164f0a3a41abe837",
