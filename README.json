@@ -12,7 +12,7 @@
             "archived": false,
             "id": 299862,
             "language": "Python",
-            "last_commit": "2026-08-24T04:28:39Z",
+            "last_commit": "2026-08-24T14:26:13Z",
             "owner": "nltk",
             "repo": "nltk",
             "stars": 14702
@@ -121,7 +121,7 @@
                 "last_commit": "2026-05-17T04:19:12Z",
                 "owner": "naptha",
                 "repo": "tesseract.js",
-                "stars": 38662
+                "stars": 38667
               }
             },
             {
@@ -148,7 +148,7 @@
                 "archived": false,
                 "id": 299862,
                 "language": "Python",
-                "last_commit": "2026-08-24T04:28:39Z",
+                "last_commit": "2026-08-24T14:26:13Z",
                 "owner": "nltk",
                 "repo": "nltk",
                 "stars": 14702
@@ -193,7 +193,7 @@
                 "archived": false,
                 "id": 11008076,
                 "language": "Java",
-                "last_commit": "2026-08-24T07:05:27Z",
+                "last_commit": "2026-08-24T22:39:25Z",
                 "owner": "stanfordnlp",
                 "repo": "CoreNLP",
                 "stars": 10102
@@ -208,10 +208,10 @@
                 "archived": false,
                 "id": 104854615,
                 "language": "Python",
-                "last_commit": "2026-08-23T17:56:54Z",
+                "last_commit": "2026-08-24T14:33:42Z",
                 "owner": "stanfordnlp",
                 "repo": "stanza",
-                "stars": 7866
+                "stars": 7867
               }
             },
             {
@@ -313,7 +313,7 @@
                 "archived": false,
                 "id": 14051004,
                 "language": "Java",
-                "last_commit": "2026-08-21T20:44:32Z",
+                "last_commit": "2026-08-24T20:19:32Z",
                 "owner": "IQSS",
                 "repo": "dataverse",
                 "stars": 1069
@@ -628,7 +628,7 @@
                 "archived": false,
                 "id": 2569212,
                 "language": "C#",
-                "last_commit": "2026-08-22T08:38:05Z",
+                "last_commit": "2026-08-24T22:06:31Z",
                 "owner": "sillsdev",
                 "repo": "FieldWorks",
                 "stars": 111
@@ -808,7 +808,7 @@
                 "archived": false,
                 "id": 14133680,
                 "language": "C#",
-                "last_commit": "2026-08-24T14:15:06Z",
+                "last_commit": "2026-08-24T22:25:56Z",
                 "owner": "BloomBooks",
                 "repo": "BloomDesktop",
                 "stars": 44
@@ -2454,7 +2454,7 @@
             "archived": false,
             "id": 26063183,
             "language": "Pascal",
-            "last_commit": "2026-08-24T11:41:03Z",
+            "last_commit": "2026-08-24T20:35:12Z",
             "owner": "keymanapp",
             "repo": "keyman",
             "stars": 529
@@ -3507,10 +3507,10 @@
             "archived": false,
             "id": 7270538,
             "language": "Rust",
-            "last_commit": "2026-08-24T14:16:51Z",
+            "last_commit": "2026-08-24T21:11:42Z",
             "owner": "ankitects",
             "repo": "anki",
-            "stars": 30009
+            "stars": 30021
           }
         },
         {
@@ -3525,7 +3525,7 @@
             "last_commit": "2026-01-02T01:46:09Z",
             "owner": "tianshanghong",
             "repo": "awesome-anki",
-            "stars": 2077
+            "stars": 2078
           }
         },
         {
@@ -4186,7 +4186,7 @@
             "archived": false,
             "id": 867374273,
             "language": null,
-            "last_commit": "2026-08-23T21:56:54Z",
+            "last_commit": "2026-08-24T17:42:11Z",
             "owner": "commoncrawl",
             "repo": "web-languages",
             "stars": 71
@@ -5155,7 +5155,7 @@
                     "last_commit": "2026-08-23T20:27:38Z",
                     "owner": "moment",
                     "repo": "moment",
-                    "stars": 47915
+                    "stars": 47916
                   }
                 },
                 {
@@ -5167,7 +5167,7 @@
                     "archived": false,
                     "id": 12246785,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-22T00:00:37Z",
+                    "last_commit": "2026-08-24T21:04:37Z",
                     "owner": "wenzhixin",
                     "repo": "bootstrap-table",
                     "stars": 11809
@@ -5965,7 +5965,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:23:33.473Z",
+    "last_updated": "2026-08-24T22:47:28.524Z",
     "original_repository": "RichardLitt/low-resource-languages",
     "original_repository_id": 22130396,
     "original_repository_sha": "fd66b730a731a052b8a2d49f164f0a3a41abe837",
