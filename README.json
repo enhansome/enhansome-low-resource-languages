@@ -12,10 +12,10 @@
             "archived": false,
             "id": 299862,
             "language": "Python",
-            "last_commit": "2026-08-20T04:34:52Z",
+            "last_commit": "2026-08-24T04:28:39Z",
             "owner": "nltk",
             "repo": "nltk",
-            "stars": 14701
+            "stars": 14702
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2024-06-07T07:14:41Z",
             "owner": "anoopkunchukuttan",
             "repo": "indic_nlp_library",
-            "stars": 644
+            "stars": 645
           }
         },
         {
@@ -81,6 +81,35 @@
         {
           "children": [
             {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "WeSay",
+                  "description": "Allows language communities to build their own dictionaries. https://software.sil.org/wesay/ (by the SIL International).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 14127927,
+                    "language": "C#",
+                    "last_commit": "2026-01-30T01:03:25Z",
+                    "owner": "sillsdev",
+                    "repo": "wesay",
+                    "stars": 20
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Utilities"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Single language lexicography projects and utilities"
+        },
+        {
+          "children": [
+            {
               "node_type": "item",
               "title": "Tesseract.js",
               "description": "Pure Javascript OCR for 62 Languages 📖🎉🖥 http://tesseract.projectnaptha.com/.",
@@ -92,7 +121,7 @@
                 "last_commit": "2026-05-17T04:19:12Z",
                 "owner": "naptha",
                 "repo": "tesseract.js",
-                "stars": 38660
+                "stars": 38662
               }
             },
             {
@@ -119,10 +148,10 @@
                 "archived": false,
                 "id": 299862,
                 "language": "Python",
-                "last_commit": "2026-08-20T04:34:52Z",
+                "last_commit": "2026-08-24T04:28:39Z",
                 "owner": "nltk",
                 "repo": "nltk",
-                "stars": 14701
+                "stars": 14702
               }
             },
             {
@@ -137,7 +166,7 @@
                 "last_commit": "2026-02-22T21:53:54Z",
                 "owner": "NaturalNode",
                 "repo": "natural",
-                "stars": 10879
+                "stars": 10881
               }
             },
             {
@@ -152,7 +181,7 @@
                 "last_commit": "2026-08-21T11:58:21Z",
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10383
+                "stars": 10382
               }
             },
             {
@@ -164,7 +193,7 @@
                 "archived": false,
                 "id": 11008076,
                 "language": "Java",
-                "last_commit": "2026-08-23T22:30:54Z",
+                "last_commit": "2026-08-24T07:05:27Z",
                 "owner": "stanfordnlp",
                 "repo": "CoreNLP",
                 "stars": 10102
@@ -269,7 +298,7 @@
                 "archived": false,
                 "id": 2740148,
                 "language": "Java",
-                "last_commit": "2026-08-22T01:15:43Z",
+                "last_commit": "2026-08-24T12:46:15Z",
                 "owner": "apache",
                 "repo": "opennlp",
                 "stars": 1602
@@ -419,7 +448,7 @@
                 "archived": false,
                 "id": 18795673,
                 "language": "HTML",
-                "last_commit": "2026-08-21T13:32:58Z",
+                "last_commit": "2026-08-24T12:51:17Z",
                 "owner": "UniversalDependencies",
                 "repo": "docs",
                 "stars": 297
@@ -464,7 +493,7 @@
                 "archived": false,
                 "id": 19850189,
                 "language": "Perl",
-                "last_commit": "2026-08-23T09:32:47Z",
+                "last_commit": "2026-08-24T11:36:20Z",
                 "owner": "UniversalDependencies",
                 "repo": "tools",
                 "stars": 220
@@ -779,7 +808,7 @@
                 "archived": false,
                 "id": 14133680,
                 "language": "C#",
-                "last_commit": "2026-08-23T22:22:56Z",
+                "last_commit": "2026-08-24T14:15:06Z",
                 "owner": "BloomBooks",
                 "repo": "BloomDesktop",
                 "stars": 44
@@ -1109,7 +1138,7 @@
                 "archived": false,
                 "id": 87927599,
                 "language": "Rust",
-                "last_commit": "2026-08-23T18:23:28Z",
+                "last_commit": "2026-08-24T10:57:25Z",
                 "owner": "divvun",
                 "repo": "divvunspell",
                 "stars": 14
@@ -1889,7 +1918,7 @@
                 "archived": false,
                 "id": 34856375,
                 "language": "C#",
-                "last_commit": "2026-08-21T03:37:15Z",
+                "last_commit": "2026-08-24T10:18:21Z",
                 "owner": "sillsdev",
                 "repo": "LfMerge",
                 "stars": 2
@@ -2425,7 +2454,7 @@
             "archived": false,
             "id": 26063183,
             "language": "Pascal",
-            "last_commit": "2026-08-22T22:55:59Z",
+            "last_commit": "2026-08-24T11:41:03Z",
             "owner": "keymanapp",
             "repo": "keyman",
             "stars": 529
@@ -2509,7 +2538,7 @@
             "last_commit": "2024-07-03T18:47:31Z",
             "owner": "nlplab",
             "repo": "brat",
-            "stars": 1878
+            "stars": 1879
           }
         },
         {
@@ -2776,7 +2805,7 @@
             "last_commit": "2026-08-10T15:43:17Z",
             "owner": "cmusphinx",
             "repo": "pocketsphinx",
-            "stars": 4332
+            "stars": 4333
           }
         },
         {
@@ -2791,7 +2820,7 @@
             "last_commit": "2026-08-20T00:18:52Z",
             "owner": "MontrealCorpusTools",
             "repo": "Montreal-Forced-Aligner",
-            "stars": 1869
+            "stars": 1870
           }
         },
         {
@@ -3232,7 +3261,7 @@
             "last_commit": "2025-01-17T18:26:22Z",
             "owner": "marytts",
             "repo": "marytts",
-            "stars": 2582
+            "stars": 2583
           }
         },
         {
@@ -3268,7 +3297,7 @@
             "last_commit": "2025-09-22T07:06:00Z",
             "owner": "kaldi-asr",
             "repo": "kaldi",
-            "stars": 15465
+            "stars": 15466
           }
         },
         {
@@ -3478,10 +3507,10 @@
             "archived": false,
             "id": 7270538,
             "language": "Rust",
-            "last_commit": "2026-08-22T07:26:34Z",
+            "last_commit": "2026-08-24T14:16:51Z",
             "owner": "ankitects",
             "repo": "anki",
-            "stars": 29987
+            "stars": 30009
           }
         },
         {
@@ -3496,7 +3525,7 @@
             "last_commit": "2026-01-02T01:46:09Z",
             "owner": "tianshanghong",
             "repo": "awesome-anki",
-            "stars": 2076
+            "stars": 2077
           }
         },
         {
@@ -3713,6 +3742,21 @@
       "description": "FieldDB is actively worked on by the FieldDB (Formally known as OpenSourceFieldlinguistics) group. These repos explicitly work with it but could be repurposed for other projects.",
       "items": [
         {
+          "node_type": "item",
+          "title": "FieldDB",
+          "description": "An offline/online field database which adapts to its user's terminology and I-Language, has plugins for various data automation routines along the process of primary data collection to cleaning to publication and archival. use.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3602598,
+            "language": "JavaScript",
+            "last_commit": "2026-01-26T03:31:20Z",
+            "owner": "FieldDB",
+            "repo": "FieldDB",
+            "stars": 82
+          }
+        },
+        {
           "children": [
             {
               "node_type": "item",
@@ -3768,7 +3812,7 @@
                 "archived": false,
                 "id": 5822923,
                 "language": "JavaScript",
-                "last_commit": "2026-08-17T07:10:40Z",
+                "last_commit": "2026-08-24T07:19:41Z",
                 "owner": "FieldDB",
                 "repo": "AuthenticationWebService",
                 "stars": 0
@@ -4188,6 +4232,72 @@
           "children": [
             {
               "node_type": "item",
+              "title": "wiinaq",
+              "description": "Word Wiinaq is a Kodiak Alutiiq dictionary web application with automatically generated ending tables and souped-up search capabilities. It is written in Python using Django.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 77114857,
+                "language": "Python",
+                "last_commit": "2023-04-21T22:37:35Z",
+                "owner": "futurulus",
+                "repo": "wiinaq",
+                "stars": 2
+              }
+            }
+          ],
+          "description": "ems :: sugpiaq",
+          "node_type": "group",
+          "title": "Alutiiq"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "HornMorpho",
+              "description": "morphological analysis and generation of Amharic and Oromo verbs and nouns and Tigrinya verbs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34103540,
+                "language": null,
+                "last_commit": "2015-04-17T07:59:23Z",
+                "owner": "LowResourceLanguages",
+                "repo": "hltdi-morphology",
+                "stars": 5
+              }
+            }
+          ],
+          "description": "amh :: Amarigna / አማርኛ",
+          "node_type": "group",
+          "title": "Amharic"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "belmorph",
+              "description": "Zero-dependency morphological analyzer for Belarusian (JavaScript/TypeScript).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1167964386,
+                "language": "TypeScript",
+                "last_commit": "2026-08-11T19:42:39Z",
+                "owner": "alesdrobysh",
+                "repo": "belmorph",
+                "stars": 1
+              }
+            }
+          ],
+          "description": "bel :: беларуская мова",
+          "node_type": "group",
+          "title": "Belarusian"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Bengali Writer",
               "description": "`Bengali Writer' is a set of utilities for computerized editing and typesetting in Bengali, a language of India and Bangladesh. It comprises a set of fonts for Bengali in several formats (METAFONT, BDF, PS), a text editor with spell-cheking, export, and more. (Original project is on SourceForge: https://sourceforge.net/projects/bengaliwriter/).",
               "children": [],
@@ -4220,6 +4330,28 @@
           "description": "ben :: Bangla / বাংলা",
           "node_type": "group",
           "title": "Bengali"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Chichewa",
+              "description": "NLP resources for Chichewa.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5315404,
+                "language": "Makefile",
+                "last_commit": "2021-04-03T13:01:04Z",
+                "owner": "kscanne",
+                "repo": "chichewa",
+                "stars": 11
+              }
+            }
+          ],
+          "description": "nya :: Chicheŵa",
+          "node_type": "group",
+          "title": "Chichewa"
         },
         {
           "children": [
@@ -5023,7 +5155,7 @@
                     "last_commit": "2026-08-23T20:27:38Z",
                     "owner": "moment",
                     "repo": "moment",
-                    "stars": 47916
+                    "stars": 47915
                   }
                 },
                 {
@@ -5175,6 +5307,94 @@
           "children": [
             {
               "node_type": "item",
+              "title": "ParaMorfo",
+              "description": "morphological analysis and generation of Spanish and Guarani verbs, nouns, and adjectives.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34103540,
+                "language": null,
+                "last_commit": "2015-04-17T07:59:23Z",
+                "owner": "LowResourceLanguages",
+                "repo": "hltdi-morphology",
+                "stars": 5
+              }
+            }
+          ],
+          "description": "grn :: Guarani",
+          "node_type": "group",
+          "title": "Guarani"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Hausa",
+              "description": "Repository for Hausa NLP tools.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41367185,
+                "language": null,
+                "last_commit": "2015-08-25T14:18:53Z",
+                "owner": "amir-zeldes",
+                "repo": "hausa",
+                "stars": 6
+              }
+            }
+          ],
+          "description": "hau :: Hausa / هَرْشَن هَوْسَ",
+          "node_type": "group",
+          "title": "Hausa"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "hindi-morph",
+              "description": "An open source morphological analyzer for Hindi.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11865504,
+                "language": "JavaScript",
+                "last_commit": "2013-05-01T00:00:07Z",
+                "owner": "FieldDB",
+                "repo": "hindi-morph",
+                "stars": 0
+              }
+            }
+          ],
+          "description": "hin :: Hindi / हिन्दी",
+          "node_type": "group",
+          "title": "Hindi"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "IceNLP",
+              "description": "IceNLP is an open source Natural Language Processing (NLP) toolkit for analyzing and processing Icelandic text. The toolkit is implemented in Java.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45271072,
+                "language": "Lex",
+                "last_commit": "2024-02-23T11:39:12Z",
+                "owner": "hrafnl",
+                "repo": "icenlp",
+                "stars": 22
+              }
+            }
+          ],
+          "description": "isl :: Íslenska",
+          "node_type": "group",
+          "title": "Icelandic"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "InuktitutComputing",
               "description": "Inuktitut Morphological Analyser, transcoder, transliterator, corpus tools, and lexical lists for working with Inuktitut. Usable online at http://inuktitutcomputing.ca/index.php.",
               "children": [],
@@ -5294,6 +5514,94 @@
           "children": [
             {
               "node_type": "item",
+              "title": "kin-morph-fst",
+              "description": "Kinyarwanda morphological analyzer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12390232,
+                "language": "Java",
+                "last_commit": "2013-08-26T21:45:41Z",
+                "owner": "ldmt-muri",
+                "repo": "kin-morph-fst",
+                "stars": 6
+              }
+            }
+          ],
+          "description": "kin :: Ikinyarwanda",
+          "node_type": "group",
+          "title": "Kinyarwanda"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "kurmanji-stemmer",
+              "description": "NLTK based kurmanji stemmer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33044866,
+                "language": "Python",
+                "last_commit": "2015-08-26T18:51:32Z",
+                "owner": "adelra",
+                "repo": "kurmanji-stemmer",
+                "stars": 1
+              }
+            }
+          ],
+          "description": "kur :: Kurdî",
+          "node_type": "group",
+          "title": "Kurdish"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Lushootseed",
+              "description": "Joshua Crowgey's work on Lushootseed http://students.washington.edu/jcrowgey/lushootseed/.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 59485556,
+                "language": null,
+                "last_commit": "2016-05-23T13:36:30Z",
+                "owner": "LowResourceLanguages",
+                "repo": "lushootseed",
+                "stars": 0
+              }
+            }
+          ],
+          "description": "lut :: Lushootseed",
+          "node_type": "group",
+          "title": "Lushootseed"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MorfoMelayu",
+              "description": "morphological analysis of Malay words.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34103540,
+                "language": null,
+                "last_commit": "2015-04-17T07:59:23Z",
+                "owner": "LowResourceLanguages",
+                "repo": "hltdi-morphology",
+                "stars": 5
+              }
+            }
+          ],
+          "description": "msa :: Bahasa Melayu",
+          "node_type": "group",
+          "title": "Malay"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "gaelg",
               "description": "NLP resources for Manx Gaelic, mainly in support of the gv2ga MT engine.",
               "children": [],
@@ -5326,6 +5634,50 @@
           "description": "glv :: Gaelg",
           "node_type": "group",
           "title": "Manx"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "migmaq-lessons",
+              "description": "Repository for website building Mi'gmaq language lessons.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21735422,
+                "language": "CSS",
+                "last_commit": "2015-06-03T15:26:42Z",
+                "owner": "FieldDB",
+                "repo": "migmaq-lessons",
+                "stars": 1
+              }
+            }
+          ],
+          "description": "mic :: Mi'kmaq",
+          "node_type": "group",
+          "title": "Migmaq"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "fredericajordarzambarino",
+              "description": "A web based game for mobile devices in minderico based in the \"Who Wants to be a Millionaire\" TV show.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22421594,
+                "language": "JavaScript",
+                "last_commit": "2014-09-04T21:10:30Z",
+                "owner": "cidles",
+                "repo": "fredericajordarzambarino",
+                "stars": 0
+              }
+            }
+          ],
+          "description": "drc :: Piação do Ninhou",
+          "node_type": "group",
+          "title": "Minderico"
         },
         {
           "children": [
@@ -5378,6 +5730,72 @@
           "description": "oji :: Ojibwe, Oddawa, Chippewa, Anishinaabemowin, ᐊᓂᔑᓈᐯᒧᐎᓐ",
           "node_type": "group",
           "title": "Nishnaabe"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "HornMorpho",
+              "description": "morphological analysis and generation of Amharic and Oromo verbs and nouns and Tigrinya verbs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34103540,
+                "language": null,
+                "last_commit": "2015-04-17T07:59:23Z",
+                "owner": "LowResourceLanguages",
+                "repo": "hltdi-morphology",
+                "stars": 5
+              }
+            }
+          ],
+          "description": "orm :: Oromo",
+          "node_type": "group",
+          "title": "Oromo"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AntiMorfo",
+              "description": "morphological analysis and generation of Quechua nouns, adjectives, and verbs and Spanish verbs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34103540,
+                "language": null,
+                "last_commit": "2015-04-17T07:59:23Z",
+                "owner": "LowResourceLanguages",
+                "repo": "hltdi-morphology",
+                "stars": 5
+              }
+            }
+          ],
+          "description": "que :: Runa Simi",
+          "node_type": "group",
+          "title": "Quechua"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "divvun-webdemo",
+              "description": "simple webdemo for divvun grammar checker. Website.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48810787,
+                "language": "JavaScript",
+                "last_commit": "2023-07-12T02:38:30Z",
+                "owner": "divvun",
+                "repo": "divvun-webdemo",
+                "stars": 2
+              }
+            }
+          ],
+          "description": "sma :: Sámi/Saami\nGiellatekno also supports many other minority Uralic and non-Uralic languages:",
+          "node_type": "group",
+          "title": "Sami"
         },
         {
           "children": [
@@ -5475,13 +5893,79 @@
           "description": "gla :: Gàidhlig",
           "node_type": "group",
           "title": "Scottish Gaelic"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "secwepemctsnem",
+              "description": "A project to help people learn Secwepemctsín.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 729699,
+                "language": "ActionScript",
+                "last_commit": "2010-10-28T18:58:21Z",
+                "owner": "neskie",
+                "repo": "secwepemctsnem",
+                "stars": 2
+              }
+            }
+          ],
+          "description": "shs :: Secwepemctsín",
+          "node_type": "group",
+          "title": "Secwepemctsin"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "HornMorpho",
+              "description": "morphological analysis and generation of Amharic and Oromo verbs and nouns and Tigrinya verbs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34103540,
+                "language": null,
+                "last_commit": "2015-04-17T07:59:23Z",
+                "owner": "LowResourceLanguages",
+                "repo": "hltdi-morphology",
+                "stars": 5
+              }
+            }
+          ],
+          "description": "tir :: Tigrinya / ትግርኛ",
+          "node_type": "group",
+          "title": "Tigrinya"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "UralicNLP",
+              "description": "A Python library for processing Uralic languages (Finnish, Skolt Sami, Erzya, Moksha, Komi-Zyrian and so on). The library provides an easy programmatic access to Giellatekno resources such as FST morphology and CG disambiguators. Other functionalities include UD parser, API for the Online Dictionary of Uralic Languages and interface to SemFi and SemUr semantic databases. The library is under active development and new features are added from time to time.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 113453169,
+                "language": "Python",
+                "last_commit": "2026-03-12T15:06:33Z",
+                "owner": "mikahama",
+                "repo": "uralicNLP",
+                "stars": 100
+              }
+            }
+          ],
+          "description": "urj :: Uralic languages",
+          "node_type": "group",
+          "title": "Uralic"
         }
       ],
       "title": "Language Specific Projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T22:41:50.979Z",
+    "last_updated": "2026-08-24T14:23:33.473Z",
     "original_repository": "RichardLitt/low-resource-languages",
     "original_repository_id": 22130396,
     "original_repository_sha": "fd66b730a731a052b8a2d49f164f0a3a41abe837",
