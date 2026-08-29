@@ -111,7 +111,7 @@ Tools which are built for these languages are not included (unless relevant for 
 
 This list is particularly good at one thing; showing the kinds of tools that exist in the field, generically. However, for in depth research into a specific language or tool suite, it does not perform exceptionally well. For instance, listing all of the [Firefox language packs](https://addons.mozilla.org/eu/firefox/language-tools/) or [Apertium language modules](https://github.com/apertium/apertium-languages) ⭐ 40 | 🐛 4 | 📅 2021-05-27 for each low resource language would be unhelpful, as would be including all of the tools available for Basque noted in the [ACL Wiki](https://aclweb.org/aclwiki/Resources_for_Basque), which would mainly mean cataloguing tools through the [IXA group](http://ixa.si.ehu.es/produktuak?language=en), some of which are open source, and some are not. Instead, view this list as a starting point for more research.
 
-Looking for resources for code languages? Take a look at [the awesome lists collection](https://github.com/sindresorhus/awesome) ⭐ 500,884 | 🐛 105 | 📅 2026-08-21.
+Looking for resources for code languages? Take a look at [the awesome lists collection](https://github.com/sindresorhus/awesome) ⭐ 500,891 | 🐛 105 | 📅 2026-08-21.
 
 ## Generic Repositories
 
@@ -403,7 +403,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 
 ## Automatic Speech Recognition (ASR)
 
-* [kaldi](https://github.com/kaldi-asr/kaldi) ⭐ 15,469 | 🐛 261 | 🌐 Shell | 📅 2025-09-22 - This is now the official location of the Kaldi project.
+* [kaldi](https://github.com/kaldi-asr/kaldi) ⭐ 15,470 | 🐛 261 | 🌐 Shell | 📅 2025-09-22 - This is now the official location of the Kaldi project.
 * [Elpis](https://github.com/CoEDL/elpis) ⭐ 161 | 🐛 77 | 🌐 Python | 📅 2024-06-02 - Elpis is software for creating speech recognition models and applying them to the transcription of audio. As of 2022, it gives access to Kaldi and Huggingface Transformers.
 * [Persephone](https://github.com/persephone-tools/persephone) ⭐ 159 | 🐛 91 | 🌐 Python | 📅 2023-04-18 - Persephone aims to make state-of-the-art phonemic transcription accessible to people involved in language documentation, who have a training corpus of about one to four hours of transcribed speech. As of 2022, Persephone is superseded by Elpis.
 

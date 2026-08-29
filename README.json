@@ -1295,7 +1295,7 @@
                 "id": 14133680,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-08-29T00:44:53Z",
+                "last_commit": "2026-08-29T04:23:59Z",
                 "open_issues": 57,
                 "owner": "BloomBooks",
                 "repo": "BloomDesktop",
@@ -5009,7 +5009,7 @@
             "open_issues": 261,
             "owner": "kaldi-asr",
             "repo": "kaldi",
-            "stars": 15469,
+            "stars": 15470,
             "topics": [
               "c-plus-plus",
               "cuda",
@@ -8826,7 +8826,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:44:10.191Z",
+    "last_updated": "2026-08-29T04:41:59.566Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for the conservation, development, and documentation of low resource (human) languages.",
