@@ -19,7 +19,7 @@
             "open_issues": 236,
             "owner": "nltk",
             "repo": "nltk",
-            "stars": 14707,
+            "stars": 14709,
             "topics": [
               "machine-learning",
               "natural-language-processing",
@@ -71,7 +71,7 @@
             "open_issues": 16,
             "owner": "AI4Bharat",
             "repo": "IndicTrans2",
-            "stars": 465,
+            "stars": 466,
             "topics": []
           },
           "first_seen": "2026-08-28T06:10:20.696Z"
@@ -171,7 +171,7 @@
                 "open_issues": 48,
                 "owner": "naptha",
                 "repo": "tesseract.js",
-                "stars": 38677,
+                "stars": 38679,
                 "topics": [
                   "deep-learning",
                   "javascript",
@@ -198,7 +198,7 @@
                 "open_issues": 554,
                 "owner": "facebookresearch",
                 "repo": "fastText",
-                "stars": 26535,
+                "stars": 26534,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:10:20.696Z"
@@ -219,7 +219,7 @@
                 "open_issues": 236,
                 "owner": "nltk",
                 "repo": "nltk",
-                "stars": 14707,
+                "stars": 14709,
                 "topics": [
                   "machine-learning",
                   "natural-language-processing",
@@ -291,11 +291,11 @@
                 "id": 11008076,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-29T02:44:17Z",
+                "last_commit": "2026-08-30T17:04:01Z",
                 "open_issues": 182,
                 "owner": "stanfordnlp",
                 "repo": "CoreNLP",
-                "stars": 10104,
+                "stars": 10106,
                 "topics": [
                   "named-entity-recognition",
                   "natural-language-processing",
@@ -322,7 +322,7 @@
                 "open_issues": 93,
                 "owner": "stanfordnlp",
                 "repo": "stanza",
-                "stars": 7869,
+                "stars": 7870,
                 "topics": [
                   "artificial-intelligence",
                   "corenlp",
@@ -382,11 +382,11 @@
                 "id": 37258357,
                 "language": "C++",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-08-16T16:55:09Z",
+                "last_commit": "2026-08-30T16:52:07Z",
                 "open_issues": 113,
                 "owner": "hunspell",
                 "repo": "hunspell",
-                "stars": 2573,
+                "stars": 2574,
                 "topics": [
                   "natural-language-processing",
                   "spell-check",
@@ -477,8 +477,8 @@
                 "id": 2740148,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T18:26:37Z",
-                "open_issues": 21,
+                "last_commit": "2026-08-30T23:07:59Z",
+                "open_issues": 19,
                 "owner": "apache",
                 "repo": "opennlp",
                 "stars": 1602,
@@ -784,7 +784,7 @@
                 "id": 19850189,
                 "language": "Perl",
                 "license": "GPL-2.0",
-                "last_commit": "2026-08-29T21:30:55Z",
+                "last_commit": "2026-08-30T14:05:58Z",
                 "open_issues": 5,
                 "owner": "UniversalDependencies",
                 "repo": "tools",
@@ -1295,8 +1295,8 @@
                 "id": 14133680,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-08-30T00:05:08Z",
-                "open_issues": 57,
+                "last_commit": "2026-08-30T22:35:33Z",
+                "open_issues": 58,
                 "owner": "BloomBooks",
                 "repo": "BloomDesktop",
                 "stars": 44,
@@ -1791,7 +1791,7 @@
                 "id": 87927599,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T22:02:30Z",
+                "last_commit": "2026-08-30T17:33:43Z",
                 "open_issues": 9,
                 "owner": "divvun",
                 "repo": "divvunspell",
@@ -3714,7 +3714,7 @@
             "open_issues": 187,
             "owner": "ijprest",
             "repo": "keyboard-layout-editor",
-            "stars": 1514,
+            "stars": 1515,
             "topics": []
           },
           "first_seen": "2026-08-28T06:10:20.696Z"
@@ -3731,11 +3731,11 @@
             "id": 26063183,
             "language": "Pascal",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T18:04:26Z",
-            "open_issues": 1182,
+            "last_commit": "2026-08-30T07:58:14Z",
+            "open_issues": 1185,
             "owner": "keymanapp",
             "repo": "keyman",
-            "stars": 531,
+            "stars": 532,
             "topics": [
               "android",
               "css",
@@ -4259,7 +4259,7 @@
             "open_issues": 132,
             "owner": "worldveil",
             "repo": "dejavu",
-            "stars": 6783,
+            "stars": 6784,
             "topics": []
           },
           "first_seen": "2026-08-28T06:10:20.696Z"
@@ -4305,8 +4305,8 @@
             "id": 18513454,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-26T16:03:14Z",
-            "open_issues": 55,
+            "last_commit": "2026-08-30T16:13:13Z",
+            "open_issues": 41,
             "owner": "cmusphinx",
             "repo": "pocketsphinx",
             "stars": 4335,
@@ -4334,7 +4334,7 @@
             "open_issues": 287,
             "owner": "MontrealCorpusTools",
             "repo": "Montreal-Forced-Aligner",
-            "stars": 1876,
+            "stars": 1875,
             "topics": [
               "acoustic-model",
               "forced-alignment",
@@ -4956,7 +4956,7 @@
             "open_issues": 134,
             "owner": "marytts",
             "repo": "marytts",
-            "stars": 2583,
+            "stars": 2582,
             "topics": [
               "java",
               "speech-synthesis",
@@ -4982,7 +4982,7 @@
             "open_issues": 42,
             "owner": "AI4Bharat",
             "repo": "Indic-TTS",
-            "stars": 392,
+            "stars": 394,
             "topics": []
           },
           "first_seen": "2026-08-28T06:10:20.696Z"
@@ -5009,7 +5009,7 @@
             "open_issues": 261,
             "owner": "kaldi-asr",
             "repo": "kaldi",
-            "stars": 15471,
+            "stars": 15472,
             "topics": [
               "c-plus-plus",
               "cuda",
@@ -5328,11 +5328,11 @@
             "id": 7270538,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T00:12:26Z",
+            "last_commit": "2026-08-31T00:07:20Z",
             "open_issues": 473,
             "owner": "ankitects",
             "repo": "anki",
-            "stars": 30122,
+            "stars": 30147,
             "topics": []
           },
           "first_seen": "2026-08-28T06:10:20.696Z"
@@ -7663,7 +7663,7 @@
                     "open_issues": 106,
                     "owner": "moment",
                     "repo": "moment",
-                    "stars": 47912,
+                    "stars": 47914,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:10:20.696Z"
@@ -8826,7 +8826,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T00:25:08.602Z",
+    "last_updated": "2026-08-31T00:39:17.113Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for the conservation, development, and documentation of low resource (human) languages.",
