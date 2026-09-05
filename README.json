@@ -171,7 +171,7 @@
                 "open_issues": 49,
                 "owner": "naptha",
                 "repo": "tesseract.js",
-                "stars": 38685,
+                "stars": 38686,
                 "topics": [
                   "deep-learning",
                   "javascript",
@@ -243,7 +243,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-02-22T21:53:54Z",
-                "open_issues": 87,
+                "open_issues": 86,
                 "owner": "NaturalNode",
                 "repo": "natural",
                 "stars": 10881,
@@ -267,7 +267,7 @@
                 "open_issues": 13,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10397,
+                "stars": 10399,
                 "topics": [
                   "audio",
                   "javascript",
@@ -295,7 +295,7 @@
                 "open_issues": 182,
                 "owner": "stanfordnlp",
                 "repo": "CoreNLP",
-                "stars": 10111,
+                "stars": 10110,
                 "topics": [
                   "named-entity-recognition",
                   "natural-language-processing",
@@ -318,11 +318,11 @@
                 "id": 104854615,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-04T15:41:16Z",
+                "last_commit": "2026-09-05T18:15:13Z",
                 "open_issues": 94,
                 "owner": "stanfordnlp",
                 "repo": "stanza",
-                "stars": 7873,
+                "stars": 7872,
                 "topics": [
                   "artificial-intelligence",
                   "corenlp",
@@ -386,7 +386,7 @@
                 "open_issues": 115,
                 "owner": "hunspell",
                 "repo": "hunspell",
-                "stars": 2580,
+                "stars": 2581,
                 "topics": [
                   "natural-language-processing",
                   "spell-check",
@@ -477,8 +477,8 @@
                 "id": 2740148,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T21:59:40Z",
-                "open_issues": 14,
+                "last_commit": "2026-09-05T18:29:28Z",
+                "open_issues": 12,
                 "owner": "apache",
                 "repo": "opennlp",
                 "stars": 1602,
@@ -509,7 +509,7 @@
                 "open_issues": 992,
                 "owner": "IQSS",
                 "repo": "dataverse",
-                "stars": 1072,
+                "stars": 1071,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -553,7 +553,7 @@
                 "open_issues": 32,
                 "owner": "dmort27",
                 "repo": "epitran",
-                "stars": 836,
+                "stars": 837,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:10:20.696Z"
@@ -784,7 +784,7 @@
                 "id": 19850189,
                 "language": "Perl",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-04T22:07:09Z",
+                "last_commit": "2026-09-05T08:25:05Z",
                 "open_issues": 5,
                 "owner": "UniversalDependencies",
                 "repo": "tools",
@@ -1002,7 +1002,7 @@
                 "id": 2569212,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-04T21:15:24Z",
+                "last_commit": "2026-09-05T22:34:17Z",
                 "open_issues": 17,
                 "owner": "sillsdev",
                 "repo": "FieldWorks",
@@ -1052,7 +1052,7 @@
                 "open_issues": 15,
                 "owner": "delph-in",
                 "repo": "pydelphin",
-                "stars": 88,
+                "stars": 89,
                 "topics": [
                   "delph-in",
                   "hpsg",
@@ -1295,8 +1295,8 @@
                 "id": 14133680,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-04T23:05:26Z",
-                "open_issues": 68,
+                "last_commit": "2026-09-05T23:19:33Z",
+                "open_issues": 67,
                 "owner": "BloomBooks",
                 "repo": "BloomDesktop",
                 "stars": 44,
@@ -1337,7 +1337,7 @@
                 "id": 7745781,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-04T15:36:41Z",
+                "last_commit": "2026-09-05T04:12:30Z",
                 "open_issues": 22,
                 "owner": "sillsdev",
                 "repo": "machine",
@@ -3731,11 +3731,11 @@
             "id": 26063183,
             "language": "Pascal",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-04T21:52:20Z",
-            "open_issues": 1162,
+            "last_commit": "2026-09-05T18:03:49Z",
+            "open_issues": 1159,
             "owner": "keymanapp",
             "repo": "keyman",
-            "stars": 535,
+            "stars": 534,
             "topics": [
               "android",
               "css",
@@ -3788,7 +3788,7 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2026-09-04T17:01:33Z",
-            "open_issues": 35,
+            "open_issues": 37,
             "owner": "keymanapp",
             "repo": "keyboards",
             "stars": 204,
@@ -4309,7 +4309,7 @@
             "open_issues": 41,
             "owner": "cmusphinx",
             "repo": "pocketsphinx",
-            "stars": 4337,
+            "stars": 4338,
             "topics": [
               "c",
               "python",
@@ -5328,11 +5328,11 @@
             "id": 7270538,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-04T19:02:52Z",
-            "open_issues": 483,
+            "last_commit": "2026-09-05T01:56:32Z",
+            "open_issues": 486,
             "owner": "ankitects",
             "repo": "anki",
-            "stars": 30321,
+            "stars": 30342,
             "topics": []
           },
           "first_seen": "2026-08-28T06:10:20.696Z"
@@ -6207,7 +6207,7 @@
             "open_issues": 29,
             "owner": "notofonts",
             "repo": "noto-fonts",
-            "stars": 2501,
+            "stars": 2500,
             "topics": []
           },
           "first_seen": "2026-08-28T06:10:20.696Z"
@@ -7663,7 +7663,7 @@
                     "open_issues": 71,
                     "owner": "moment",
                     "repo": "moment",
-                    "stars": 47915,
+                    "stars": 47917,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:10:20.696Z"
@@ -8826,7 +8826,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T00:10:00.954Z",
+    "last_updated": "2026-09-05T23:58:09.950Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for the conservation, development, and documentation of low resource (human) languages.",
