@@ -16,7 +16,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-24T11:58:10Z",
-            "open_issues": 260,
+            "open_issues": 261,
             "owner": "nltk",
             "repo": "nltk",
             "stars": 14727,
@@ -71,7 +71,7 @@
             "open_issues": 17,
             "owner": "AI4Bharat",
             "repo": "IndicTrans2",
-            "stars": 475,
+            "stars": 476,
             "topics": []
           },
           "first_seen": "2026-08-28T06:10:20.696Z"
@@ -198,7 +198,7 @@
                 "open_issues": 554,
                 "owner": "facebookresearch",
                 "repo": "fastText",
-                "stars": 26528,
+                "stars": 26527,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:10:20.696Z"
@@ -216,7 +216,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-24T11:58:10Z",
-                "open_issues": 260,
+                "open_issues": 261,
                 "owner": "nltk",
                 "repo": "nltk",
                 "stars": 14727,
@@ -246,7 +246,7 @@
                 "open_issues": 88,
                 "owner": "NaturalNode",
                 "repo": "natural",
-                "stars": 10881,
+                "stars": 10880,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:10:20.696Z"
@@ -267,7 +267,7 @@
                 "open_issues": 13,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10417,
+                "stars": 10419,
                 "topics": [
                   "audio",
                   "javascript",
@@ -436,7 +436,7 @@
                 "open_issues": 681,
                 "owner": "mozilla-b2g",
                 "repo": "gaia",
-                "stars": 2098,
+                "stars": 2099,
                 "topics": [
                   "abandoned",
                   "unmaintained"
@@ -481,7 +481,7 @@
                 "open_issues": 15,
                 "owner": "apache",
                 "repo": "opennlp",
-                "stars": 1602,
+                "stars": 1603,
                 "topics": [
                   "apache",
                   "compling",
@@ -784,7 +784,7 @@
                 "id": 19850189,
                 "language": "Perl",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-25T11:14:14Z",
+                "last_commit": "2026-09-26T11:55:12Z",
                 "open_issues": 5,
                 "owner": "UniversalDependencies",
                 "repo": "tools",
@@ -1002,8 +1002,8 @@
                 "id": 2569212,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-25T22:52:30Z",
-                "open_issues": 13,
+                "last_commit": "2026-09-26T16:32:20Z",
+                "open_issues": 10,
                 "owner": "sillsdev",
                 "repo": "FieldWorks",
                 "stars": 111,
@@ -1295,8 +1295,8 @@
                 "id": 14133680,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-26T00:17:11Z",
-                "open_issues": 87,
+                "last_commit": "2026-09-27T00:23:39Z",
+                "open_issues": 89,
                 "owner": "BloomBooks",
                 "repo": "BloomDesktop",
                 "stars": 44,
@@ -1337,7 +1337,7 @@
                 "id": 7745781,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-25T22:57:29Z",
+                "last_commit": "2026-09-26T14:07:16Z",
                 "open_issues": 31,
                 "owner": "sillsdev",
                 "repo": "machine",
@@ -3791,7 +3791,7 @@
             "open_issues": 37,
             "owner": "keymanapp",
             "repo": "keyboards",
-            "stars": 208,
+            "stars": 209,
             "topics": [
               "keyboard",
               "keyboards",
@@ -5329,10 +5329,10 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-09-25T20:51:07Z",
-            "open_issues": 545,
+            "open_issues": 561,
             "owner": "ankitects",
             "repo": "anki",
-            "stars": 31544,
+            "stars": 31580,
             "topics": []
           },
           "first_seen": "2026-08-28T06:10:20.696Z"
@@ -5353,7 +5353,7 @@
             "open_issues": 15,
             "owner": "tianshanghong",
             "repo": "awesome-anki",
-            "stars": 2099,
+            "stars": 2100,
             "topics": [
               "anki",
               "anki-addon",
@@ -7663,7 +7663,7 @@
                     "open_issues": 57,
                     "owner": "moment",
                     "repo": "moment",
-                    "stars": 47908,
+                    "stars": 47907,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:10:20.696Z"
@@ -8805,7 +8805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T00:39:57.045Z",
+    "last_updated": "2026-09-27T00:41:22.583Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for the conservation, development, and documentation of low resource (human) languages.",
