@@ -785,7 +785,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-04-15T04:05:52Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "cisnlp",
                 "repo": "GlotLID",
                 "stars": 220,
@@ -1658,7 +1658,7 @@
                 "open_issues": 0,
                 "owner": "christos-c",
                 "repo": "bible-corpus-tools",
-                "stars": 16,
+                "stars": 17,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:10:20.696Z"
@@ -3731,7 +3731,7 @@
             "id": 26063183,
             "language": "Pascal",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T18:04:06Z",
+            "last_commit": "2026-10-03T03:27:19Z",
             "open_issues": 1191,
             "owner": "keymanapp",
             "repo": "keyman",
@@ -4391,7 +4391,7 @@
         {
           "node_type": "item",
           "title": "sphinxbase",
-          "description": null,
+          "description": "cmusphinx/sphinxbase",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -4454,7 +4454,7 @@
         {
           "node_type": "item",
           "title": "node-pocketsphinx",
-          "description": null,
+          "description": "cmusphinx/node-pocketsphinx",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4496,7 +4496,7 @@
         {
           "node_type": "item",
           "title": "sphinxtrain",
-          "description": null,
+          "description": "cmusphinx/sphinxtrain",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4727,7 +4727,7 @@
         {
           "node_type": "item",
           "title": "prosodylab.alignertools",
-          "description": null,
+          "description": "prosodylab/prosodylab.alignertools",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5332,7 +5332,7 @@
             "open_issues": 567,
             "owner": "ankitects",
             "repo": "anki",
-            "stars": 31718,
+            "stars": 31720,
             "topics": []
           },
           "first_seen": "2026-08-28T06:10:20.696Z"
@@ -5401,7 +5401,7 @@
         {
           "node_type": "item",
           "title": "pocketsphinx-android-demo",
-          "description": null,
+          "description": "cmusphinx/pocketsphinx-android-demo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6125,7 +6125,7 @@
         {
           "node_type": "item",
           "title": "startR",
-          "description": null,
+          "description": "FieldDB/startR",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8805,7 +8805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:13:58.572Z",
+    "last_updated": "2026-10-03T04:54:50.836Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for the conservation, development, and documentation of low resource (human) languages.",

@@ -12,7 +12,7 @@ A white paper describing this repository was published at the LREC 2016 CCURL Wo
 
 ## Contribute
 
-To edit this list on GitHub, simply [click here](https://github.com/RichardLitt/low-resource-languages/edit/master/README.md) ⭐ 459 | 🐛 2 | 🌐 TeX | 📅 2026-10-02. If you would like to discuss anything at all related to this, please [open an issue](https://github.com/RichardLitt/low-resource-languages/issues) ⭐ 459 | 🐛 2 | 🌐 TeX | 📅 2026-10-02. If you know of any resource available that is not on this list, please add it, either using the link above or by submitting pull requests.
+To edit this list on GitHub, simply [click here](https://github.com/RichardLitt/low-resource-languages/edit/master/README.md). If you would like to discuss anything at all related to this, please [open an issue](https://github.com/RichardLitt/low-resource-languages/issues). If you know of any resource available that is not on this list, please add it, either using the link above or by submitting pull requests.
 
 There are more details on contributing in the [CONTRIBUTING](CONTRIBUTING.md) guide.
 
@@ -112,7 +112,7 @@ Tools which are built for these languages are not included (unless relevant for 
 
 This list is particularly good at one thing; showing the kinds of tools that exist in the field, generically. However, for in depth research into a specific language or tool suite, it does not perform exceptionally well. For instance, listing all of the [Firefox language packs](https://addons.mozilla.org/eu/firefox/language-tools/) or [Apertium language modules](https://github.com/apertium/apertium-languages) ⭐ 40 | 🐛 4 | 📅 2021-05-27 for each low resource language would be unhelpful, as would be including all of the tools available for Basque noted in the [ACL Wiki](https://aclweb.org/aclwiki/Resources_for_Basque), which would mainly mean cataloguing tools through the [IXA group](http://ixa.si.ehu.es/produktuak?language=en), some of which are open source, and some are not. Instead, view this list as a starting point for more research.
 
-Looking for resources for code languages? Take a look at [the awesome lists collection](https://github.com/sindresorhus/awesome) ⭐ 513,749 | 🐛 106 | 📅 2026-09-02.
+Looking for resources for code languages? Take a look at [the awesome lists collection](https://github.com/sindresorhus/awesome) ⭐ 513,797 | 🐛 106 | 📅 2026-09-02.
 
 ## Generic Repositories
 
@@ -160,7 +160,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [UniversalDependencies docs](https://github.com/UniversalDependencies/docs) ⭐ 297 | 🐛 164 | 🌐 HTML | 📅 2026-10-02 - Universal Dependencies online documentation <http://universaldependencies.org/docs/>.
 * [giza-pp](https://github.com/moses-smt/giza-pp) ⭐ 274 | 🐛 7 | 🌐 C++ | 📅 2026-08-31 - GIZA++ is a statistical machine translation toolkit that is used to train IBM Models 1-5 and an HMM word alignment model. This package also contains the source for the mkcls tool which generates the word classes necessary for training some of the alignment models.
 * [xdxf\_makedict](https://github.com/soshial/xdxf_makedict) ⭐ 247 | 🐛 12 | 📅 2024-05-20 - XDXF dictionary format and "makedict" dictionary converting software (official repository).
-* [GlotLID](https://github.com/cisnlp/GlotLID) ⭐ 220 | 🐛 3 | 🌐 Python | 📅 2026-04-15 - Fasttext language identification with support for more than 2000 labels.
+* [GlotLID](https://github.com/cisnlp/GlotLID) ⭐ 220 | 🐛 4 | 🌐 Python | 📅 2026-04-15 - Fasttext language identification with support for more than 2000 labels.
 * [UniversalDependencies tools](https://github.com/universaldependencies/tools) ⭐ 220 | 🐛 5 | 🌐 Perl | 📅 2026-10-02 - Various utilities for processing the data.
 * [morfessor](https://github.com/aalto-speech/morfessor) ⭐ 208 | 🐛 1 | 🌐 Python | 📅 2020-10-06 - Morfessor is a tool for unsupervised and semi-supervised morphological segmentation.
 * [jQuery.IME](https://github.com/wikimedia/jquery.ime) ⭐ 190 | 🐛 72 | 🌐 JavaScript | 📅 2026-09-22 - jQuery Input Method Editor used on Wikipedia
@@ -197,7 +197,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [nabu](https://github.com/nabu-catalog/nabu) ⭐ 21 | 🐛 7 | 🌐 Ruby | 📅 2026-09-23 - nabu is a digital media item management system that provides a catalog of audio and video items, metadata for these items, and information about the workflow status of the items. [www.paradisec.org.au](http://www.paradisec.org.au)
 * [pressagio](https://github.com/cidles/pressagio) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2019-11-18 - Pressagio is a library that predicts text based on n-gram models. For example, you can send a string and the library will return the most likely word completions for the last token in the string.
 * [CTK](https://github.com/LowResourceLanguages/champollion) ⭐ 18 | 🐛 0 | 🌐 Perl | 📅 2016-03-14 - Built around LDC's champollion sentence aligner kernel, Champollion Tool Kit (CTK) aims to providing ready-to-use parallel text sentence alignment tools for as many language pairs as possible. (Original project is on SourceForge: <http://champollion.sourceforge.net>).
-* [bible-corpus-tools](https://github.com/christos-c/bible-corpus-tools) ⭐ 16 | 🐛 0 | 🌐 Java | 📅 2022-10-10 - A collection of tools for reading/processing the multilingual Bible corpus.
+* [bible-corpus-tools](https://github.com/christos-c/bible-corpus-tools) ⭐ 17 | 🐛 0 | 🌐 Java | 📅 2022-10-10 - A collection of tools for reading/processing the multilingual Bible corpus.
 * [dative](https://github.com/dativebase/dative) ⭐ 16 | 🐛 179 | 🌐 CoffeeScript | 📅 2023-04-01 - A single-page application that interacts with multiple linguistic fieldwork web service databases. [Website](http://www.dative.ca).
 * [Gramadóir](https://github.com/kscanne/gramadoir) ⭐ 16 | 🐛 2 | 🌐 Perl | 📅 2026-03-30 - Grammar checking engine that is designed for the rapid development of grammar checkers for minority languages and other languages with limited computational resources.
 * [hfst-ospell](https://github.com/hfst/hfst-ospell) ⭐ 15 | 🐛 13 | 🌐 C++ | 📅 2024-02-20 - HFST spell checker library and command line tool.
@@ -314,7 +314,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 
 * [Keyboard](https://github.com/Mottie/Keyboard) ⭐ 1,801 | 🐛 113 | 🌐 JavaScript | 📅 2022-08-24 - Virtual Keyboard using jQuery \~ <https://mottie.github.io/Keyboard/>.
 * [Keyboard layout editor](https://github.com/ijprest/keyboard-layout-editor) ⭐ 1,520 | 🐛 187 | 🌐 JavaScript | 📅 2024-09-17 - Keyboard Layout Editor <http://www.keyboard-layout-editor.com>
-* [Keyman](https://github.com/keymanapp/keyman) ⭐ 535 | 🐛 1,191 | 🌐 Pascal | 📅 2026-10-02 - Keyman cross platform input methods. Keyman makes it possible for you to type in over 1,000 languages on Windows, iPhone, iPad, Android tablets and phones, and even instantly in your web browser. [Website](https://keyman.com/).
+* [Keyman](https://github.com/keymanapp/keyman) ⭐ 535 | 🐛 1,191 | 🌐 Pascal | 📅 2026-10-03 - Keyman cross platform input methods. Keyman makes it possible for you to type in over 1,000 languages on Windows, iPhone, iPad, Android tablets and phones, and even instantly in your web browser. [Website](https://keyman.com/).
 * [keyboardlayouteditor](https://github.com/simos/keyboardlayouteditor) ⭐ 257 | 🐛 39 | 🌐 Python | 📅 2022-06-17 - Keyboard Layout Editor <https://code.google.com/archive/p/keyboardlayouteditor/>.
 * [Keyboards](https://github.com/keymanapp/keyboards) ⭐ 209 | 🐛 54 | 🌐 HTML | 📅 2026-10-02 - Open Source Keyman keyboards.
 * [jQuery.IME](https://github.com/wikimedia/jquery.ime) ⭐ 190 | 🐛 72 | 🌐 JavaScript | 📅 2026-09-22 - jQuery Input Method Editor used on Wikipedia
@@ -428,7 +428,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 
 ## Flashcards
 
-* [Anki](https://github.com/dae/anki) ⭐ 31,718 | 🐛 567 | 🌐 Rust | 📅 2026-10-02 - Anki is a program to make and share flaschard decks (including audio) for any language or writing system. <https://apps.ankiweb.net/>.
+* [Anki](https://github.com/dae/anki) ⭐ 31,720 | 🐛 567 | 🌐 Rust | 📅 2026-10-02 - Anki is a program to make and share flaschard decks (including audio) for any language or writing system. <https://apps.ankiweb.net/>.
 * [awesome-anki](https://github.com/tianshanghong/awesome-anki) ⭐ 2,102 | 🐛 16 | 📅 2026-01-02 - A curated list of awesome Anki add-ons, decks and resources.
 * [VocabLift](https://github.com/somelinguist/VocabLift) ⭐ 3 | 🐛 3 | 🌐 JavaScript | 📅 2014-06-27 - Language-learning tool that uses vocabulary from LIFT-format dictionaries produced by programs such as Fieldworks Language Explorer and WeSay.
 
