@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-01T23:34:53Z",
-            "open_issues": 251,
+            "open_issues": 249,
             "owner": "nltk",
             "repo": "nltk",
-            "stars": 14731,
+            "stars": 14732,
             "topics": [
               "machine-learning",
               "natural-language-processing",
@@ -171,7 +171,7 @@
                 "open_issues": 56,
                 "owner": "naptha",
                 "repo": "tesseract.js",
-                "stars": 38753,
+                "stars": 38751,
                 "topics": [
                   "deep-learning",
                   "javascript",
@@ -216,10 +216,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-01T23:34:53Z",
-                "open_issues": 251,
+                "open_issues": 249,
                 "owner": "nltk",
                 "repo": "nltk",
-                "stars": 14731,
+                "stars": 14732,
                 "topics": [
                   "machine-learning",
                   "natural-language-processing",
@@ -246,7 +246,7 @@
                 "open_issues": 88,
                 "owner": "NaturalNode",
                 "repo": "natural",
-                "stars": 10880,
+                "stars": 10881,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:10:20.696Z"
@@ -264,10 +264,10 @@
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-02T08:19:18Z",
-                "open_issues": 16,
+                "open_issues": 17,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10425,
+                "stars": 10428,
                 "topics": [
                   "audio",
                   "javascript",
@@ -291,7 +291,7 @@
                 "id": 11008076,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-02T16:12:51Z",
+                "last_commit": "2026-10-03T15:40:34Z",
                 "open_issues": 195,
                 "owner": "stanfordnlp",
                 "repo": "CoreNLP",
@@ -318,7 +318,7 @@
                 "id": 104854615,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T05:41:07Z",
+                "last_commit": "2026-10-03T23:03:08Z",
                 "open_issues": 92,
                 "owner": "stanfordnlp",
                 "repo": "stanza",
@@ -386,7 +386,7 @@
                 "open_issues": 103,
                 "owner": "hunspell",
                 "repo": "hunspell",
-                "stars": 2598,
+                "stars": 2600,
                 "topics": [
                   "natural-language-processing",
                   "spell-check",
@@ -477,7 +477,7 @@
                 "id": 2740148,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T18:46:38Z",
+                "last_commit": "2026-10-03T23:49:58Z",
                 "open_issues": 18,
                 "owner": "apache",
                 "repo": "opennlp",
@@ -506,10 +506,10 @@
                 "language": "Java",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-02T21:12:40Z",
-                "open_issues": 1028,
+                "open_issues": 1033,
                 "owner": "IQSS",
                 "repo": "dataverse",
-                "stars": 1074,
+                "stars": 1075,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -595,7 +595,7 @@
                 "open_issues": 47,
                 "owner": "dasmith",
                 "repo": "stanford-corenlp-python",
-                "stars": 610,
+                "stars": 609,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:10:20.696Z"
@@ -711,7 +711,7 @@
                 "id": 18795673,
                 "language": "HTML",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T14:43:23Z",
+                "last_commit": "2026-10-03T22:36:57Z",
                 "open_issues": 164,
                 "owner": "UniversalDependencies",
                 "repo": "docs",
@@ -757,7 +757,7 @@
                 "open_issues": 12,
                 "owner": "soshial",
                 "repo": "xdxf_makedict",
-                "stars": 247,
+                "stars": 248,
                 "topics": [
                   "dictionaries",
                   "dictionary-format",
@@ -823,7 +823,7 @@
                 "id": 19850189,
                 "language": "Perl",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-02T21:30:33Z",
+                "last_commit": "2026-10-03T23:04:47Z",
                 "open_issues": 5,
                 "owner": "UniversalDependencies",
                 "repo": "tools",
@@ -1295,7 +1295,7 @@
                 "id": 14133680,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-03T01:03:10Z",
+                "last_commit": "2026-10-03T10:53:32Z",
                 "open_issues": 89,
                 "owner": "BloomBooks",
                 "repo": "BloomDesktop",
@@ -1346,6 +1346,37 @@
                   "language-translation",
                   "machine-translation",
                   "natural-language-processing"
+                ]
+              },
+              "first_seen": "2026-08-28T06:10:20.696Z"
+            },
+            {
+              "node_type": "item",
+              "title": "kbdgen",
+              "description": "Generate keyboards and keyboard layouts for Windows, macOS, X11, iOS, Android and Chrome, from a single, simple yaml file. Also registers languages unknown to Windows, so that after installation, there is a correct and robust association between the designated BCP 47 code (including full support for ISO 639-3) and installed language tools such as keyboards, spelling checkers and other tools.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The next iteration of a Rust keyboard layout generator",
+                "homepage": "https://divvun.github.io/kbdgen/",
+                "id": 461815595,
+                "language": "Rust",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-14T20:40:36Z",
+                "open_issues": 16,
+                "owner": "divvun",
+                "repo": "kbdgen",
+                "stars": 25,
+                "topics": [
+                  "android",
+                  "chromeos",
+                  "generator",
+                  "ios",
+                  "keyboard",
+                  "linux",
+                  "macos",
+                  "svg",
+                  "windows"
                 ]
               },
               "first_seen": "2026-08-28T06:10:20.696Z"
@@ -1440,37 +1471,6 @@
                 "repo": "hundict",
                 "stars": 24,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T06:10:20.696Z"
-            },
-            {
-              "node_type": "item",
-              "title": "kbdgen",
-              "description": "Generate keyboards and keyboard layouts for Windows, macOS, X11, iOS, Android and Chrome, from a single, simple yaml file. Also registers languages unknown to Windows, so that after installation, there is a correct and robust association between the designated BCP 47 code (including full support for ISO 639-3) and installed language tools such as keyboards, spelling checkers and other tools.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The next iteration of a Rust keyboard layout generator",
-                "homepage": "https://divvun.github.io/kbdgen/",
-                "id": 461815595,
-                "language": "Rust",
-                "license": "Apache-2.0",
-                "last_commit": "2026-09-14T20:40:36Z",
-                "open_issues": 16,
-                "owner": "divvun",
-                "repo": "kbdgen",
-                "stars": 24,
-                "topics": [
-                  "android",
-                  "chromeos",
-                  "generator",
-                  "ios",
-                  "keyboard",
-                  "linux",
-                  "macos",
-                  "svg",
-                  "windows"
-                ]
               },
               "first_seen": "2026-08-28T06:10:20.696Z"
             },
@@ -3731,8 +3731,8 @@
             "id": 26063183,
             "language": "Pascal",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T03:27:19Z",
-            "open_issues": 1191,
+            "last_commit": "2026-10-03T18:03:58Z",
+            "open_issues": 1192,
             "owner": "keymanapp",
             "repo": "keyman",
             "stars": 535,
@@ -3839,7 +3839,7 @@
             "open_issues": 16,
             "owner": "divvun",
             "repo": "kbdgen",
-            "stars": 24,
+            "stars": 25,
             "topics": [
               "android",
               "chromeos",
@@ -4153,7 +4153,7 @@
             "open_issues": 12,
             "owner": "soshial",
             "repo": "xdxf_makedict",
-            "stars": 247,
+            "stars": 248,
             "topics": [
               "dictionaries",
               "dictionary-format",
@@ -4259,7 +4259,7 @@
             "open_issues": 132,
             "owner": "worldveil",
             "repo": "dejavu",
-            "stars": 6787,
+            "stars": 6788,
             "topics": []
           },
           "first_seen": "2026-08-28T06:10:20.696Z"
@@ -4309,7 +4309,7 @@
             "open_issues": 39,
             "owner": "cmusphinx",
             "repo": "pocketsphinx",
-            "stars": 4346,
+            "stars": 4347,
             "topics": [
               "c",
               "python",
@@ -5329,10 +5329,10 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T22:13:43Z",
-            "open_issues": 567,
+            "open_issues": 570,
             "owner": "ankitects",
             "repo": "anki",
-            "stars": 31720,
+            "stars": 31731,
             "topics": []
           },
           "first_seen": "2026-08-28T06:10:20.696Z"
@@ -5350,7 +5350,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-01-02T01:46:09Z",
-            "open_issues": 16,
+            "open_issues": 17,
             "owner": "tianshanghong",
             "repo": "awesome-anki",
             "stars": 2102,
@@ -7663,7 +7663,7 @@
                     "open_issues": 59,
                     "owner": "moment",
                     "repo": "moment",
-                    "stars": 47901,
+                    "stars": 47902,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:10:20.696Z"
@@ -8805,7 +8805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:54:50.836Z",
+    "last_updated": "2026-10-04T00:44:03.920Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for the conservation, development, and documentation of low resource (human) languages.",
