@@ -15,11 +15,11 @@
             "id": 299862,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T11:46:39Z",
-            "open_issues": 226,
+            "last_commit": "2026-10-17T17:18:57Z",
+            "open_issues": 221,
             "owner": "nltk",
             "repo": "nltk",
-            "stars": 14741,
+            "stars": 14742,
             "topics": [
               "machine-learning",
               "natural-language-processing",
@@ -71,7 +71,7 @@
             "open_issues": 17,
             "owner": "AI4Bharat",
             "repo": "IndicTrans2",
-            "stars": 481,
+            "stars": 482,
             "topics": []
           },
           "first_seen": "2026-08-28T06:10:20.696Z"
@@ -171,7 +171,7 @@
                 "open_issues": 57,
                 "owner": "naptha",
                 "repo": "tesseract.js",
-                "stars": 38766,
+                "stars": 38767,
                 "topics": [
                   "deep-learning",
                   "javascript",
@@ -215,11 +215,11 @@
                 "id": 299862,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T11:46:39Z",
-                "open_issues": 226,
+                "last_commit": "2026-10-17T17:18:57Z",
+                "open_issues": 221,
                 "owner": "nltk",
                 "repo": "nltk",
-                "stars": 14741,
+                "stars": 14742,
                 "topics": [
                   "machine-learning",
                   "natural-language-processing",
@@ -267,7 +267,7 @@
                 "open_issues": 12,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10442,
+                "stars": 10443,
                 "topics": [
                   "audio",
                   "javascript",
@@ -481,7 +481,7 @@
                 "open_issues": 21,
                 "owner": "apache",
                 "repo": "opennlp",
-                "stars": 1602,
+                "stars": 1603,
                 "topics": [
                   "apache",
                   "compling",
@@ -711,7 +711,7 @@
                 "id": 18795673,
                 "language": "HTML",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T22:28:39Z",
+                "last_commit": "2026-10-17T21:17:09Z",
                 "open_issues": 168,
                 "owner": "UniversalDependencies",
                 "repo": "docs",
@@ -823,7 +823,7 @@
                 "id": 19850189,
                 "language": "Perl",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-16T22:30:13Z",
+                "last_commit": "2026-10-17T14:17:42Z",
                 "open_issues": 7,
                 "owner": "UniversalDependencies",
                 "repo": "tools",
@@ -1002,8 +1002,8 @@
                 "id": 2569212,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-16T20:43:47Z",
-                "open_issues": 11,
+                "last_commit": "2026-10-17T12:44:35Z",
+                "open_issues": 10,
                 "owner": "sillsdev",
                 "repo": "FieldWorks",
                 "stars": 110,
@@ -1031,7 +1031,7 @@
                 "open_issues": 108,
                 "owner": "MukurtuCMS",
                 "repo": "mukurtucms",
-                "stars": 96,
+                "stars": 97,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:10:20.696Z"
@@ -1253,7 +1253,7 @@
                 "id": 37258625,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-05-17T18:59:48Z",
+                "last_commit": "2026-10-17T18:35:25Z",
                 "open_issues": 0,
                 "owner": "hunspell",
                 "repo": "mythes",
@@ -1295,8 +1295,8 @@
                 "id": 14133680,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-17T00:26:38Z",
-                "open_issues": 88,
+                "last_commit": "2026-10-17T23:02:28Z",
+                "open_issues": 75,
                 "owner": "BloomBooks",
                 "repo": "BloomDesktop",
                 "stars": 43,
@@ -1337,7 +1337,7 @@
                 "id": 7745781,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-16T16:49:23Z",
+                "last_commit": "2026-10-17T03:47:12Z",
                 "open_issues": 31,
                 "owner": "sillsdev",
                 "repo": "machine",
@@ -2352,7 +2352,7 @@
                 "id": 59014862,
                 "language": "C#",
                 "license": null,
-                "last_commit": "2026-10-13T13:36:31Z",
+                "last_commit": "2026-10-17T14:09:51Z",
                 "open_issues": 9,
                 "owner": "sillsdev",
                 "repo": "saymore",
@@ -3731,11 +3731,11 @@
             "id": 26063183,
             "language": "Pascal",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-16T20:03:22Z",
-            "open_issues": 1216,
+            "last_commit": "2026-10-17T18:07:06Z",
+            "open_issues": 1217,
             "owner": "keymanapp",
             "repo": "keyman",
-            "stars": 536,
+            "stars": 537,
             "topics": [
               "android",
               "css",
@@ -3788,7 +3788,7 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2026-10-16T16:39:53Z",
-            "open_issues": 45,
+            "open_issues": 47,
             "owner": "keymanapp",
             "repo": "keyboards",
             "stars": 209,
@@ -4309,7 +4309,7 @@
             "open_issues": 40,
             "owner": "cmusphinx",
             "repo": "pocketsphinx",
-            "stars": 4351,
+            "stars": 4350,
             "topics": [
               "c",
               "python",
@@ -4383,7 +4383,7 @@
             "open_issues": 29,
             "owner": "cmusphinx",
             "repo": "sphinx4",
-            "stars": 1438,
+            "stars": 1439,
             "topics": []
           },
           "first_seen": "2026-08-28T06:10:20.696Z"
@@ -4982,7 +4982,7 @@
             "open_issues": 42,
             "owner": "AI4Bharat",
             "repo": "Indic-TTS",
-            "stars": 411,
+            "stars": 412,
             "topics": []
           },
           "first_seen": "2026-08-28T06:10:20.696Z"
@@ -5009,7 +5009,7 @@
             "open_issues": 262,
             "owner": "kaldi-asr",
             "repo": "kaldi",
-            "stars": 15499,
+            "stars": 15500,
             "topics": [
               "c-plus-plus",
               "cuda",
@@ -5329,10 +5329,10 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-10-16T17:53:30Z",
-            "open_issues": 596,
+            "open_issues": 600,
             "owner": "ankitects",
             "repo": "anki",
-            "stars": 32063,
+            "stars": 32080,
             "topics": []
           },
           "first_seen": "2026-08-28T06:10:20.696Z"
@@ -5414,7 +5414,7 @@
             "open_issues": 12,
             "owner": "cmusphinx",
             "repo": "pocketsphinx-android-demo",
-            "stars": 560,
+            "stars": 559,
             "topics": []
           },
           "first_seen": "2026-08-28T06:10:20.696Z"
@@ -6598,6 +6598,34 @@
             },
             {
               "node_type": "item",
+              "title": "an-metri-gal",
+              "description": "Análise métrico de texto en verso en lingua galega (Galician language) gl-ES",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Análise métrico de texto en verso en lingua galega (Galician language) gl-ES",
+                "homepage": null,
+                "id": 92974973,
+                "language": "OCaml",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-07T20:30:27Z",
+                "open_issues": 1,
+                "owner": "juliojgd",
+                "repo": "an-metri-gal",
+                "stars": 4,
+                "topics": [
+                  "metrical-prosody-structures",
+                  "ocaml",
+                  "prosody",
+                  "text-analysis",
+                  "verse",
+                  "verso"
+                ]
+              },
+              "first_seen": "2026-08-28T06:10:20.696Z"
+            },
+            {
+              "node_type": "item",
               "title": "javagalician-java6",
               "description": "The Java Galician Locale is an implementation of Java localization SPIs which will allow the Java VM to use the Galician Language (locales \"gl\" and \"gl_ES\"), one of the official languages of Spain, which is not included in Sun's JVM distribution.",
               "children": [],
@@ -6618,34 +6646,6 @@
                   "java",
                   "locale",
                   "localization"
-                ]
-              },
-              "first_seen": "2026-08-28T06:10:20.696Z"
-            },
-            {
-              "node_type": "item",
-              "title": "an-metri-gal",
-              "description": "Análise métrico de texto en verso en lingua galega (Galician language) gl-ES",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Análise métrico de texto en verso en lingua galega (Galician language) gl-ES",
-                "homepage": null,
-                "id": 92974973,
-                "language": "OCaml",
-                "license": "Apache-2.0",
-                "last_commit": "2026-10-07T20:30:27Z",
-                "open_issues": 1,
-                "owner": "juliojgd",
-                "repo": "an-metri-gal",
-                "stars": 3,
-                "topics": [
-                  "metrical-prosody-structures",
-                  "ocaml",
-                  "prosody",
-                  "text-analysis",
-                  "verse",
-                  "verso"
                 ]
               },
               "first_seen": "2026-08-28T06:10:20.696Z"
@@ -7680,8 +7680,8 @@
                     "id": 12246785,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-17T00:00:37Z",
-                    "open_issues": 200,
+                    "last_commit": "2026-10-17T15:08:21Z",
+                    "open_issues": 199,
                     "owner": "wenzhixin",
                     "repo": "bootstrap-table",
                     "stars": 11809,
@@ -8805,7 +8805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T00:34:02.936Z",
+    "last_updated": "2026-10-18T00:05:48.453Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for the conservation, development, and documentation of low resource (human) languages.",
