@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-11T08:58:48Z",
-            "open_issues": 230,
+            "open_issues": 231,
             "owner": "nltk",
             "repo": "nltk",
-            "stars": 14771,
+            "stars": 14772,
             "topics": [
               "machine-learning",
               "natural-language-processing",
@@ -46,7 +46,7 @@
             "open_issues": 35,
             "owner": "anoopkunchukuttan",
             "repo": "indic_nlp_library",
-            "stars": 655,
+            "stars": 654,
             "topics": [
               "indian-languages",
               "natural-language-processing",
@@ -171,7 +171,7 @@
                 "open_issues": 63,
                 "owner": "naptha",
                 "repo": "tesseract.js",
-                "stars": 38832,
+                "stars": 38835,
                 "topics": [
                   "deep-learning",
                   "javascript",
@@ -198,7 +198,7 @@
                 "open_issues": 554,
                 "owner": "facebookresearch",
                 "repo": "fastText",
-                "stars": 26508,
+                "stars": 26507,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:10:20.696Z"
@@ -216,10 +216,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-11T08:58:48Z",
-                "open_issues": 230,
+                "open_issues": 231,
                 "owner": "nltk",
                 "repo": "nltk",
-                "stars": 14771,
+                "stars": 14772,
                 "topics": [
                   "machine-learning",
                   "natural-language-processing",
@@ -243,10 +243,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-26T07:31:15Z",
-                "open_issues": 102,
+                "open_issues": 108,
                 "owner": "NaturalNode",
                 "repo": "natural",
-                "stars": 10883,
+                "stars": 10884,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:10:20.696Z"
@@ -264,10 +264,10 @@
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-11-12T09:15:41Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10472,
+                "stars": 10473,
                 "topics": [
                   "audio",
                   "javascript",
@@ -318,7 +318,7 @@
                 "id": 104854615,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-14T23:54:01Z",
+                "last_commit": "2026-11-15T23:10:39Z",
                 "open_issues": 103,
                 "owner": "stanfordnlp",
                 "repo": "stanza",
@@ -382,7 +382,7 @@
                 "id": 37258357,
                 "language": "C++",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-11-15T00:08:36Z",
+                "last_commit": "2026-11-15T19:49:42Z",
                 "open_issues": 79,
                 "owner": "hunspell",
                 "repo": "hunspell",
@@ -436,7 +436,7 @@
                 "open_issues": 681,
                 "owner": "mozilla-b2g",
                 "repo": "gaia",
-                "stars": 2096,
+                "stars": 2095,
                 "topics": [
                   "abandoned",
                   "unmaintained"
@@ -481,7 +481,7 @@
                 "open_issues": 15,
                 "owner": "apache",
                 "repo": "opennlp",
-                "stars": 1606,
+                "stars": 1605,
                 "topics": [
                   "apache",
                   "compling",
@@ -757,7 +757,7 @@
                 "open_issues": 12,
                 "owner": "soshial",
                 "repo": "xdxf_makedict",
-                "stars": 247,
+                "stars": 248,
                 "topics": [
                   "dictionaries",
                   "dictionary-format",
@@ -1052,7 +1052,7 @@
                 "open_issues": 15,
                 "owner": "delph-in",
                 "repo": "pydelphin",
-                "stars": 91,
+                "stars": 92,
                 "topics": [
                   "delph-in",
                   "hpsg",
@@ -1226,7 +1226,7 @@
                 "id": 15614464,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-13T18:07:04Z",
+                "last_commit": "2026-11-15T11:45:01Z",
                 "open_issues": 34,
                 "owner": "sillsdev",
                 "repo": "libpalaso",
@@ -1295,7 +1295,7 @@
                 "id": 14133680,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-14T23:59:23Z",
+                "last_commit": "2026-11-15T03:32:52Z",
                 "open_issues": 73,
                 "owner": "BloomBooks",
                 "repo": "BloomDesktop",
@@ -1337,8 +1337,8 @@
                 "id": 7745781,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-14T18:49:43Z",
-                "open_issues": 71,
+                "last_commit": "2026-11-15T20:41:21Z",
+                "open_issues": 72,
                 "owner": "sillsdev",
                 "repo": "machine",
                 "stars": 29,
@@ -1347,6 +1347,27 @@
                   "machine-translation",
                   "natural-language-processing"
                 ]
+              },
+              "first_seen": "2026-08-28T06:10:20.696Z"
+            },
+            {
+              "node_type": "item",
+              "title": "TECkit",
+              "description": "A Text Encoding Conversion toolkit.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A Text Encoding Conversion toolkit",
+                "homepage": "https://software.sil.org/teckit/",
+                "id": 56601777,
+                "language": "C",
+                "license": "NOASSERTION",
+                "last_commit": "2026-09-17T21:54:42Z",
+                "open_issues": 3,
+                "owner": "silnrsi",
+                "repo": "teckit",
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:10:20.696Z"
             },
@@ -1408,27 +1429,6 @@
                   "nlp",
                   "pepper"
                 ]
-              },
-              "first_seen": "2026-08-28T06:10:20.696Z"
-            },
-            {
-              "node_type": "item",
-              "title": "TECkit",
-              "description": "A Text Encoding Conversion toolkit.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A Text Encoding Conversion toolkit",
-                "homepage": "https://software.sil.org/teckit/",
-                "id": 56601777,
-                "language": "C",
-                "license": "NOASSERTION",
-                "last_commit": "2026-09-17T21:54:42Z",
-                "open_issues": 3,
-                "owner": "silnrsi",
-                "repo": "teckit",
-                "stars": 25,
-                "topics": []
               },
               "first_seen": "2026-08-28T06:10:20.696Z"
             },
@@ -1691,6 +1691,29 @@
             },
             {
               "node_type": "item",
+              "title": "hfst-ospell",
+              "description": "HFST spell checker library and command line tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "HFST spell checker library and command line tool",
+                "homepage": null,
+                "id": 53049269,
+                "language": "C++",
+                "license": "Apache-2.0",
+                "last_commit": "2024-02-20T11:03:32Z",
+                "open_issues": 13,
+                "owner": "hfst",
+                "repo": "hfst-ospell",
+                "stars": 16,
+                "topics": [
+                  "spellchecker"
+                ]
+              },
+              "first_seen": "2026-08-28T06:10:20.696Z"
+            },
+            {
+              "node_type": "item",
               "title": "dative",
               "description": "A single-page application that interacts with multiple linguistic fieldwork web service databases. Website.",
               "children": [],
@@ -1710,29 +1733,6 @@
                   "coffeescript",
                   "linguistics",
                   "spa"
-                ]
-              },
-              "first_seen": "2026-08-28T06:10:20.696Z"
-            },
-            {
-              "node_type": "item",
-              "title": "hfst-ospell",
-              "description": "HFST spell checker library and command line tool.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "HFST spell checker library and command line tool",
-                "homepage": null,
-                "id": 53049269,
-                "language": "C++",
-                "license": "Apache-2.0",
-                "last_commit": "2024-02-20T11:03:32Z",
-                "open_issues": 13,
-                "owner": "hfst",
-                "repo": "hfst-ospell",
-                "stars": 15,
-                "topics": [
-                  "spellchecker"
                 ]
               },
               "first_seen": "2026-08-28T06:10:20.696Z"
@@ -3732,10 +3732,10 @@
             "language": "Pascal",
             "license": "NOASSERTION",
             "last_commit": "2026-11-13T10:17:37Z",
-            "open_issues": 1173,
+            "open_issues": 1174,
             "owner": "keymanapp",
             "repo": "keyman",
-            "stars": 545,
+            "stars": 546,
             "topics": [
               "android",
               "css",
@@ -4153,7 +4153,7 @@
             "open_issues": 12,
             "owner": "soshial",
             "repo": "xdxf_makedict",
-            "stars": 247,
+            "stars": 248,
             "topics": [
               "dictionaries",
               "dictionary-format",
@@ -4309,7 +4309,7 @@
             "open_issues": 40,
             "owner": "cmusphinx",
             "repo": "pocketsphinx",
-            "stars": 4357,
+            "stars": 4356,
             "topics": [
               "c",
               "python",
@@ -4330,7 +4330,7 @@
             "id": 44983969,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-14T11:57:53Z",
+            "last_commit": "2026-11-15T18:53:07Z",
             "open_issues": 296,
             "owner": "MontrealCorpusTools",
             "repo": "Montreal-Forced-Aligner",
@@ -5328,11 +5328,11 @@
             "id": 7270538,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-14T01:51:18Z",
-            "open_issues": 604,
+            "last_commit": "2026-11-16T01:50:04Z",
+            "open_issues": 606,
             "owner": "ankitects",
             "repo": "anki",
-            "stars": 32802,
+            "stars": 32829,
             "topics": []
           },
           "first_seen": "2026-08-28T06:10:20.696Z"
@@ -7680,8 +7680,8 @@
                     "id": 12246785,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-14T15:54:19Z",
-                    "open_issues": 182,
+                    "last_commit": "2026-11-15T15:13:49Z",
+                    "open_issues": 184,
                     "owner": "wenzhixin",
                     "repo": "bootstrap-table",
                     "stars": 11813,
@@ -8805,7 +8805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T01:58:42.396Z",
+    "last_updated": "2026-11-16T02:14:07.254Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for the conservation, development, and documentation of low resource (human) languages.",
