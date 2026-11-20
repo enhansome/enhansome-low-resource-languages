@@ -19,7 +19,7 @@
             "open_issues": 229,
             "owner": "nltk",
             "repo": "nltk",
-            "stars": 14775,
+            "stars": 14774,
             "topics": [
               "machine-learning",
               "natural-language-processing",
@@ -46,7 +46,7 @@
             "open_issues": 35,
             "owner": "anoopkunchukuttan",
             "repo": "indic_nlp_library",
-            "stars": 654,
+            "stars": 653,
             "topics": [
               "indian-languages",
               "natural-language-processing",
@@ -219,7 +219,7 @@
                 "open_issues": 229,
                 "owner": "nltk",
                 "repo": "nltk",
-                "stars": 14775,
+                "stars": 14774,
                 "topics": [
                   "machine-learning",
                   "natural-language-processing",
@@ -243,7 +243,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-26T07:31:15Z",
-                "open_issues": 108,
+                "open_issues": 110,
                 "owner": "NaturalNode",
                 "repo": "natural",
                 "stars": 10884,
@@ -267,7 +267,7 @@
                 "open_issues": 12,
                 "owner": "katspaugh",
                 "repo": "wavesurfer.js",
-                "stars": 10482,
+                "stars": 10481,
                 "topics": [
                   "audio",
                   "javascript",
@@ -318,11 +318,11 @@
                 "id": 104854615,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-19T00:35:32Z",
-                "open_issues": 104,
+                "last_commit": "2026-11-20T01:51:20Z",
+                "open_issues": 103,
                 "owner": "stanfordnlp",
                 "repo": "stanza",
-                "stars": 7917,
+                "stars": 7916,
                 "topics": [
                   "artificial-intelligence",
                   "corenlp",
@@ -354,7 +354,7 @@
                 "open_issues": 7,
                 "owner": "wooorm",
                 "repo": "franc",
-                "stars": 4421,
+                "stars": 4420,
                 "topics": [
                   "classification",
                   "classify",
@@ -386,7 +386,7 @@
                 "open_issues": 79,
                 "owner": "hunspell",
                 "repo": "hunspell",
-                "stars": 2619,
+                "stars": 2618,
                 "topics": [
                   "natural-language-processing",
                   "spell-check",
@@ -415,7 +415,7 @@
                 "open_issues": 27,
                 "owner": "saffsd",
                 "repo": "langid.py",
-                "stars": 2464,
+                "stars": 2463,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:10:20.696Z"
@@ -477,11 +477,11 @@
                 "id": 2740148,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T12:00:47Z",
-                "open_issues": 22,
+                "last_commit": "2026-11-19T12:29:52Z",
+                "open_issues": 98,
                 "owner": "apache",
                 "repo": "opennlp",
-                "stars": 1606,
+                "stars": 1605,
                 "topics": [
                   "apache",
                   "compling",
@@ -505,8 +505,8 @@
                 "id": 14051004,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-18T20:50:24Z",
-                "open_issues": 1091,
+                "last_commit": "2026-11-19T21:20:14Z",
+                "open_issues": 1088,
                 "owner": "IQSS",
                 "repo": "dataverse",
                 "stars": 1079,
@@ -595,7 +595,7 @@
                 "open_issues": 47,
                 "owner": "dasmith",
                 "repo": "stanford-corenlp-python",
-                "stars": 609,
+                "stars": 608,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:10:20.696Z"
@@ -711,7 +711,7 @@
                 "id": 18795673,
                 "language": "HTML",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T11:41:25Z",
+                "last_commit": "2026-11-19T22:48:28Z",
                 "open_issues": 101,
                 "owner": "UniversalDependencies",
                 "repo": "docs",
@@ -757,7 +757,7 @@
                 "open_issues": 12,
                 "owner": "soshial",
                 "repo": "xdxf_makedict",
-                "stars": 248,
+                "stars": 249,
                 "topics": [
                   "dictionaries",
                   "dictionary-format",
@@ -788,7 +788,7 @@
                 "open_issues": 4,
                 "owner": "cisnlp",
                 "repo": "GlotLID",
-                "stars": 228,
+                "stars": 229,
                 "topics": [
                   "glot",
                   "glotcc",
@@ -870,7 +870,7 @@
                 "id": 5444100,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-30T09:02:25Z",
+                "last_commit": "2026-11-19T08:27:56Z",
                 "open_issues": 72,
                 "owner": "wikimedia",
                 "repo": "jquery.ime",
@@ -1002,8 +1002,8 @@
                 "id": 2569212,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-18T19:42:09Z",
-                "open_issues": 9,
+                "last_commit": "2026-11-19T14:51:07Z",
+                "open_issues": 8,
                 "owner": "sillsdev",
                 "repo": "FieldWorks",
                 "stars": 110,
@@ -1226,8 +1226,8 @@
                 "id": 15614464,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-18T21:09:33Z",
-                "open_issues": 38,
+                "last_commit": "2026-11-20T00:37:15Z",
+                "open_issues": 34,
                 "owner": "sillsdev",
                 "repo": "libpalaso",
                 "stars": 46,
@@ -1295,8 +1295,8 @@
                 "id": 14133680,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-19T01:48:52Z",
-                "open_issues": 76,
+                "last_commit": "2026-11-19T23:05:58Z",
+                "open_issues": 75,
                 "owner": "BloomBooks",
                 "repo": "BloomDesktop",
                 "stars": 43,
@@ -1337,7 +1337,7 @@
                 "id": 7745781,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-18T23:26:34Z",
+                "last_commit": "2026-11-20T01:06:42Z",
                 "open_issues": 73,
                 "owner": "sillsdev",
                 "repo": "machine",
@@ -1383,7 +1383,7 @@
                 "id": 461815595,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-19T00:07:48Z",
+                "last_commit": "2026-11-19T10:10:08Z",
                 "open_issues": 16,
                 "owner": "divvun",
                 "repo": "kbdgen",
@@ -1591,7 +1591,7 @@
                 "id": 2021394,
                 "language": "Ruby",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-19T03:22:28Z",
+                "last_commit": "2026-11-19T22:20:35Z",
                 "open_issues": 2,
                 "owner": "paradisec-archive",
                 "repo": "nabu",
@@ -1623,6 +1623,27 @@
             },
             {
               "node_type": "item",
+              "title": "bible-corpus-tools",
+              "description": "A collection of tools for reading/processing the multilingual Bible corpus.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A collection of tools for reading/processing the multilingual Bible corpus",
+                "homepage": null,
+                "id": 21805086,
+                "language": "Java",
+                "license": null,
+                "last_commit": "2022-10-10T13:48:56Z",
+                "open_issues": 0,
+                "owner": "christos-c",
+                "repo": "bible-corpus-tools",
+                "stars": 18,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T06:10:20.696Z"
+            },
+            {
+              "node_type": "item",
               "title": "CTK",
               "description": "Built around LDC's champollion sentence aligner kernel, Champollion Tool Kit (CTK) aims to providing ready-to-use parallel text sentence alignment tools for as many language pairs as possible. (Original project is on SourceForge: http://champollion.sourceforge.net).",
               "children": [],
@@ -1638,27 +1659,6 @@
                 "owner": "LowResourceLanguages",
                 "repo": "champollion",
                 "stars": 18,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T06:10:20.696Z"
-            },
-            {
-              "node_type": "item",
-              "title": "bible-corpus-tools",
-              "description": "A collection of tools for reading/processing the multilingual Bible corpus.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A collection of tools for reading/processing the multilingual Bible corpus",
-                "homepage": null,
-                "id": 21805086,
-                "language": "Java",
-                "license": null,
-                "last_commit": "2022-10-10T13:48:56Z",
-                "open_issues": 0,
-                "owner": "christos-c",
-                "repo": "bible-corpus-tools",
-                "stars": 17,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:10:20.696Z"
@@ -2352,8 +2352,8 @@
                 "id": 59014862,
                 "language": "C#",
                 "license": null,
-                "last_commit": "2026-11-17T21:43:50Z",
-                "open_issues": 11,
+                "last_commit": "2026-11-19T20:15:14Z",
+                "open_issues": 12,
                 "owner": "sillsdev",
                 "repo": "saymore",
                 "stars": 8,
@@ -2547,7 +2547,7 @@
                 "id": 14127818,
                 "language": "C#",
                 "license": null,
-                "last_commit": "2026-11-18T20:19:34Z",
+                "last_commit": "2026-11-19T23:19:57Z",
                 "open_issues": 25,
                 "owner": "sillsdev",
                 "repo": "chorus",
@@ -3714,7 +3714,7 @@
             "open_issues": 185,
             "owner": "ijprest",
             "repo": "keyboard-layout-editor",
-            "stars": 1531,
+            "stars": 1530,
             "topics": []
           },
           "first_seen": "2026-08-28T06:10:20.696Z"
@@ -3732,7 +3732,7 @@
             "language": "Pascal",
             "license": "NOASSERTION",
             "last_commit": "2026-11-18T21:26:58Z",
-            "open_issues": 1180,
+            "open_issues": 1182,
             "owner": "keymanapp",
             "repo": "keyman",
             "stars": 547,
@@ -3788,7 +3788,7 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2026-11-17T22:41:23Z",
-            "open_issues": 46,
+            "open_issues": 47,
             "owner": "keymanapp",
             "repo": "keyboards",
             "stars": 213,
@@ -3814,7 +3814,7 @@
             "id": 5444100,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-30T09:02:25Z",
+            "last_commit": "2026-11-19T08:27:56Z",
             "open_issues": 72,
             "owner": "wikimedia",
             "repo": "jquery.ime",
@@ -3835,7 +3835,7 @@
             "id": 461815595,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T00:07:48Z",
+            "last_commit": "2026-11-19T10:10:08Z",
             "open_issues": 16,
             "owner": "divvun",
             "repo": "kbdgen",
@@ -4153,7 +4153,7 @@
             "open_issues": 12,
             "owner": "soshial",
             "repo": "xdxf_makedict",
-            "stars": 248,
+            "stars": 249,
             "topics": [
               "dictionaries",
               "dictionary-format",
@@ -4259,7 +4259,7 @@
             "open_issues": 133,
             "owner": "worldveil",
             "repo": "dejavu",
-            "stars": 6789,
+            "stars": 6788,
             "topics": []
           },
           "first_seen": "2026-08-28T06:10:20.696Z"
@@ -4280,7 +4280,7 @@
             "open_issues": 205,
             "owner": "tyiannak",
             "repo": "pyAudioAnalysis",
-            "stars": 6273,
+            "stars": 6272,
             "topics": [
               "audio",
               "audio-analysis-tasks",
@@ -4309,7 +4309,7 @@
             "open_issues": 40,
             "owner": "cmusphinx",
             "repo": "pocketsphinx",
-            "stars": 4357,
+            "stars": 4356,
             "topics": [
               "c",
               "python",
@@ -4334,7 +4334,7 @@
             "open_issues": 292,
             "owner": "MontrealCorpusTools",
             "repo": "Montreal-Forced-Aligner",
-            "stars": 1918,
+            "stars": 1917,
             "topics": [
               "acoustic-model",
               "forced-alignment",
@@ -4362,7 +4362,7 @@
             "open_issues": 69,
             "owner": "syl22-00",
             "repo": "pocketsphinx.js",
-            "stars": 1510,
+            "stars": 1508,
             "topics": []
           },
           "first_seen": "2026-08-28T06:10:20.696Z"
@@ -4383,7 +4383,7 @@
             "open_issues": 29,
             "owner": "cmusphinx",
             "repo": "sphinx4",
-            "stars": 1440,
+            "stars": 1439,
             "topics": []
           },
           "first_seen": "2026-08-28T06:10:20.696Z"
@@ -4425,7 +4425,7 @@
             "open_issues": 5,
             "owner": "prosodylab",
             "repo": "Prosodylab-Aligner",
-            "stars": 352,
+            "stars": 351,
             "topics": []
           },
           "first_seen": "2026-08-28T06:10:20.696Z"
@@ -4956,7 +4956,7 @@
             "open_issues": 134,
             "owner": "marytts",
             "repo": "marytts",
-            "stars": 2580,
+            "stars": 2579,
             "topics": [
               "java",
               "speech-synthesis",
@@ -4982,7 +4982,7 @@
             "open_issues": 42,
             "owner": "AI4Bharat",
             "repo": "Indic-TTS",
-            "stars": 420,
+            "stars": 421,
             "topics": []
           },
           "first_seen": "2026-08-28T06:10:20.696Z"
@@ -5009,7 +5009,7 @@
             "open_issues": 262,
             "owner": "kaldi-asr",
             "repo": "kaldi",
-            "stars": 15518,
+            "stars": 15516,
             "topics": [
               "c-plus-plus",
               "cuda",
@@ -5188,8 +5188,8 @@
             "id": 1316444,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-11T09:48:16Z",
-            "open_issues": 87,
+            "last_commit": "2026-11-19T15:46:18Z",
+            "open_issues": 86,
             "owner": "open-cogsci",
             "repo": "OpenSesame",
             "stars": 285,
@@ -5328,11 +5328,11 @@
             "id": 7270538,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-18T09:10:36Z",
-            "open_issues": 605,
+            "last_commit": "2026-11-19T21:42:53Z",
+            "open_issues": 608,
             "owner": "ankitects",
             "repo": "anki",
-            "stars": 32900,
+            "stars": 32917,
             "topics": []
           },
           "first_seen": "2026-08-28T06:10:20.696Z"
@@ -5350,7 +5350,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-01-02T01:46:09Z",
-            "open_issues": 27,
+            "open_issues": 28,
             "owner": "tianshanghong",
             "repo": "awesome-anki",
             "stars": 2124,
@@ -6207,7 +6207,7 @@
             "open_issues": 29,
             "owner": "notofonts",
             "repo": "noto-fonts",
-            "stars": 2498,
+            "stars": 2497,
             "topics": []
           },
           "first_seen": "2026-08-28T06:10:20.696Z"
@@ -6255,7 +6255,7 @@
             "open_issues": 3,
             "owner": "christos-c",
             "repo": "bible-corpus",
-            "stars": 203,
+            "stars": 204,
             "topics": [
               "bible",
               "bible-corpus",
@@ -7663,7 +7663,7 @@
                     "open_issues": 74,
                     "owner": "moment",
                     "repo": "moment",
-                    "stars": 47871,
+                    "stars": 47870,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:10:20.696Z"
@@ -7680,11 +7680,11 @@
                     "id": 12246785,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-18T17:57:57Z",
+                    "last_commit": "2026-11-20T00:00:20Z",
                     "open_issues": 182,
                     "owner": "wenzhixin",
                     "repo": "bootstrap-table",
-                    "stars": 11811,
+                    "stars": 11809,
                     "topics": [
                       "bootstrap",
                       "bootstrap-table",
@@ -8805,7 +8805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T03:38:41.225Z",
+    "last_updated": "2026-11-20T03:27:37.728Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for the conservation, development, and documentation of low resource (human) languages.",
