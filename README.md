@@ -24,7 +24,7 @@ If you're interested in discussing the list in some offline capacity, get in tou
 
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc) ⭐ 4,475 | 🐛 29 | 🌐 JavaScript | 📅 2026-10-19*
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc) ⭐ 4,476 | 🐛 29 | 🌐 JavaScript | 📅 2026-10-19*
 
 * [Definitions](#definitions)
 * [Generic Repositories](#generic-repositories)
@@ -112,13 +112,13 @@ Tools which are built for these languages are not included (unless relevant for 
 
 This list is particularly good at one thing; showing the kinds of tools that exist in the field, generically. However, for in depth research into a specific language or tool suite, it does not perform exceptionally well. For instance, listing all of the [Firefox language packs](https://addons.mozilla.org/eu/firefox/language-tools/) or [Apertium language modules](https://github.com/apertium/apertium-languages) ⭐ 40 | 🐛 4 | 📅 2021-05-27 for each low resource language would be unhelpful, as would be including all of the tools available for Basque noted in the [ACL Wiki](https://aclweb.org/aclwiki/Resources_for_Basque), which would mainly mean cataloguing tools through the [IXA group](http://ixa.si.ehu.es/produktuak?language=en), some of which are open source, and some are not. Instead, view this list as a starting point for more research.
 
-Looking for resources for code languages? Take a look at [the awesome lists collection](https://github.com/sindresorhus/awesome) ⭐ 540,081 | 🐛 103 | 📅 2026-09-02.
+Looking for resources for code languages? Take a look at [the awesome lists collection](https://github.com/sindresorhus/awesome) ⭐ 540,553 | 🐛 103 | 📅 2026-09-02.
 
 ## Generic Repositories
 
-* [NLTK](https://github.com/nltk/nltk) ⭐ 14,777 | 🐛 232 | 🌐 Python | 📅 2026-11-16 - *Python* Natural Language Tool Kit. NLTK Source <http://www.nltk.org/>.
+* [NLTK](https://github.com/nltk/nltk) ⭐ 14,778 | 🐛 234 | 🌐 Python | 📅 2026-11-16 - *Python* Natural Language Tool Kit. NLTK Source <http://www.nltk.org/>.
 * [Indic NLP Library](https://github.com/anoopkunchukuttan/indic_nlp_library) ⭐ 653 | 🐛 35 | 🌐 Python | 📅 2024-06-07 - Python library for common text processing and NLP tasks in Indian languages including tokenization, normalization, and transliteration.
-* [IndicTrans2](https://github.com/AI4Bharat/IndicTrans2) ⭐ 499 | 🐛 18 | 🌐 Python | 📅 2025-10-03 - Open-source translation models for all 22 scheduled languages of India.
+* [IndicTrans2](https://github.com/AI4Bharat/IndicTrans2) ⭐ 500 | 🐛 18 | 🌐 Python | 📅 2025-10-03 - Open-source translation models for all 22 scheduled languages of India.
 * [CorpusTools](https://github.com/PhonologicalCorpusTools/CorpusTools) ⭐ 125 | 🐛 118 | 🌐 Python | 📅 2025-05-24 - Phonological CorpusTools <http://phonologicalcorpustools.github.io/CorpusTools/>.
 * [iLanguage](https://github.com/iLanguage/iLanguage) ⭐ 22 | 🐛 5 | 🌐 JavaScript | 📅 2017-11-28 - A semi-unsupervised language independent morphological analyzer useful for stemming unknown language text, or getting a rough estimate of possible parses for morphemes in a word. Input: a corpus. Uses compression, maximum entropy and fieldlinguistics.
 * [Apertium](http://apertium.org/) - A free/open-source machine translation platform, initially aimed at related-language pairs but expanded to deal with more divergent language pairs (Wikipedia-like army of other MT linguists). Wikipedia has a [list](https://en.wikipedia.org/wiki/Apertium) of all language pairs.
@@ -135,19 +135,19 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 
 ### Software
 
-* [Tesseract.js](https://github.com/naptha/tesseract.js) ⭐ 38,846 | 🐛 65 | 🌐 JavaScript | 📅 2026-05-17 - Pure Javascript OCR for 62 Languages 📖🎉🖥 <http://tesseract.projectnaptha.com/>.
+* [Tesseract.js](https://github.com/naptha/tesseract.js) ⭐ 38,849 | 🐛 65 | 🌐 JavaScript | 📅 2026-05-17 - Pure Javascript OCR for 62 Languages 📖🎉🖥 <http://tesseract.projectnaptha.com/>.
 * [fastText](https://github.com/facebookresearch/fastText) ⚠️ Archived - Library for fast text representation and classification.
-* [NLTK](https://github.com/nltk/nltk) ⭐ 14,777 | 🐛 232 | 🌐 Python | 📅 2026-11-16 - *Python* Natural Language Tool Kit. NLTK Source <http://www.nltk.org/>.
+* [NLTK](https://github.com/nltk/nltk) ⭐ 14,778 | 🐛 234 | 🌐 Python | 📅 2026-11-16 - *Python* Natural Language Tool Kit. NLTK Source <http://www.nltk.org/>.
 * [Natural](https://github.com/NaturalNode/natural) ⭐ 10,884 | 🐛 110 | 🌐 JavaScript | 📅 2026-10-26 - *Javascript* general natural language facilities for node.
-* [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) ⭐ 10,481 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-12 - Navigable waveform built on Web Audio and Canvas <https://wavesurfer-js.org/> (Also has an ELAN plugin).
-* [Stanford CoreNLP](https://github.com/stanfordnlp/CoreNLP) ⭐ 10,129 | 🐛 197 | 🌐 Java | 📅 2026-11-20 - Stanford CoreNLP: A Java suite of core NLP tools. <https://stanfordnlp.github.io/CoreNLP/>.
-* [stanza](https://github.com/stanfordnlp/stanza) ⭐ 7,920 | 🐛 103 | 🌐 Python | 📅 2026-11-20 - Stanford NLP group's shared Python tools.
+* [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) ⭐ 10,482 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-12 - Navigable waveform built on Web Audio and Canvas <https://wavesurfer-js.org/> (Also has an ELAN plugin).
+* [Stanford CoreNLP](https://github.com/stanfordnlp/CoreNLP) ⭐ 10,129 | 🐛 197 | 🌐 Java | 📅 2026-11-21 - Stanford CoreNLP: A Java suite of core NLP tools. <https://stanfordnlp.github.io/CoreNLP/>.
+* [stanza](https://github.com/stanfordnlp/stanza) ⭐ 7,921 | 🐛 103 | 🌐 Python | 📅 2026-11-20 - Stanford NLP group's shared Python tools.
 * [Franc](https://github.com/wooorm/franc) ⭐ 4,421 | 🐛 7 | 🌐 JavaScript | 📅 2024-06-12 - Natural language detection <https://wooorm.com/franc/>.
-* [hunspell](https://github.com/hunspell/hunspell) ⭐ 2,620 | 🐛 80 | 🌐 C++ | 📅 2026-11-15 - Spell checker and morphological analyzer library and program designed for languages with rich morphology and complex word compounding or character encoding.
+* [hunspell](https://github.com/hunspell/hunspell) ⭐ 2,620 | 🐛 80 | 🌐 C++ | 📅 2026-11-21 - Spell checker and morphological analyzer library and program designed for languages with rich morphology and complex word compounding or character encoding.
 * [langid.py](https://github.com/saffsd/langid.py) ⭐ 2,463 | 🐛 27 | 🌐 Python | 📅 2020-01-01 - Stand-alone language identification system.
 * [Gaia](https://github.com/mozilla-b2g/gaia) ⚠️ Archived - Gaia is a HTML5-based Phone UI for the Boot 2 Gecko Project. NOTE: For details of what branches are used for what releases, see [the wiki](https://wiki.mozilla.org/B2G). If you're interested in setting up a keyboard in new language, see [this](https://developer.mozilla.org/en-US/docs/Archive/B2G_OS/Developing_Gaia/Customizing_the_keyboard).
 * [mosesdecoder](https://github.com/moses-smt/mosesdecoder) ⭐ 1,624 | 🐛 7 | 🌐 Roff | 📅 2025-03-28 - Moses, the machine translation system.
-* [OpenNLP](https://github.com/apache/opennlp) ⭐ 1,605 | 🐛 99 | 🌐 Java | 📅 2026-11-20 - The Apache OpenNLP library is a machine learning based toolkit for the processing of natural language text. [Website](https://opennlp.apache.org).
+* [OpenNLP](https://github.com/apache/opennlp) ⭐ 1,605 | 🐛 95 | 🌐 Java | 📅 2026-11-21 - The Apache OpenNLP library is a machine learning based toolkit for the processing of natural language text. [Website](https://opennlp.apache.org).
 * [dataverse](https://github.com/IQSS/dataverse) ⭐ 1,079 | 🐛 1,089 | 🌐 Java | 📅 2026-11-20 - A data repository framework to share and publish research data.
 * [l20n.js](https://github.com/l20n/l20n.js) ⚠️ Archived - L20n reinvents software localization. Users should be able to benefit from the entire expressive power of natural languages. L20n keeps simple things simple, and at the same time makes complex things possible. This is the JavaScript implementation of L20n. <http://l20n.org>.
 * [epitran](https://github.com/dmort27/epitran) ⭐ 843 | 🐛 40 | 🌐 Python | 📅 2026-10-08 - Grapheme to Phoneme conversion (G2P) for many low-resource languages.
@@ -157,7 +157,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [enchant](https://github.com/AbiWord/enchant) ⭐ 403 | 🐛 18 | 🌐 Vala | 📅 2026-11-17 - enchant spellchecking library <https://abiword.github.io/enchant/>.
 * [wikipron](https://github.com/CUNY-CL/wikipron) ⭐ 376 | 🐛 8 | 🌐 Python | 📅 2026-07-23 -- retrives IPA pronunciations for Wiktionary entries
 * [long-press](https://github.com/quentint/long-press) ⚠️ Archived - jQuery plugin to ease the writing of accented or rare characters. <http://toki-woki.net/lab/long-press/>.
-* [UniversalDependencies docs](https://github.com/UniversalDependencies/docs) ⭐ 297 | 🐛 101 | 🌐 HTML | 📅 2026-11-19 - Universal Dependencies online documentation <http://universaldependencies.org/docs/>.
+* [UniversalDependencies docs](https://github.com/UniversalDependencies/docs) ⭐ 297 | 🐛 102 | 🌐 HTML | 📅 2026-11-21 - Universal Dependencies online documentation <http://universaldependencies.org/docs/>.
 * [giza-pp](https://github.com/moses-smt/giza-pp) ⭐ 275 | 🐛 7 | 🌐 C++ | 📅 2026-08-31 - GIZA++ is a statistical machine translation toolkit that is used to train IBM Models 1-5 and an HMM word alignment model. This package also contains the source for the mkcls tool which generates the word classes necessary for training some of the alignment models.
 * [xdxf\_makedict](https://github.com/soshial/xdxf_makedict) ⭐ 249 | 🐛 12 | 📅 2024-05-20 - XDXF dictionary format and "makedict" dictionary converting software (official repository).
 * [GlotLID](https://github.com/cisnlp/GlotLID) ⭐ 229 | 🐛 4 | 🌐 Python | 📅 2026-11-09 - Fasttext language identification with support for more than 2000 labels.
@@ -178,12 +178,12 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [wikt2dict](https://github.com/juditacs/wikt2dict) ⭐ 54 | 🐛 5 | 🌐 Python | 📅 2022-08-17 - Wiktionary parser tool for many language editions.
 * [discoursegraphs](https://github.com/arne-cl/discoursegraphs) ⭐ 51 | 🐛 49 | 🌐 Python | 📅 2025-11-14 - Python-based tool to convert and merge multilayer annotated linguistic data.
 * [RBGParser](https://github.com/taolei87/RBGParser) ⭐ 47 | 🐛 1 | 🌐 Java | 📅 2016-01-25 - Graph-based Dependency Parser.
-* [libpalaso](https://github.com/sillsdev/libpalaso) ⭐ 46 | 🐛 36 | 🌐 C# | 📅 2026-11-20 - Palaso Library: A set of .Net libraries useful for developers of Language Software.
+* [libpalaso](https://github.com/sillsdev/libpalaso) ⭐ 46 | 🐛 36 | 🌐 C# | 📅 2026-11-22 - Palaso Library: A set of .Net libraries useful for developers of Language Software.
 * [mythes](https://github.com/hunspell/mythes) ⭐ 45 | 🐛 0 | 🌐 C++ | 📅 2026-11-06 - MyThes is a simple thesaurus that uses a structured text data file and an index file with binary search to lookup words and phrases and return information on part of speech, meanings, and synonyms.
 * [SyllabiPy](https://github.com/henchc/syllabipy) ⭐ 45 | 🐛 1 | 🌐 Python | 📅 2022-12-25 - Python interface for universal syllabification algorithms
-* [BloomDesktop](https://github.com/BloomBooks/BloomDesktop) ⭐ 43 | 🐛 71 | 🌐 C# | 📅 2026-11-21 - Bloom Desktop is a hybrid c#/javascript/html/css Windows application that dramatically "lowers the bar" for language communities who want books in their own languages. Bloom delivers a low-training, high-output system where mother tongue speakers and their advocates work together to foster both community authorship and access to external materia… <https://bloomlibrary.org/>.
+* [BloomDesktop](https://github.com/BloomBooks/BloomDesktop) ⭐ 43 | 🐛 74 | 🌐 C# | 📅 2026-11-21 - Bloom Desktop is a hybrid c#/javascript/html/css Windows application that dramatically "lowers the bar" for language communities who want books in their own languages. Bloom delivers a low-training, high-output system where mother tongue speakers and their advocates work together to foster both community authorship and access to external materia… <https://bloomlibrary.org/>.
 * [4lang](https://github.com/kornai/4lang) ⭐ 42 | 🐛 52 | 🌐 Python | 📅 2024-04-04 - Concept dictionary using Eilenberg machines.
-* [Machine](https://github.com/sillsdev/machine) ⭐ 29 | 🐛 75 | 🌐 C# | 📅 2026-11-20 - Machine is a natural language processing library for .NET that is focused on providing tools for processing resource-poor languages (used by FLEx).
+* [Machine](https://github.com/sillsdev/machine) ⭐ 29 | 🐛 75 | 🌐 C# | 📅 2026-11-22 - Machine is a natural language processing library for .NET that is focused on providing tools for processing resource-poor languages (used by FLEx).
 * [TECkit](https://github.com/silnrsi/teckit) ⭐ 26 | 🐛 3 | 🌐 C | 📅 2026-09-17 - A Text Encoding Conversion toolkit.
 * [kbdgen](https://github.com/divvun/kbdgen) ⭐ 25 | 🐛 16 | 🌐 Rust | 📅 2026-11-19 - Generate keyboards and keyboard layouts for Windows, macOS, X11, iOS, Android and Chrome, from a single, simple yaml file. Also registers languages unknown to Windows, so that after installation, there is a correct and robust association between the designated BCP 47 code (including full support for ISO 639-3) and installed language tools such as keyboards, spelling checkers and other tools.
 * [pepper](https://github.com/korpling/pepper) ⭐ 25 | 🐛 38 | 🌐 XSLT | 📅 2025-01-03 - Pepper is a pluggable, Java-based, open source converter framework for linguistic data.
@@ -228,7 +228,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [old-pyramid](https://github.com/dativebase/old-pyramid) ⭐ 8 | 🐛 18 | 🌐 Python | 📅 2023-05-23 - Online Linguistic Database migrated to the Pyramid framework.
 * [ops-devbox](https://github.com/sillsdev/ops-devbox) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2023-06-13 - Ansible playbook for a (linux) developer machine.
 * [panlex-tools](https://github.com/longnow/panlex-tools) ⭐ 8 | 🐛 5 | 🌐 Python | 📅 2022-12-08 - This package contains scripts to transform lexical resources into a format suitable for importing into PanLex. Documentation may be found at <https://dev.panlex.org>.
-* [SayMore](https://software.sil.org/saymore/) - A tool for making common Language Documentation tasks such as keeping all the resulting files and meta data organized, converting files to archive formats, and transcription. [Source](https://github.com/sillsdev/saymore) ⭐ 8 | 🐛 13 | 🌐 C# | 📅 2026-11-20.
+* [SayMore](https://software.sil.org/saymore/) - A tool for making common Language Documentation tasks such as keeping all the resulting files and meta data organized, converting files to archive formats, and transcription. [Source](https://github.com/sillsdev/saymore) ⭐ 8 | 🐛 13 | 🌐 C# | 📅 2026-11-21.
 * [exsite9](https://github.com/IntersectAustralia/exsite9) ⚠️ Archived - ExSite9 is a desktop application that was built to facilitate researchers easily and quickly tagging their data files with descriptive metadata and subsequently packaging their data files and associated metadata ready for submission to a repository. ExSite9 also allows for the structural organisation of said files within actually moving their physical location on your local file storage; allowing you to correctly organise your files and metadata ready for packaging.
 * [MacVoikko](https://github.com/bnavetta/MacVoikko) ⭐ 7 | 🐛 0 | 🌐 Objective-C | 📅 2015-01-08 - An OS X spelling server based on Voikko.
 * [pathway](https://github.com/sillsdev/pathway) ⭐ 7 | 🐛 6 | 🌐 HTML | 📅 2024-05-24 - Preparing language data for publication.
@@ -314,7 +314,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 
 * [Keyboard](https://github.com/Mottie/Keyboard) ⭐ 1,801 | 🐛 112 | 🌐 JavaScript | 📅 2022-08-24 - Virtual Keyboard using jQuery \~ <https://mottie.github.io/Keyboard/>.
 * [Keyboard layout editor](https://github.com/ijprest/keyboard-layout-editor) ⭐ 1,530 | 🐛 185 | 🌐 JavaScript | 📅 2024-09-17 - Keyboard Layout Editor <http://www.keyboard-layout-editor.com>
-* [Keyman](https://github.com/keymanapp/keyman) ⭐ 547 | 🐛 1,181 | 🌐 Pascal | 📅 2026-11-20 - Keyman cross platform input methods. Keyman makes it possible for you to type in over 1,000 languages on Windows, iPhone, iPad, Android tablets and phones, and even instantly in your web browser. [Website](https://keyman.com/).
+* [Keyman](https://github.com/keymanapp/keyman) ⭐ 547 | 🐛 1,181 | 🌐 Pascal | 📅 2026-11-21 - Keyman cross platform input methods. Keyman makes it possible for you to type in over 1,000 languages on Windows, iPhone, iPad, Android tablets and phones, and even instantly in your web browser. [Website](https://keyman.com/).
 * [keyboardlayouteditor](https://github.com/simos/keyboardlayouteditor) ⭐ 256 | 🐛 39 | 🌐 Python | 📅 2022-06-17 - Keyboard Layout Editor <https://code.google.com/archive/p/keyboardlayouteditor/>.
 * [Keyboards](https://github.com/keymanapp/keyboards) ⭐ 213 | 🐛 48 | 🌐 HTML | 📅 2026-11-17 - Open Source Keyman keyboards.
 * [jQuery.IME](https://github.com/wikimedia/jquery.ime) ⭐ 192 | 🐛 72 | 🌐 JavaScript | 📅 2026-11-19 - jQuery Input Method Editor used on Wikipedia
@@ -357,8 +357,8 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 
 * [dejavu](https://github.com/worldveil/dejavu) ⭐ 6,789 | 🐛 133 | 🌐 Python | 📅 2024-04-22 - Audio fingerprinting and recognition in Python.
 * [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) ⭐ 6,272 | 🐛 205 | 🌐 Python | 📅 2026-10-09 - Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications.
-* [pocketsphinx](https://github.com/cmusphinx/pocketsphinx) ⭐ 4,354 | 🐛 40 | 🌐 C | 📅 2026-10-13 - PocketSphinx is a lightweight speech recognition engine, specifically tuned for handheld and mobile devices, though it works equally well on the desktop.
-* [Montreal-Forced-Aligner](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner) ⭐ 1,918 | 🐛 292 | 🌐 Python | 📅 2026-11-16 - Python interface for forced text/speech alignment.
+* [pocketsphinx](https://github.com/cmusphinx/pocketsphinx) ⭐ 4,353 | 🐛 40 | 🌐 C | 📅 2026-10-13 - PocketSphinx is a lightweight speech recognition engine, specifically tuned for handheld and mobile devices, though it works equally well on the desktop.
+* [Montreal-Forced-Aligner](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner) ⭐ 1,919 | 🐛 292 | 🌐 Python | 📅 2026-11-16 - Python interface for forced text/speech alignment.
 * [pocketsphinx.js](https://github.com/syl22-00/pocketsphinx.js) ⭐ 1,508 | 🐛 69 | 🌐 JavaScript | 📅 2020-04-05 - Speech recognition in JavaScript.
 * [sphinx4](https://github.com/cmusphinx/sphinx4) ⭐ 1,439 | 🐛 29 | 🌐 Java | 📅 2022-10-18 - Pure Java speech recognition library.
 * [sphinxbase](https://github.com/cmusphinx/sphinxbase) ⚠️ Archived
@@ -419,7 +419,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 
 ## Experimentation
 
-* [OpenSesame](https://github.com/smathot/OpenSesame) ⭐ 285 | 🐛 87 | 🌐 Python | 📅 2026-11-19 - Graphical experiment builder for the social sciences.
+* [OpenSesame](https://github.com/smathot/OpenSesame) ⭐ 285 | 🐛 90 | 🌐 Python | 📅 2026-11-19 - Graphical experiment builder for the social sciences.
 * [experigen](https://github.com/tlozoot/experigen) ⭐ 36 | 🐛 3 | 🌐 HTML | 📅 2020-08-18 - A framework for creating linguistic experiments.
 * [PsychScript](https://github.com/EoinTravers/PsychScript) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2014-11-17 - A HTML5/Javascript library for running behavioural experiments online.
 * [GamifyPsycholinguisticsExperiments](https://github.com/FieldDB/GamifyPsycholinguisticsExperiments) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2012-05-10 - A simple node server to gamify linguistics experiments, runs offline on a laptop for small scale experiements and online on a server for large scale experiments. Data is sent to a Google spreadsheet. (*Fork* of a dormant project).
@@ -428,8 +428,8 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 
 ## Flashcards
 
-* [Anki](https://github.com/dae/anki) ⭐ 32,939 | 🐛 602 | 🌐 Rust | 📅 2026-11-20 - Anki is a program to make and share flaschard decks (including audio) for any language or writing system. <https://apps.ankiweb.net/>.
-* [awesome-anki](https://github.com/tianshanghong/awesome-anki) ⭐ 2,124 | 🐛 28 | 📅 2026-01-02 - A curated list of awesome Anki add-ons, decks and resources.
+* [Anki](https://github.com/dae/anki) ⭐ 32,958 | 🐛 606 | 🌐 Rust | 📅 2026-11-20 - Anki is a program to make and share flaschard decks (including audio) for any language or writing system. <https://apps.ankiweb.net/>.
+* [awesome-anki](https://github.com/tianshanghong/awesome-anki) ⭐ 2,125 | 🐛 28 | 📅 2026-01-02 - A curated list of awesome Anki add-ons, decks and resources.
 * [VocabLift](https://github.com/somelinguist/VocabLift) ⭐ 3 | 🐛 3 | 🌐 JavaScript | 📅 2014-06-27 - Language-learning tool that uses vocabulary from LIFT-format dictionaries produced by programs such as Fieldworks Language Explorer and WeSay.
 
 ## Natural language generation
@@ -701,7 +701,7 @@ For each language, we include the [ISO 639-3 code](https://en.wikipedia.org/wiki
 
 #### Internationalization and Localization (i18n/l10n)
 
-* [moment/moment](https://github.com/moment/moment) ⭐ 47,871 | 🐛 74 | 🌐 JavaScript | 📅 2026-10-08 - A lightweight date library (JavaScript).
+* [moment/moment](https://github.com/moment/moment) ⭐ 47,870 | 🐛 74 | 🌐 JavaScript | 📅 2026-10-08 - A lightweight date library (JavaScript).
 * [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) ⭐ 11,809 | 🐛 184 | 🌐 JavaScript | 📅 2026-11-21 - Bootstrap table with extra features. l10n by [@Lotuashvili](https://github.com/Lotuashvili) and [@Stichoza](https://github.com/Stichoza).
 * [ioseb/geokbd](https://github.com/ioseb/geokbd) ⭐ 58 | 🐛 1 | 🌐 JavaScript | 📅 2009-11-29 - Georgian keyboard library (JavaScript).
 * [Landish/Laravel-Ka](https://github.com/Landish/Laravel-KA) ⚠️ Archived - [Laravel](https://laravel.com/) Georgian Language Pack.
@@ -915,4 +915,4 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
